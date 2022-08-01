@@ -930,6 +930,117 @@
       }
     }
   },
+  "Fac LLSHS": {
+    "AO": {
+      "Toutes années": {
+        "Arts plastiques - aquarelle LLSHS": [8006],
+        "Carnet de croquis LLSHS": [8005],
+        "Chant LLSHS": [8001],
+        "Cinéma LLSHS": [7692],
+        "Culture entrepreneur LLSHS": [2147],
+        "Dessin LLSHS": [3677],
+        "Ecriture créative LLSHS": [7706],
+        "Engagement associatif et bénévole LLSHS": [9165],
+        "Entreprends toi LLSHS": [8542],
+        "Gravure LLSHS": [8002],
+        "Interculturalité et inclusion LLSHS": [4046],
+        "Langues des signes LLSHS": [813],
+        "Photographie LLSHS": [7998],
+        "Pratique du dessin LLSHS": [7685],
+        "Pratique musicale LLSHS": [8003],
+        "Radio LLSHS": [7999],
+        "Spectacle vivant LLSHS": [768],
+        "Théâtre et improvisation LLSHS": [8239],
+        "Communication gagnante LLSHS": [7923],
+        "Cybersécurité LLSHS": [7177],
+        "Fondements culturels de l'Europe LLSHS": [1719],
+        "Histoire de l'Art LLSHS": [1800],
+        "Informatique LLSHS (LLCER Anglais Gr1)": [1490],
+        "Informatique LLSHS (LLCER Anglais Gr2)": [1644],
+        "Informatique LLSHS (LLCER Anglais Gr3)": [1772],
+        "Informatique LLSHS (LLCER Espagnol)": [1866],
+        "Informatique LLSHS (LM)": [7058],
+        "Philosophie LLSHS": [1603],
+        "Renforcement méthodologique \"oui si\"": [5553],
+        "Sport LLSHS": [2782],
+        "Stages L3 SHS": [5537],
+        "Théâtre LLSHS": [1533]
+      }
+    },
+    "Langues": {
+      "Toutes années": {
+        "Allemand": {
+          "Allemand N 01": [824],
+          "Allemand N 02": [368],
+          "Allemand N 03": [1083],
+          "Allemand N 11": [369],
+          "Allemand N 12": [370],
+          "Allemand N 13": [375]
+        },
+        "Anglais": {
+          "Anglais N 11 GRP 1": [429],
+          "Anglais N 11 GRP 2": [432],
+          "Anglais N 11 GRP 3": [433],
+          "Anglais N 11 GRP 4": [1423],
+          "Anglais N 12 GRP 1": [405],
+          "Anglais N 12 GRP 2": [406],
+          "Anglais N 13 GRP 1": [850],
+          "Anglais N 13 GRP 2": [851]
+        },
+        "Breton": {
+          "Breton N 01": [327],
+          "Breton N 02": [328],
+          "Breton N 03": [329],
+          "Breton N 11": [4707],
+          "Breton N 12": [5096],
+          "Breton N 13": [5099]
+        },
+        "Catalan": {
+          "Catalan N 01": [574],
+          "Catalan N 02/03": [728]
+        },
+        "Chinois": {
+          "Chinois N 1 Gr1": [326],
+          "Chinois N 1 Gr2": [5713],
+          "Chinois N 02": [374],
+          "Chinois N 03": [441],
+          "Chinois N 11": [377],
+          "Chinois N 12": [2877],
+          "Chinois N 13": [5201]
+        },
+        "Espagnol": {
+          "Espagnol N 01": [759],
+          "Espagnol N 02": [349],
+          "Espagnol N 03": [507],
+          "Espagnol N 11 Grp1": [311],
+          "Espagnol N 11 Grp2": [314],
+          "Espagnol N 12": [315],
+          "Espagnol N 13": [4666]
+        },
+        "Italien": {
+          "Italien N 01 GRP 1": [331],
+          "Italien N 01 GRP 2": [332],
+          "Italien N 01 GRP 3": [7695],
+          "Italien N 02": [362],
+          "Italien N 03": [363],
+          "Italien N 11": [770],
+          "Italien N 12": [364],
+          "Italien N 13": [4671]
+        },
+        "Portugais": {
+          "Portugais N 01 GRP 1": [853],
+          "Portugais N 01 GRP 2": [854],
+          "Portugais N 02": [319],
+          "Portugais N 03": [321]
+        },
+        "Russe": {
+          "Russe N 01 Gr1": [4673],
+          "Russe N 01 Gr2": [6321],
+          "Russe N 02/03": [4680]
+        }
+      }
+    }
+  },
   "Autres (Atouts réussite)": {
     "Atouts réussite": {
       "Toutes années": {
