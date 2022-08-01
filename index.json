@@ -929,5 +929,15 @@
         "GROUPES": [1188]
       }
     }
+  },
+  "Autres (Atouts réussite)": {
+    "Atouts réussite": {
+      "Toutes années": {
+        "G1 Lorient": [4534],
+        "G2 Lorient": [6048],
+        "G1 Vannes": [2747],
+        "G2 Vannes": [2784]
+      }
+    }
   }
 }
