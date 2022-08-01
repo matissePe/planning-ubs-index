@@ -816,6 +816,91 @@
         "Réunion ERASMUS": [2252]
       }
     },
+    "LP Banque": {
+      "G1": [6670]
+    },
+    "LP Metiers de la GRH": {
+      "G1": [6667],
+      "G2": [182]
+    },
+    "Master CCA - CGAO": {
+      "M1": {
+        "G1 CCA": [4808],
+        "G1 CGAO": [3691],
+        "G2 CCA": [4546],
+        "G2 CGAO": [3643],
+        "GA CGAO": [307],
+        "GB CGAO": [308],
+        "GC CGAO": [676],
+        "GrA CCA": [4795],
+        "GrB CCA": [4804],
+        "GrC CCA": [4869]
+      },
+      "M2 CCA": {
+        "G1 CCA": [4594],
+        "G2 CCA": [613],
+        "Anglais CCA": [2123],
+        "Anglais CCA-CGAO": [2415]
+      },
+      "M2 CGAO": {
+        "G1 CGAO": [4599],
+        "G2 CGAO": [4567],
+        "GA CGAO": [4568],
+        "Grpe CGAO": [1214],
+        "Anglais CGAO": [3602],
+        "Anglais CGAO-CCA": [3603]
+      }
+    },
+    "Master Droit": {
+      "M1 Droit privé - PCCA": {
+        "G1 DROIT PRIVE": [6063]
+      },
+      "M1 Droit public - JCAP": {
+        "G1 PUBLIC": [4345]
+      },
+      "M2 Droit privé - PCCA": {
+        "G1 PRIVE": [1651]
+      },
+      "M2 Droit public - JCAP": {
+        "G1 PUBLIC": [1648]
+      }
+    },
+    "Master GRH": {
+      "M1": {
+        "G1": [1566]
+      },
+      "M2": {
+        "G": [6668],
+        "G2": [1575],
+        "G3": [594]
+      }
+    },
+    "Master Marketing-vente": {
+      "M1": {
+        "G1": [6651]
+      },
+      "M2": {
+        "G2": [1148],
+        "G1": [6657]
+      }
+    },
+    "Master BAFD (CPFA)": {
+      "M1": {
+        "Gr1": [6661],
+        "Gr2": [1442]
+      },
+      "M2 BAFD  (25)": {
+        "Gr1": [6623]
+      }
+    },
+    "Master CPA": {
+      "M1": {
+        "GR1": [6662]
+      },
+      "M2": {
+        "GR1": [5372]
+      }
+    },
     "DU AT": {
       "1ère année": {
         "1/3 Tps DU": [1469],
