@@ -817,11 +817,15 @@
       }
     },
     "LP Banque": {
-      "G1": [6670]
+      "1ère année": {
+        "G1": [6670]
+      }
     },
     "LP Metiers de la GRH": {
-      "G1": [6667],
-      "G2": [182]
+      "1ère année": {
+        "G1": [6667],
+        "G2": [182]
+      }
     },
     "Master CCA - CGAO": {
       "M1": {
