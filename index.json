@@ -1319,7 +1319,7 @@
         "Hispanistes": [1233]
       }
     },
-    "Masters Recherche": {
+    "Master Recherche": {
       "M1": {
         "Parcours Anglais": [961],
         "Parcours Espagnol": [962],
@@ -1440,6 +1440,16 @@
         "PES (Stagiaires)": [6755],
         "PE TP1-Cycle1_2": [6311],
         "PE TP2-cycle3": [6312]
+      }
+    }
+  },
+  "Fac SSI": {
+    "Entrepreneuriat": {
+      "Toutes années": {
+        "D2E - Lorient": [2733],
+        "D2E - Vannes": [4025],
+        "Les Entrepreneuriales - Lorient": [4023],
+        "Les Entrepreneuriales - Vannes": [4096]
       }
     }
   },
