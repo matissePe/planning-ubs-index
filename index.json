@@ -968,76 +968,478 @@
       }
     },
     "Langues": {
-      "Toutes années": {
-        "Allemand": {
-          "Allemand N 01": [824],
-          "Allemand N 02": [368],
-          "Allemand N 03": [1083],
-          "Allemand N 11": [369],
-          "Allemand N 12": [370],
-          "Allemand N 13": [375]
-        },
-        "Anglais": {
-          "Anglais N 11 GRP 1": [429],
-          "Anglais N 11 GRP 2": [432],
-          "Anglais N 11 GRP 3": [433],
-          "Anglais N 11 GRP 4": [1423],
-          "Anglais N 12 GRP 1": [405],
-          "Anglais N 12 GRP 2": [406],
-          "Anglais N 13 GRP 1": [850],
-          "Anglais N 13 GRP 2": [851]
-        },
-        "Breton": {
-          "Breton N 01": [327],
-          "Breton N 02": [328],
-          "Breton N 03": [329],
-          "Breton N 11": [4707],
-          "Breton N 12": [5096],
-          "Breton N 13": [5099]
-        },
-        "Catalan": {
-          "Catalan N 01": [574],
-          "Catalan N 02/03": [728]
-        },
-        "Chinois": {
-          "Chinois N 1 Gr1": [326],
-          "Chinois N 1 Gr2": [5713],
-          "Chinois N 02": [374],
-          "Chinois N 03": [441],
-          "Chinois N 11": [377],
-          "Chinois N 12": [2877],
-          "Chinois N 13": [5201]
-        },
-        "Espagnol": {
-          "Espagnol N 01": [759],
-          "Espagnol N 02": [349],
-          "Espagnol N 03": [507],
-          "Espagnol N 11 Grp1": [311],
-          "Espagnol N 11 Grp2": [314],
-          "Espagnol N 12": [315],
-          "Espagnol N 13": [4666]
-        },
-        "Italien": {
-          "Italien N 01 GRP 1": [331],
-          "Italien N 01 GRP 2": [332],
-          "Italien N 01 GRP 3": [7695],
-          "Italien N 02": [362],
-          "Italien N 03": [363],
-          "Italien N 11": [770],
-          "Italien N 12": [364],
-          "Italien N 13": [4671]
-        },
-        "Portugais": {
-          "Portugais N 01 GRP 1": [853],
-          "Portugais N 01 GRP 2": [854],
-          "Portugais N 02": [319],
-          "Portugais N 03": [321]
-        },
-        "Russe": {
-          "Russe N 01 Gr1": [4673],
-          "Russe N 01 Gr2": [6321],
-          "Russe N 02/03": [4680]
-        }
+      "Toutes années Allemand": {
+        "Allemand N 01": [824],
+        "Allemand N 02": [368],
+        "Allemand N 03": [1083],
+        "Allemand N 11": [369],
+        "Allemand N 12": [370],
+        "Allemand N 13": [375]
+      },
+      "Toutes années Anglais": {
+        "Anglais N 11 GRP 1": [429],
+        "Anglais N 11 GRP 2": [432],
+        "Anglais N 11 GRP 3": [433],
+        "Anglais N 11 GRP 4": [1423],
+        "Anglais N 12 GRP 1": [405],
+        "Anglais N 12 GRP 2": [406],
+        "Anglais N 13 GRP 1": [850],
+        "Anglais N 13 GRP 2": [851]
+      },
+      "Toutes années Breton": {
+        "Breton N 01": [327],
+        "Breton N 02": [328],
+        "Breton N 03": [329],
+        "Breton N 11": [4707],
+        "Breton N 12": [5096],
+        "Breton N 13": [5099]
+      },
+      "Toutes années Catalan": {
+        "Catalan N 01": [574],
+        "Catalan N 02/03": [728]
+      },
+      "Toutes années Chinois": {
+        "Chinois N 1 Gr1": [326],
+        "Chinois N 1 Gr2": [5713],
+        "Chinois N 02": [374],
+        "Chinois N 03": [441],
+        "Chinois N 11": [377],
+        "Chinois N 12": [2877],
+        "Chinois N 13": [5201]
+      },
+      "Toutes années Espagnol": {
+        "Espagnol N 01": [759],
+        "Espagnol N 02": [349],
+        "Espagnol N 03": [507],
+        "Espagnol N 11 Grp1": [311],
+        "Espagnol N 11 Grp2": [314],
+        "Espagnol N 12": [315],
+        "Espagnol N 13": [4666]
+      },
+      "Toutes années Italien": {
+        "Italien N 01 GRP 1": [331],
+        "Italien N 01 GRP 2": [332],
+        "Italien N 01 GRP 3": [7695],
+        "Italien N 02": [362],
+        "Italien N 03": [363],
+        "Italien N 11": [770],
+        "Italien N 12": [364],
+        "Italien N 13": [4671]
+      },
+      "Toutes années Portugais": {
+        "Portugais N 01 GRP 1": [853],
+        "Portugais N 01 GRP 2": [854],
+        "Portugais N 02": [319],
+        "Portugais N 03": [321]
+      },
+      "Toutes années Russe": {
+        "Russe N 01 Gr1": [4673],
+        "Russe N 01 Gr2": [6321],
+        "Russe N 02/03": [4680]
+      }
+    },
+    "CPGE LEA": {
+      "1ère anée": {
+        "Germaniste": [1462],
+        "Esp1": [2502],
+        "Esp2": [1481],
+        "Soutien": [1128]
+      },
+      "2ème année": {
+        "ALL cpge": [1361],
+        "ESP cpge": [1319]
+      }
+    },
+    "Licence ASS": {
+      "L1": {
+        "Gr1-1": [1159],
+        "Gr1-2": [27],
+        "Gr1-3": [144],
+        "Gr1-4": [4877],
+        "Gr1-5": [6198],
+        "Gr2-1": [1160],
+        "Gr2-2": [1301],
+        "Gr2-3": [1551],
+        "Gr2-4": [4904],
+        "Gr2-5": [6200],
+        "Gr3-1": [1161],
+        "Gr3-2": [1691],
+        "Gr3-3": [2131],
+        "Gr3-4": [4907],
+        "Gr3-5": [6204],
+        "Gr4-1": [1163],
+        "Gr4-2": [2141],
+        "Gr4-3": [2143],
+        "Gr4-4": [4908],
+        "Gr4-5": [6218],
+        "Gr5-1": [8673],
+        "Gr5-2": [8674],
+        "Gr5-3": [8675],
+        "Gr5-4": [8676],
+        "Gr5-5": [8677],
+        "Environnement et projet \"Oui si 2\" 1ère année": [8413],
+        "Renforcement Compta gestion 2ème année": [3564],
+        "Renforcement Compta-gestion 1ère année": [1822],
+        "Renforcement Droit 1ère année": [8082],
+        "Renforcement Droit 2ème année": [8087],
+        "Renforcement Français 1ère année": [4522],
+        "Renforcement Français 2ème année": [4678],
+        "Renforcement anglais \"Oui si\"": [8708],
+        "Renforcement bureautique": [5535],
+        "Renforcement économie 1ère année": [7979],
+        "Renforcement économie 2ème année": [7995]
+      },
+      "L2": {
+        "A1": [7784],
+        "A2": [7785],
+        "A3": [7786],
+        "B1": [7787],
+        "B2": [7788],
+        "B3": [7789],
+        "C1": [7790],
+        "C2": [7791],
+        "C3": [7792],
+        "D1": [7793],
+        "D2": [7794],
+        "D3": [7795]
+      },
+      "L3": {
+        "gr A1": [2263],
+        "gr A2": [2267],
+        "gr A3": [2268],
+        "gr A4": [2552],
+        "gr B1": [2269],
+        "gr B2": [2270],
+        "gr B3": [2271],
+        "gr B4": [2793],
+        "gr C1": [3495],
+        "gr C2": [3812],
+        "gr C3": [3650],
+        "gr C4": [3623],
+        "Parcours psycho": [1066],
+        "Parcours socio GR1": [1847],
+        "Parcours socio GR2": [1281]
+      }
+    },
+    "Licence Histoire": {
+      "L1": {
+        "Env. gr1": [1411],
+        "Env. gr3": [3609],
+        "Env. gr4": [4630],
+        "Envi. gr2": [1656],
+        "GEO gr1": [715],
+        "GEO gr2": [663],
+        "GEO gr3": [3817],
+        "GEO gr4": [4703],
+        "institutions politiques gr1": [751],
+        "institutions politiques gr2": [557],
+        "institutions politiques gr3": [752],
+        "institutions politiques gr4": [4743]
+      },
+      "L2": {
+        "ARCHEO gr1": [1396],
+        "ARCHEO gr2": [1409],
+        "GEO gr1": [1378],
+        "GEO gr2": [1376],
+        "administration gr1": [1394],
+        "administration gr2": [1363]
+      },
+      "L3": {
+        "ARCHEO  gr1": [1655],
+        "ARCHEO  gr2": [2535],
+        "GEO gr1": [4392],
+        "GEO gr2": [4398],
+        "administration gr1": [1510],
+        "administration gr2": [1513]
+      }
+    },
+    "Licence LEA": {
+      "L1": {
+        "all gr1": [298],
+        "all gr2": [299],
+        "esp gr1-1": [300],
+        "esp gr1-2": [301],
+        "esp gr2-1": [302],
+        "esp gr2-2": [303],
+        "esp gr3-1": [305],
+        "esp gr3-2": [306],
+        "esp gr3-3": [465],
+        "esp gr4-1": [357],
+        "esp gr4-2": [1205],
+        "esp gr4-3": [359],
+        "Soutien": [1128]
+      },
+      "L2": {
+        "Germaniste": [336],
+        "Germanistes 1": [443],
+        "Germanistes 2": [782],
+        "ESP 1": [127],
+        "ESP 2": [600],
+        "ESP 3": [1489],
+        "ESP 4": [6951]
+      },
+      "L3": {
+        "CEE all": [445],
+        "CEE esp1": [446],
+        "CEE esp2": [2714],
+        "CI all": [444],
+        "CI esp1": [425],
+        "CI esp2": [424]
+      }
+    },
+    "Licence LLCER-Anglais": {
+      "L1": {
+        "1-1": [3021],
+        "1-10": [4004],
+        "1-11": [4008],
+        "1-12": [4029],
+        "1-13": [4061],
+        "1-14": [4064],
+        "1-15": [4065],
+        "1-16": [4071],
+        "1-17": [4110],
+        "1-18": [4131],
+        "1-2": [3717],
+        "1-3": [3809],
+        "1-4": [3831],
+        "1-5": [3856],
+        "1-6": [3858],
+        "1-7": [3859],
+        "1-8": [3863],
+        "1-9": [3888]
+      },
+      "L2": {
+        "2-1": [779],
+        "2-10": [4981],
+        "2-11": [5002],
+        "2-12": [5009],
+        "2-2": [872],
+        "2-3": [974],
+        "2-4": [986],
+        "2-5": [989],
+        "2-6": [1063],
+        "2-7": [1197],
+        "2-8": [1590],
+        "2-9": [1929]
+      },
+      "L3": {
+        "3-1": [1289],
+        "3-10": [804],
+        "3-2": [1295],
+        "3-3": [1324],
+        "3-4": [1327],
+        "3-5": [1345],
+        "3-6": [1379],
+        "3-7": [1382],
+        "3-8": [1395],
+        "3-9": [1405]
+      }
+    },
+    "Licence LLCER-Espagnol": {
+      "L1": {
+        "Gr 1 (DL)": [910],
+        "Gr 2 (LE)": [911]
+      },
+      "L2": {
+        "Gr 1 (DL)": [2967],
+        "Gr 2 (LE)": [4669]
+      },
+      "L3": {
+        "Gr 1 (DL)": [5836],
+        "Gr 2 (LE)": [5848]
+      }
+    },
+    "Licence Lettres": {
+      "L1": {
+        "Gr 1 (DL)": [472],
+        "Gr 2": [473]
+      },
+      "L2": {
+        "Gr 1 (DL)": [4130],
+        "Gr 2": [4149]
+      },
+      "L3": {
+        "Gr 1 (DL)": [2249],
+        "Gr 2": [4124]
+      }
+    },
+    "LP ACIET": {
+      "1ère année": {
+        "Germanistes": [648],
+        "Hispanistes": [653]
+      }
+    },
+    "Master AUTELI": {
+      "M1 AUTELI": {
+        "TD Gr A": [975],
+        "TD Gr B": [976]
+      },
+      "M2 AUTELI": {
+        "TD Gr A": [977],
+        "TD Gr B": [978]
+      }
+    },
+    "Master Histoire": {
+      "M1": {
+        "Gr 1 Métiers de l'administration": [1116],
+        "Gr 2 Métiers de l'enseignement": [1933]
+      },
+      "M2": {
+        "Gr 1 Métiers de l'administration": [1117],
+        "Gr 2 Métiers de l'enseignement": [1934]
+      }
+    },
+    "Master IDS": {
+      "M1": {
+        "TD Gr A": [987],
+        "TD Gr B": [988]
+      },
+      "M2": {
+        "M2 AISS": [3372],
+        "M2 CISS": [260]
+      }
+    },
+    "Master RDI": {
+      "M1": {
+        "Germanistes": [674],
+        "Hispanistes": [673]
+      },
+      "M2": {
+        "Germanistes": [387],
+        "Hispanistes": [388]
+      }
+    },
+    "Master GPRE": {
+      "M1": {
+        "Germanistes": [1035],
+        "Hispanistes": [1025]
+      },
+      "M2": {
+        "Germanistes": [1235],
+        "Hispanistes": [1233]
+      }
+    },
+    "Masters Recherche": {
+      "M1": {
+        "Parcours Anglais": [961],
+        "Parcours Espagnol": [962],
+        "Parcours Lettres": [963]
+      },
+      "M2": {
+        "Parcours Anglais": [897],
+        "Parcours Espagnol": [930],
+        "Parcours Lettres": [931]
+      }
+    },
+    "Master Métiers du Livre": {
+      "M1": {
+        "Groupe 1": [992],
+        "Groupe 2": [993]
+      },
+      "M2": {
+        "Documentation Numérique": [3626],
+        "Edition gr1": [1747],
+        "Edition gr2": [1749],
+        "Recherche": [4446]
+      }
+    },
+    "Master Patrimoine": {
+      "M1": {
+        "TD Gr A": [981],
+        "TD Gr B": [982]
+      },
+      "M2": {
+        "TD Gr A": [983],
+        "TD Gr B": [984]
+      }
+    },
+    "Master MEEF": {
+      "M1": {
+        "C2ME 2nde session": [4174],
+        "C2ME G1": [5020],
+        "C2ME G2": [5173],
+        "C2ME G3": [5174],
+        "R2E 2nde session": [4227],
+        "R2E G1": [5017],
+        "R2E G2": [5176],
+        "PLC - Anglais": [1133],
+        "PLC - HG": [1241],
+        "PE Admissibles enseignement civique": [367],
+        "PE Admissibles géographie": [758],
+        "PE Admissibles histoire": [476],
+        "PE Admissibles musique": [322],
+        "PE Admissibles sciences": [1042],
+        "PE Anglais Gr Consolidation": [774],
+        "PE Anglais Gr Experts": [3770],
+        "PE Anglais Gr Intermédiaires": [3821],
+        "PE Espagnol Gr1": [4010],
+        "PE Option Arts": [6431],
+        "PE Option HGEMC": [5890],
+        "PE Option Sciences": [5913],
+        "PE Option arts visuels": [5893],
+        "PE Option géographie": [6247],
+        "PE Langues vivantes": [7030],
+        "PE Option musique": [4736],
+        "PE Option éducation civique": [5891],
+        "PE Part modulaire Gr1": [2375],
+        "PE Part modulaire Gr2": [2620],
+        "PE TD1 TPA1": [5031],
+        "PE TD1 TPA2": [4026],
+        "PE TD1 TPB1": [3791],
+        "PE TD2 TPB2": [3600],
+        "PE TD2 TPC1": [1328],
+        "PE TD2 TPC2": [4194],
+        "PE TD2 TPD1": [4197],
+        "PE TD2 TPD2": [4231],
+        "PE TD3 TPE1": [4364],
+        "PE UE3 Recherche EICS gr 1": [7984],
+        "PE UE3 Recherche EICS gr 2": [7985],
+        "PE PLA": [5645]
+      },
+      "M2": {
+        "C2ME": [5021],
+        "C2ME 2nde session": [4528],
+        "C2ME Soutenance": [1464],
+        "R2E": [5022],
+        "R2E 2nde session": [4581],
+        "R2E Soutenance": [1696],
+        "PLC - Anglais": [4777],
+        "PLC - HG": [646],
+        "PLC Profil 3": [842],
+        "PE Délégués MEEF2_PE": [5552],
+        "PE G2_Stagiaires": [6761],
+        "PE M2-Profil 1": [6560],
+        "PE M2-Profil 2": [6559],
+        "PE M2-Profil 3": [6561],
+        "PE M2_PA_Option Arts visuels et histoire des arts": [5964],
+        "PE M2_PA_Option Histoire": [6021],
+        "PE2 - TP1": [906],
+        "PE2 - TP2": [1207],
+        "PE2 - TP3": [4745],
+        "PE2 Option His-Géo-EMC": [6022],
+        "PE2 Option LVE": [5970],
+        "PE2 Option Science": [5992],
+        "PE2 TDA": [7607],
+        "PE2 TDB": [7627],
+        "PE2 option arts": [5989],
+        "PE2C": [7584],
+        "PE2C Cycle 1": [1412],
+        "PE2C Cycle 2": [1501],
+        "PE2C Cycle 3": [1621],
+        "PE2I": [5777],
+        "PE2I Cycle 1": [2305],
+        "PE2I Cycle 2": [2324],
+        "PE2I Cycle 3": [2350],
+        "PE2S": [7594],
+        "PE2S Cycle 1": [1238],
+        "PE2S Cycle 2": [1254],
+        "PE2S Cycle 3": [1385],
+        "PES Cycle 1": [1889],
+        "PES Cycle 2": [2467],
+        "PES Cycle 3": [2806],
+        "PES (Stagiaires)": [6755],
+        "PE TP1-Cycle1_2": [6311],
+        "PE TP2-cycle3": [6312]
       }
     }
   },
