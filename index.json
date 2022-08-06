@@ -1448,12 +1448,578 @@
     }
   },
   "Fac SSI": {
+    "AO Vannes": {
+      "Archipel Vannes": [4728],
+      "Communication gagnante Vannes": [7992],
+      "Enjeux climatiques et environnementaux": [7713],
+      "Gravure": [7991],
+      "Illustration du vivant": [7909],
+      "Initiation à la gestion comptable et financière SVT Vannes": [9175],
+      "Introduction à la psychologie sociale SSI SVT": [351],
+      "Musique groupe UBS": [714],
+      "Photos Vannes": [8370],
+      "Street-Art": [7990]
+    },
+    "AO Lorient": {
+      "ASTEP SSI": [5388],
+      "Actualités du développement durable SSI": [6176],
+      "Allemand SSI": [894],
+      "Archipel SSI": [6991],
+      "Art plastique SSI": [3571],
+      "Chant SSI": [7996],
+      "Cinéma SSI": [3572],
+      "Communication gagnante SSI": [5207],
+      "Culture entrepreneur SSI": [4171],
+      "Cybersécurité SSI": [7135],
+      "Dessin SSI": [8373],
+      "EAB SSI": [4842],
+      "Engagement associatif et bénévole SSI": [2527],
+      "Entreprends-toi SSI": [7988],
+      "Espagnol L1 GA": [4162],
+      "Espagnol L1 GB": [895],
+      "Espagnol L1 GC": [7919],
+      "Gravure SSI": [5881],
+      "Histoire des Techniques SSI": [4196],
+      "Illustration du vivant SSI": [5448],
+      "Journalisme SSI": [3653],
+      "L1 SES-SPI S2 groupe A Espagnol": [4854],
+      "L1 SVT S2 groupe B Espagnol": [4856],
+      "L1 SVT S2 groupe C Espagnol": [2802],
+      "Photographie SSI": [7993],
+      "Pratique musicale SSI": [44],
+      "Radio SSI": [7994],
+      "Sciences légales": [9173],
+      "Sensibilisation aux enjeux climatiques et environnementaux G1 SSI": [5654],
+      "Sensibilisation aux enjeux climatiques et environnementaux G2 SSI": [8685],
+      "Sensibilisation aux enjeux climatiques et environnementaux G3 SSI": [8702],
+      "Sensibilisation aux enjeux climatiques et environnementaux SSI S2": [8374],
+      "Théâtre et improvisation SSI": [8000]
+    },
     "Entrepreneuriat": {
       "Toutes années": {
         "D2E - Lorient": [2733],
         "D2E - Vannes": [4025],
         "Les Entrepreneuriales - Lorient": [4023],
         "Les Entrepreneuriales - Vannes": [4096]
+      }
+    },
+    "CPEM": {
+      "1ère année": {
+        "CPEM Vannes": [651],
+        "CPEM Lorient": [4951]
+      }
+    },
+    "CUPGE MIS": {
+      "1ère année": {
+        "S1 CUPGE": [3669],
+        "S2 CUPGE P": [1767],
+        "S2 CUPGE S": [1764]
+      },
+      "2ème année": {
+        "S1 CUPGE I": [4783],
+        "S1 CUPGE MS": [5344],
+        "S2 CUPGE INFO": [5895],
+        "S2 CUPGE MATH": [2384],
+        "S2 CUPGE STAT": [4994]
+      }
+    },
+    "CUPGE Physique": {
+      "L1": {
+        "1A": [795, 6548],
+        "1B": [5381, 8071],
+        "1C": [7078, 2366]
+      },
+      "L2": {
+        "1A": [447, 6656],
+        "1B": [637],
+        "1C": [8391]
+      }
+    },
+    "DU Impression 3D": {
+      "Toutes années": {
+        "DU I3D Santé": [6387],
+        "I3D MCI": [6480]
+      }
+    },
+    "Licence CMI": {
+      "L1": {
+        "CMI": [7155, 9166]
+      },
+      "L2": {
+        "CMI": [3660, 2556]
+      },
+      "L3": {
+        "CMI": [2434, 4163]
+      }
+    },
+    "Licences Maths-Info-Stat": {
+      "L1": {
+        "S1 MMI IP": [4529],
+        "S1 MMI MP": [4292],
+        "S1 MMI IM": [4080],
+        "S1 MmI IP": [3666],
+        "S1 MmI MP": [3502],
+        "S2 AJAC L2 I": [2557],
+        "S2 AJAC L2 II": [9170],
+        "S2 LAS": [6466],
+        "S2 MIE IS": [1306],
+        "S2 MIE IS-2": [9167],
+        "S2 MIE MS": [1321],
+        "S2 MIP IP": [2287],
+        "S2 MIP IS": [2559],
+        "S2 MIP MI": [2346],
+        "S2 MIP MP": [1316],
+        "S2 MIP MS": [1317],
+        "S2 MIP MS-2": [9168],
+        "Parcours spécialisé": [2476, 6571]
+      },
+      "L2": {
+        "S1 INFO-PHY": [3038],
+        "S1 INFO-STAT": [5419],
+        "S1 MATH-INFO": [2896],
+        "S1 MATH-PHY": [2867],
+        "S1 MATH-STAT": [4118],
+        "S2 INFO-1": [4675],
+        "S2 INFO-2": [2353],
+        "S2 MATH": [4566],
+        "S2 STAT INFO": [2672],
+        "S2 STAT MATH": [6514]
+      },
+      "L3": {
+        "INFO 1": [427, 2234],
+        "INFO 2": [4796, 6555],
+        "INFO 3": [4389, 2544],
+        "INFO 4": [4434, 2615],
+        "MATH": [2022, 732],
+        "STAT 1": [4545, 2722],
+        "STAT 2": [2118, 7094]
+      }
+    },
+    "Licence SVT": {
+      "L1 Vannes": {
+        "S1 1AG": [8603],
+        "S1 1AG1": [8604],
+        "S1 1AV": [8605],
+        "S1 1SA1": [8606],
+        "S1 2AGE": [2884],
+        "S1 2PS": [8607],
+        "S1 2PS3": [3409],
+        "S1 2PSE": [8608],
+        "S1 2S": [8610],
+        "S1 2SA": [8611],
+        "S1 2SV": [8612],
+        "S1 2V1": [8632],
+        "S1 AG": [725],
+        "S1 AG1": [8613],
+        "S1 AGE": [8614],
+        "S1 AV1": [8615],
+        "S1 AV2": [8616],
+        "S1 AV3": [8617],
+        "S1 AV4": [753],
+        "S1 AVE": [2816],
+        "S1 G": [8619],
+        "S1 PA": [8620],
+        "S1 PS1": [8621],
+        "S1 PS2": [8622],
+        "S1 PS3": [8623],
+        "S1 PSE": [8624],
+        "S1 S": [8625],
+        "S1 SA1": [8626],
+        "S1 SA2": [8627],
+        "S1 SAE": [8628],
+        "S1 SGE": [8629],
+        "S1 SV": [8630],
+        "S1 SVE": [8631],
+        "S1 V2": [8633],
+        "S1 VE": [8635],
+        "S1 VG": [8636],
+        "S1 valuep": [8634],
+        "S2 1BC": [9131],
+        "S2 1BCE": [9132],
+        "S2 1BE": [9133],
+        "S2 1CG": [9134],
+        "S2 1EC": [9135],
+        "S2 1EG": [9160],
+        "S2 1PC": [9136],
+        "S2 1PCE": [9137],
+        "S2 1vuep": [9138],
+        "S2 B": [9139],
+        "S2 BC1p": [9140],
+        "S2 BC2p": [9141],
+        "S2 BC3": [9142],
+        "S2 BC4": [9143],
+        "S2 BCE": [9144],
+        "S2 BE1": [9145],
+        "S2 BE2": [9146],
+        "S2 BE3": [9147],
+        "S2 BEE": [9148],
+        "S2 BG": [9149],
+        "S2 BP": [9150],
+        "S2 CG": [9151],
+        "S2 E": [9152],
+        "S2 EC1": [9153],
+        "S2 EC2": [9154],
+        "S2 ECE": [9155],
+        "S2 EE": [9156],
+        "S2 EG1": [4047],
+        "S2 EG2": [4048],
+        "S2 EGE": [4281],
+        "S2 EP": [4692],
+        "S2 EPE": [5316],
+        "S2 PC1": [6188],
+        "S2 PC2": [7110],
+        "S2 PC3": [8349],
+        "S2 PCE": [8350],
+        "S2 PG": [8351],
+        "S2 vuep": [8352]
+      },
+      "L1 Lorient": {
+        "S1 BP1": [2039],
+        "S1 BP2": [990],
+        "S1 EB1": [2029],
+        "S1 EB2": [1672],
+        "S1 EB3": [2056],
+        "S1 EB4": [2070],
+        "S1 EB5": [998],
+        "S1 EG1": [2137],
+        "S1 EG2": [2218],
+        "S1 EG3": [787],
+        "S1 EG4": [1152],
+        "S1 GP1": [2010],
+        "S1 GP2": [997],
+        "S2 BG1": [8019],
+        "S2 BG2": [8020],
+        "S2 BG3": [8021],
+        "S2 BP1": [8009],
+        "S2 BP2": [8010],
+        "S2 BP3": [8011],
+        "S2 BP4": [8012],
+        "S2 BP5": [8013],
+        "S2 BP6": [8017],
+        "S2 BP7": [8018],
+        "S2 CG1": [8024],
+        "S2 CG2": [8025],
+        "S2 CP1": [8022],
+        "S2 CP2": [8023],
+        "S2 CP3": [8014],
+        "S2 CP4": [8015],
+        "S2 CP5": [8016]
+      },
+      "L2 Vannes": {
+        "S3 D": [1976],
+        "S3 DB": [7851],
+        "S3 EDB": [6497],
+        "S3 EDBM3": [8670],
+        "S3 EDBMa8": [4299],
+        "S3 EDBMe": [4371],
+        "S3 EDBS": [4376],
+        "S3 EDBr3": [6501],
+        "S3 EDLBa10": [4537],
+        "S3 EDLBb6": [4878],
+        "S3 EDLBc8": [4879],
+        "S3 EDLBd8": [4880],
+        "S3 EDLBe2": [4885],
+        "S3 EDLBf5": [4886],
+        "S3 EDLBr3": [6042],
+        "S3 EDLM4": [7852],
+        "S3 EDLSa10": [7853],
+        "S3 EDLSb10": [7854],
+        "S3 EDLSc1": [8671],
+        "S3 EDLSc3": [8618],
+        "S3 EDLSe3": [8637],
+        "S3 EDLZ": [8638],
+        "S3 LB": [6940],
+        "S3 Z": [3813],
+        "S3 ZBDC7": [2756],
+        "S3 ZBDE3": [4670],
+        "S3 ZBDEe": [6112],
+        "S3 ZBDL": [4291],
+        "S3 ZBDM3": [2826],
+        "S3 ZBDMb1": [6740],
+        "S3 ZBDMe8": [6121],
+        "S3 ZBDMr": [2828],
+        "S3 ZBM": [2865],
+        "S3 ZBMC": [1886],
+        "S3 ZBMCa10": [2871],
+        "S3 ZBMCb8": [8640],
+        "S3 ZBMCe1": [6911],
+        "S3 ZBMCe2": [2886],
+        "S3 ZBMCr3": [2888],
+        "S4 AG6": [4628],
+        "S4 AGe": [4646],
+        "S4 AGr": [4691],
+        "S4 AZa5": [6522],
+        "S4 AZb6": [6525],
+        "S4 AZc6": [6527],
+        "S4 EA": [6528],
+        "S4 EG3": [4723],
+        "S4 GA3": [6551],
+        "S4 I": [6469],
+        "S4 IA3": [4748],
+        "S4 IE3": [5094],
+        "S4 IGa8": [5109],
+        "S4 IGb7": [5112],
+        "S4 IGc6": [5114],
+        "S4 IGd6": [5263],
+        "S4 IGe11": [5923],
+        "S4 IGra": [6473],
+        "S4 IGrb2": [6513],
+        "S4 IGrc": [6518],
+        "S4 TA1": [8369],
+        "S4 TAa7": [6575],
+        "S4 TAb7": [6578],
+        "S4 TAc8": [6583],
+        "S4 TAd10": [6585],
+        "S4 TAe4": [6596],
+        "S4 TAf10": [6591],
+        "S4 TZ2": [6606],
+        "S4 TZe": [6620],
+        "S4 Tra": [6599],
+        "S4 Trc": [6603],
+        "S4 Trd": [6604],
+        "S4 Tre": [6600],
+        "S4 Z": [6621]
+      },
+      "L2 Lorient": {
+        "ABC1": [7610],
+        "ABC2": [7611],
+        "ABD1": [7612],
+        "ABE1": [7613],
+        "ABF1": [3618],
+        "ACD1": [7618],
+        "ACE1": [7623],
+        "BCD1": [7614],
+        "BCD2": [7615],
+        "BCD3": [7616],
+        "BCF1": [4464],
+        "AB1": [6468],
+        "AB2": [6675],
+        "AB3": [6696],
+        "AB4": [6697],
+        "AB5": [7077],
+        "AB6": [7080],
+        "AB7": [7082],
+        "AB8": [2414],
+        "AD1": [2841],
+        "AD2": [2843],
+        "BD1": [7092],
+        "BD2": [2703]
+      },
+      "L3 Biologie Cellulaire et Moléculaire": {
+        "C1 TA": [3732],
+        "C2 TA": [3728],
+        "C3 TA": [3701],
+        "C4 TC": [3796],
+        "C5 TC": [3798],
+        "C6 AC": [3801],
+        "C7 AC": [3807]
+      },
+      "L3 Biologie et Écologie générales": {
+        "G1 BO": [3814],
+        "G2 BO": [3837],
+        "G3 BO": [3838],
+        "G4 BC": [3854],
+        "G5 BC": [3862],
+        "G6 OC": [3864],
+        "G7 OC": [3911]
+      },
+      "L3 Sciences de l'Environnement": {
+        "E1 SHa": [4009],
+        "E1 SHb": [4035]
+      },
+      "L3 Bio Santé": {
+        "TP1": [1901],
+        "TP2": [2223]
+      },
+      "L3 Biotechnologies": {
+        "TP1": [1920],
+        "TP2": [1945]
+      },
+      "L3 TACB": {
+        "TP1": [1894],
+        "TP2": [1895]
+      }
+    },
+    "Licence Physique": {
+      "L1": {
+        "A": [7217, 2751],
+        "B": [7220, 6558],
+        "C": [7190, 7075]
+      },
+      "L2": {
+        "A": [863, 6666],
+        "B": [960, 6671],
+        "C": [8394, 8963]
+      },
+      "L3": {
+        "S5 PMMC": [1244],
+        "S5 Électronique": [1276],
+        "S6 Calcul des structures": [2874],
+        "S6 Transferts de chaleur": [9123],
+        "S6 Électronique": [2500]
+      }
+    },
+    "Licence SES": {
+      "L1": {
+        "TP1": [636],
+        "TP2": [6702],
+        "TP3 (SCM1)": [3324],
+        "TP4  (SCM1)": [3323],
+        "TP5 (SCM1)": [3320]
+      },
+      "L2": {
+        "Gr1": [1569],
+        "Gr2": [1570],
+        "Gr3": [2472],
+        "ME": [5119],
+        "PC": [5111]
+      },
+      "L3": {
+        "TP1": [5417],
+        "TP2": [5421]
+      }
+    },
+    "Licence SNIO": {
+      "L1": {
+        "S1 Groupe 1": [7233],
+        "S1 Groupe 2": [4592],
+        "S2": [8030]
+      },
+      "L2": {
+        "Groupe 1": [1095, 6679]
+      },
+      "L3": {
+        "Groupe 1": [1547],
+        "Groupe 2": [1548]
+      }
+    },
+    "Licence EE/MTE": {
+      "L1": {
+        "EE": [3830],
+        "MTE": [4016]
+      },
+      "L2": {
+        "EE": [1326],
+        "MTE": [2721],
+        "S4 A4a (Th-Met)": [6686]
+      },
+      "L3 EE": {
+        "EE-TP1": [1179],
+        "EE-TP2": [1659]
+      },
+      "L3 MTE": {
+        "MTE1-1": [1014],
+        "MTE1-2": [1015],
+        "MTE2": [712]
+      }
+    },
+    "Licence Mécanique/Génie Civil": {
+      "L1": {
+        "S1 5a1": [7250],
+        "S1 5a2": [6913],
+        "S1 5b": [7259],
+        "S2 A 5a1": [8084],
+        "S2 B 5a1": [8085],
+        "S2 A 5a2": [8083],
+        "S2 B 5a2": [8086],
+        "S2 A 5b1": [8043],
+        "S2 B 5b1": [8044],
+        "S2 A 5b2": [8045],
+        "S2 B 5b2": [8046]
+      },
+      "L2": {
+        "S3 Groupe 1": [1386],
+        "S3 Groupe 2": [1467],
+        "S4 Groupe 5a": [6690],
+        "S4 Groupe 5b1": [6692],
+        "S4 Groupe 5b2": [6693]
+      },
+      "L3 Génie civil": {
+        "S5 TP1-Esp1": [2177],
+        "S5 TP2-All": [2179],
+        "S5 TP2-Esp2": [2178],
+        "S6 TP1": [3640],
+        "S6 TP2": [2949]
+      },
+      "L3 Mécanique": {
+        "TP1": [339, 2582],
+        "TP2": [2248, 5696],
+        "TP3": [7963]
+      }
+    },
+    "LP DPCS": {
+      "1ère année": {
+        "Groupe 1": [4747],
+        "Groupe 2 avec alternants": [4794]
+      }
+    },
+    "LP EMEC": {
+      "1ère année": {
+        "Groupe 1": [1202],
+        "Groupe 2": [717]
+      }
+    },
+    "LP Nautisme": {
+      "1ère année": {
+        "Groupe 1": [1210],
+        "Groupe 2": [1868]
+      }
+    },
+    "LP TACB": {
+      "1ère année": {
+        "LP1": [517],
+        "LP3 TP1": [1896],
+        "LP3 TP2": [1282]
+      }
+    },
+    "Master CMI": {
+      "M1": {
+        "CMI": [7862, 1312]
+      },
+      "M2": {
+        "CMI": [2817]
+      }
+    },
+    "Master ERASMUS MUNDUS": {
+      "M2": {
+        "ERASMUS MUNDUS": [4986]
+      }
+    },
+    "Master AIDN": {
+      "M1": {
+        "Groupe 1": [4807, 5884]
+      },
+      "M2": {
+        "Groupe 1": [4778],
+        "Groupe 2": [7857]
+      }
+    },
+    "Master SAIM": {
+      "M1": {
+        "Groupe 1": [2625, 4714]
+      },
+      "M2": {
+        "Groupe 2": [775]
+      }
+    },
+    "Master DSMS": {
+      "M1": {
+        "STAT 1": [1397, 5861],
+        "STAT 2": [2910, 1766]
+      },
+      "M2": {
+        "STAT DSMS1": [830],
+        "STAT DSMS2": [6145]
+      }
+    },
+    "Master IGREC": {
+      "M1": {
+        "S1 G1": [607],
+        "S2 G1": [6564],
+        "S2 G2": [5407]
+      },
+      "M2": {
+        "S1 G1": [662]
       }
     }
   },
