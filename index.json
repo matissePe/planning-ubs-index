@@ -893,7 +893,7 @@
         "Gr1": [6661],
         "Gr2": [1442]
       },
-      "M2 BAFD  (25)": {
+      "M2": {
         "Gr1": [6623]
       }
     },
@@ -1149,8 +1149,8 @@
         "administration gr2": [1363]
       },
       "L3": {
-        "ARCHEO  gr1": [1655],
-        "ARCHEO  gr2": [2535],
+        "ARCHEO gr1": [1655],
+        "ARCHEO gr2": [2535],
         "GEO gr1": [4392],
         "GEO gr2": [4398],
         "administration gr1": [1510],
@@ -1539,6 +1539,11 @@
         "1C": [8391]
       }
     },
+    "DU Paréo": {
+      "1ère année": {
+        "Grp 1": [220]
+      }
+    },
     "DU Impression 3D": {
       "Toutes années": {
         "DU I3D Santé": [6387],
@@ -1868,7 +1873,7 @@
         "TP1": [636],
         "TP2": [6702],
         "TP3 (SCM1)": [3324],
-        "TP4  (SCM1)": [3323],
+        "TP4 (SCM1)": [3323],
         "TP5 (SCM1)": [3320]
       },
       "L2": {
@@ -2024,6 +2029,140 @@
       },
       "M2": {
         "S1 G1": [662]
+      }
+    },
+    "Master BMB": {
+      "M1": {
+        "Groupe Roscoff": [5349, 5025],
+        "GPA": [450, 5030],
+        "GPB": [2880, 5049],
+        "S8 TP1": [4769],
+        "S8 TP2": [5007],
+        "S8 TP3": [5012],
+        "S8 TP4": [5016],
+        "S8 TP5": [5368]
+      },
+      "M2": {
+        "Grp 1": [320],
+        "Grp 2": [915],
+        "Grp 3": [2727],
+        "Grp 4": [2506],
+        "Grp 5": [2741],
+        "Grp BAM": [1585],
+        "Grp BIOMACROM": [1586]
+      }
+    },
+    "Master IABC": {
+      "M1": {
+        "Grp 1": [844]
+      }
+    },
+    "Master ISC": {
+      "M1": {
+        "CSSE Alt": [1893],
+        "CSSE": [7780],
+        "CYBERUS Grp 1": [2245],
+        "CYBERUS Grp 2": [2338],
+        "EII Hispano": [92],
+        "SESI": [1880],
+        "OP & PI-Alt": [4834]
+      },
+      "M2": {
+        "CSSE Alt": [688],
+        "CSSE": [1858],
+        "SESI": [689],
+        "I-Mars": [1731],
+        "OP & PI-Alt": [496],
+        "OP & PI-Spé": [1296]
+      }
+    },
+    "Master Ingénierie Marine": {
+      "M1": {
+        "TP1": [1552],
+        "TP2": [2688]
+      }
+    },
+    "Master Thermique Énergétique": {
+      "M1": {
+        "1a": [2062],
+        "1b": [2063],
+        "2a Alt": [2100],
+        "2b Alt": [2114]
+      },
+      "M2": {
+        "1a": [204],
+        "1b": [205],
+        "2a": [206],
+        "2b": [207],
+        "Recherche": [1899],
+        "AG Stela Sertinean": [4960]
+      }
+    },
+    "Master GCMP": {
+      "M1": {
+        "TP1": [491],
+        "TP2": [493],
+        "TP3": [494],
+        "TP4": [495]
+      },
+      "M2": {
+        "TP1 Esp.": [4608],
+        "TP2a All.": [4786],
+        "TP2a Esp.": [4868],
+        "TP2b Esp.": [4861],
+        "TP3 Esp.": [4867],
+        "Alt M2GC Alt Présentiel": [3573],
+        "Alt M2GCA All. TP1": [5854],
+        "Alt M2GCA Esp. TP1": [5852],
+        "Alt TP2a Alt Esp": [8600],
+        "Alt TP2a Alt FLE": [3002]
+      }
+    },
+    "Master GMM": {
+      "M1": {
+        "TP1": [683],
+        "TP2": [684],
+        "TP3": [346]
+      },
+      "M2": {
+        "TP": [769],
+        "TP 1": [679],
+        "TP 2": [1564],
+        "TP 3": [899],
+        "Double": [1870],
+        "Pur": [1864]
+      }
+    },
+    "Master ECPC": {
+      "M1": {
+        "1a": [610],
+        "1b": [1947],
+        "2a": [1975],
+        "2b": [1992]
+      },
+      "M2": {
+        "C'Nano": [1814],
+        "1a": [251],
+        "1b": [4922],
+        "2a": [1760],
+        "2b": [4924]
+      }
+    },
+    "Master EIT": {
+      "M2": {
+        "Grp 1": [6007]
+      }
+    },
+    "Master MMGC": {
+      "M2": {
+        "GCR All.": [5215],
+        "GCR Esp.": [5717],
+        "M2R-GM": [792]
+      }
+    },
+    "Master EC": {
+      "M2": {
+        "Grp1": [3540]
       }
     }
   },
