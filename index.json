@@ -1128,9 +1128,9 @@
     "Licence Histoire": {
       "L1": {
         "Env. gr1": [1411],
+        "Env. gr2": [1656],
         "Env. gr3": [3609],
         "Env. gr4": [4630],
-        "Envi. gr2": [1656],
         "GEO gr1": [715],
         "GEO gr2": [663],
         "GEO gr3": [3817],
@@ -1145,16 +1145,16 @@
         "ARCHEO gr2": [1409],
         "GEO gr1": [1378],
         "GEO gr2": [1376],
-        "administration gr1": [1394],
-        "administration gr2": [1363]
+        "Administration gr1": [1394],
+        "Administration gr2": [1363]
       },
       "L3": {
         "ARCHEO gr1": [1655],
         "ARCHEO gr2": [2535],
         "GEO gr1": [4392],
         "GEO gr2": [4398],
-        "administration gr1": [1510],
-        "administration gr2": [1513]
+        "Administration gr1": [1510],
+        "Administration gr2": [1513]
       }
     },
     "Licence LEA": {
