@@ -136,6 +136,14 @@
         "Parcours FI MKT et MGMT POINT DE VENTE 4.2": [2836]
       }
     },
+    "DCU-DSCU": {
+      "L3": {
+        "DCU": [1020],
+        "DSCU 1 entrants": [3507],
+        "DSCU 1 sortants": [3490],
+        "DSCU 2": [3494]
+      }
+    },
     "LP CGID": {
       "1ère année": {
         "LP CGID": [3510],
