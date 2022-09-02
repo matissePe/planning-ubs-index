@@ -136,6 +136,14 @@
         "Parcours FI MKT et MGMT POINT DE VENTE 4.2": [2836]
       }
     },
+    "DCU-DSCU": {
+      "L3": {
+        "DCU": [1020],
+        "DSCU 1 entrants": [3507],
+        "DSCU 1 sortants": [3490],
+        "DSCU 2": [3494]
+      }
+    },
     "LP CGID": {
       "1ère année": {
         "LP CGID": [3510],
@@ -252,7 +260,7 @@
         "C1": [2031],
         "C2": [2030]
       },
-      "1ème année": {
+      "2ème année": {
         "A1": [2186],
         "A2": [2185],
         "B1": [2130],
@@ -1128,9 +1136,9 @@
     "Licence Histoire": {
       "L1": {
         "Env. gr1": [1411],
+        "Env. gr2": [1656],
         "Env. gr3": [3609],
         "Env. gr4": [4630],
-        "Envi. gr2": [1656],
         "GEO gr1": [715],
         "GEO gr2": [663],
         "GEO gr3": [3817],
@@ -1145,16 +1153,16 @@
         "ARCHEO gr2": [1409],
         "GEO gr1": [1378],
         "GEO gr2": [1376],
-        "administration gr1": [1394],
-        "administration gr2": [1363]
+        "Administration gr1": [1394],
+        "Administration gr2": [1363]
       },
       "L3": {
         "ARCHEO gr1": [1655],
         "ARCHEO gr2": [2535],
         "GEO gr1": [4392],
         "GEO gr2": [4398],
-        "administration gr1": [1510],
-        "administration gr2": [1513]
+        "Administration gr1": [1510],
+        "Administration gr2": [1513]
       }
     },
     "Licence LEA": {
