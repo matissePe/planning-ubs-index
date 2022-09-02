@@ -1815,26 +1815,36 @@
         "BD2": [2703]
       },
       "L3 Biologie Cellulaire et Moléculaire": {
-        "C1 TA": [3732],
-        "C2 TA": [3728],
-        "C3 TA": [3701],
-        "C4 TC": [3796],
-        "C5 TC": [3798],
-        "C6 AC": [3801],
-        "C7 AC": [3807]
+        "C1 PTB": [4003],
+        "C2 TNB": [4005],
+        "C3 TNB": [4018],
+        "C4 PT": [3752],
+        "C5a PTN": [3839],
+        "C5b PTN": [5429],
+        "C6 PTN-M": [3852],
+        "C7 PNB": [4006],
+        "C8 PTNB": [4007]
       },
       "L3 Biologie et Écologie générales": {
-        "G1 BO": [3814],
-        "G2 BO": [3837],
-        "G3 BO": [3838],
-        "G4 BC": [3854],
-        "G5 BC": [3862],
-        "G6 OC": [3864],
-        "G7 OC": [3911]
+        "G1a OHI": [4754],
+        "G1b OHI": [6946],
+        "G1c OHI": [5224],
+        "G1d OHI-P": [8669],
+        "G2a OHIg": [4117],
+        "G2b OHIg": [5450],
+        "G3g HI": [7841],
+        "G4 GOH": [4753],
+        "G5 MGO": [460],
+        "G6g MGI": [2416],
+        "G7 OH-P": [5534],
+        "G8g HIG": [419],
+        "G9g GOI": [949],
+        "G9i GOI": [5489]
       },
       "L3 Sciences de l'Environnement": {
-        "E1 SHa": [4009],
-        "E1 SHb": [4035]
+        "E1g EIW": [4665],
+        "E2i EIW": [42],
+        "E3 E": [904]
       },
       "L3 Bio Santé": {
         "TP1": [1901],
