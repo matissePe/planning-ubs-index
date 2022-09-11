@@ -1981,6 +1981,14 @@
         "LP3 TP2": [1282]
       }
     },
+    "Master MEEF S2IME": {
+      "M1": {
+        "Groupe 1": [442]
+      },
+      "M2": {
+        "Groupe 1": [1285]
+      }
+    },
     "Master CMI": {
       "M1": {
         "CMI": [7862, 1312]
