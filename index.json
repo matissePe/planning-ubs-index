@@ -1571,13 +1571,21 @@
     },
     "Licences Maths-Info-Stat": {
       "L1": {
+        "S1 CMI-SD": [7155],
+        "S1 CUPGE": [3669],
+        "S1 MMI IM": [4080],
         "S1 MMI IP": [4529],
         "S1 MMI MP": [4292],
-        "S1 MMI IM": [4080],
+        "S1 MmI IM-1": [1910],
+        "S1 MmI IM-2": [4731],
         "S1 MmI IP": [3666],
         "S1 MmI MP": [3502],
+        "S1 parcours spécialisé": [2476],
         "S2 AJAC L2 I": [2557],
         "S2 AJAC L2 II": [9170],
+        "S2 CMI-I": [9166],
+        "S2 CUPGE P": [1767],
+        "S2 CUPGE S": [1764],
         "S2 LAS": [6466],
         "S2 MIE IS": [1306],
         "S2 MIE IS-2": [9167],
@@ -1588,7 +1596,7 @@
         "S2 MIP MP": [1316],
         "S2 MIP MS": [1317],
         "S2 MIP MS-2": [9168],
-        "Parcours spécialisé": [2476, 6571]
+        "S2 parcours spécialisé": [6571]
       },
       "L2": {
         "S1 INFO-PHY": [3038],
