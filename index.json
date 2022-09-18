@@ -1952,10 +1952,11 @@
         "S4 Groupe 5b2": [6693]
       },
       "L3 Génie civil": {
-        "S5 TP1-Esp1": [2177],
-        "S5 TP2-Esp2": [2178],
-        "S5 TP3-All": [2179],
-        "S5 TP4-AO Sport": [6614],
+        "S5 TP1-All": [2178],
+        "S5 TP1-Esp": [2177],
+        "S5 TP2-AO sport 1": [2179],
+        "S5 TP2-AO sport 2": [4882],
+        "S5 TP3-AO jeudi": [6614],
         "S6 TP1": [3640],
         "S6 TP2": [2949]
       },
