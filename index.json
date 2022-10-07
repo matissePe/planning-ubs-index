@@ -286,18 +286,9 @@
         "TP2": [2095],
         "TP5": [2191],
         "TP6": [5540],
-        "TP1 Parcours ATN": [2308],
-        "TP2 Parcours ATN": [2352],
-        "TP5 Parcours ATN": [3989],
-        "TP6 Parcours ATN": [4156],
-        "TP1 Parcours MPBS1": [2356],
-        "TP2 Parcours MPBS1": [2478],
-        "TP5 Parcours MPBS1": [5723],
-        "TP6 Parcours MPBS1": [2497],
-        "TP1 Parcours MPBS2": [2220],
-        "TP2 Parcours MPBS2": [2523],
-        "TP5 Parcours MPBS2": [2668],
-        "TP6 Parcours MPBS2": [2548]
+        "ATN": [4005],
+        "MPBS1": [4018],
+        "MPBS2": [4007]
       },
       "Encadrements": {
         "Q2 AS": [1914],
