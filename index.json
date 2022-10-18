@@ -371,7 +371,7 @@
     "CyberData": {
       "3ème année": {
         "TP1": [4426, 5258],
-        "TP2": [4527, 5264]
+        "TP2": [4527]
       },
       "4ème année": {
         "TP1": [2187, 154],
@@ -864,7 +864,8 @@
         "G1 DROIT PRIVE": [6063]
       },
       "M1 Droit public - JCAP": {
-        "G1 PUBLIC": [4345]
+        "G1 PUBLIC": [4345],
+        "Evt UBS": [5264]
       },
       "M2 Droit privé - PCCA": {
         "G1 PRIVE": [1651]
