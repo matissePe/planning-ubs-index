@@ -478,11 +478,16 @@
         "Groupe 3 S1": [4077],
         "Groupe 4 S1": [4039],
         "Groupe 1 S2": [6629],
-        "Groupe 2 S2": [6619]
+        "Groupe 2 S2": [6619],
+        "PEI Lorient TP1": [2548],
+        "PEI Lorient TP2": [6929]
       },
       "2ème année": {
-        "Groupe 1": [1745, 6701],
-        "Groupe 2": [1980, 6700]
+        "Groupe 1": [1745, 6701, 7420],
+        "Groupe 2": [1980, 6700, 7421],
+        "PEI Lorient TP1 GIM": [3627],
+        "PEI Lorient TP2 QLIO": [6932],
+        "PEI Lorient TP3 MT2E": [6701]
       }
     }
   },
@@ -1919,12 +1924,11 @@
     },
     "Licence SNIO": {
       "L1": {
-        "S1 Groupe 1": [7233],
-        "S1 Groupe 2": [4592],
-        "S2": [8030]
+        "Groupe 1": [7233, 8030],
+        "Groupe 2": [4592, 7235]
       },
       "L2": {
-        "Groupe 1": [1095, 6679]
+        "Groupe 1": [1095, 6679, 7418]
       },
       "L3": {
         "Groupe 1": [1547],
