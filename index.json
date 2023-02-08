@@ -1677,19 +1677,15 @@
         "S2 parcours spécialisé": [6571]
       },
       "L2": {
-        "S1 INFO-PHY": [3038],
-        "S1 INFO-STAT": [5419],
-        "S1 MATH-INFO": [2896],
-        "S1 MATH-PHY": [2867],
-        "S1 MATH-STAT": [4118],
-        "S2 CMI": [2556],
-        "S2 CUPGE I": [5895],
-        "S2 CUPGE M": [2384],
-        "S2 INFO": [4675],
-        "S2 MATH MI": [4566],
-        "S2 MATH MS": [2672],
-        "S2 MATH SI": [6514],
-        "S2 STAT": [2353]
+        "CMI": [2556],
+        "CUPGE I": [5895],
+        "CUPGE M": [2384],
+        "INFO": [4675],
+        "INFO 2": [7765],
+        "MATH MI": [4566],
+        "MATH MS": [2672],
+        "MATH SI": [6514],
+        "STAT": [2353]
       },
       "L3": {
         "CMI IS": [4163],
