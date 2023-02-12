@@ -1176,26 +1176,26 @@
         "GEO gr2": [663],
         "GEO gr3": [3817],
         "GEO gr4": [4703],
-        "institutions politiques gr1": [751],
-        "institutions politiques gr2": [557],
-        "institutions politiques gr3": [752],
-        "institutions politiques gr4": [4743]
+        "Institutions politiques gr1": [751],
+        "Institutions politiques gr2": [557],
+        "Institutions politiques gr3": [752],
+        "Institutions politiques gr4": [4743]
       },
       "L2": {
         "ARCHEO gr1": [1396],
         "ARCHEO gr2": [1409],
         "GEO gr1": [1378],
         "GEO gr2": [1376],
-        "Administration gr1": [1394],
-        "Administration gr2": [1363]
+        "Science Po gr1": [1394],
+        "Science Po gr2": [1363]
       },
       "L3": {
         "ARCHEO gr1": [1655],
         "ARCHEO gr2": [2535],
         "GEO gr1": [4392],
         "GEO gr2": [4398],
-        "Administration gr1": [1510],
-        "Administration gr2": [1513]
+        "Science Po gr1": [1510],
+        "Science Po gr2": [1513]
       }
     },
     "Licence LEA": {
