@@ -2128,12 +2128,20 @@
     },
     "Master ISC": {
       "M1": {
-        "CSSE Alt": [1893],
-        "CSSE": [7780],
-        "CYBERUS Grp 1": [2245],
-        "CYBERUS Grp 2": [2338],
+        "CSSE - Alternants": [1893],
+        "CSSE - Non Alternants": [7780],
+        "CSSE - TP groupe 1": [6256],
+        "CSSE - TP groupe 2": [6270],
+        "CYBERUS English course": [6303],
+        "CYBERUS French course": [6301],
+        "CYBERUS IoT": [6894],
+        "CYBERUS Software": [6898],
+        "CYBERUS group 1": [2245],
+        "CYBERUS group 2": [2338],
         "EII Hispano": [92],
         "SESI": [1880],
+        "EII-TP1": [749],
+        "EII-TP2": [747],
         "OP & PI-Alt": [4834]
       },
       "M2": {
