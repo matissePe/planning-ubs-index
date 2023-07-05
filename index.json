@@ -376,8 +376,8 @@
         "TP2": [4527, 4096]
       },
       "4ème année": {
-        "TP1": [2187, 154],
-        "TP2": [2239, 4176]
+        "TP1": [154, 2187],
+        "TP2": [4176, 2239]
       },
       "5ème année": {
         "TP1": [6371]
@@ -437,7 +437,12 @@
       },
       "4ème année": {
         "TP1": [2540, 2635],
-        "TP2": [2570, 2698]
+        "TP2": [2570, 2698],
+        "TP3": [2448]
+      },
+      "5ème année": {
+        "TP1": [8029],
+        "TP2": [8031]
       }
     },
     "Génie Industriel": {
@@ -453,8 +458,8 @@
       },
       "5ème année": {
         "M2OPPI": [4],
-        "TP1 (Contrat Pro)": [155],
-        "TP2": [1047],
+        "Parcours GI": [1047],
+        "TP1 CPro": [155],
         "TP1 Alternants": [2059],
         "TP2 Alternants": [7193]
       }
@@ -470,34 +475,26 @@
         "TP1": [1139, 2866],
         "TP2": [2043, 2046],
         "TP1 Alternants": [1983, 2341],
-        "TP2 Alternants": [1987, 2344],
-        "Energie Alternants": [3475, 7131]
+        "TP2 Alternants": [1987, 2344]
       },
       "5ème année": {
         "CPro": [5069],
         "I-MARS": [6280],
         "MMGM": [2459],
         "TP1": [7819],
-        "TP2": [6233]
+        "TP2": [6233],
+        "TP1 Alternants": [8034],
+        "TP2 Alternants": [8035]
       }
     },
     "PEI": {
       "1ère année": {
-        "Groupe 1 S1": [7276],
-        "Groupe 2 S1": [7279],
-        "Groupe 3 S1": [4077],
-        "Groupe 4 S1": [4039],
-        "Groupe 1 S2": [6629],
-        "Groupe 2 S2": [6619],
-        "PEI Lorient TP1": [2548],
-        "PEI Lorient TP2": [6929]
+        "GIM Lorient TP1": [2504, 2548],
+        "MT2E Lorient TP1": [1969, 1985]
       },
       "2ème année": {
-        "Groupe 1": [1745, 6701, 7420],
-        "Groupe 2": [1980, 6700, 7421],
-        "PEI Lorient TP1 GIM": [3627],
-        "PEI Lorient TP2 QLIO": [6932],
-        "PEI Lorient TP3 MT2E": [6701]
+        "GIM Lorient TP1": [3182, 3627],
+        "MT2E Lorient TP1": [2206, 2376]
       }
     }
   },
