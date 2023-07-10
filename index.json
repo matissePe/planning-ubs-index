@@ -15,10 +15,7 @@
         "GR 6 G": [707],
         "GR 6 T": [5805],
         "Soutien Anglais A": [3400],
-        "Soutien Anglais B": [3403],
-        "Soutien Anglais C": [3404],
-        "Soutien Compta A": [7957],
-        "Soutien Compta B": [7958],
+        "Soutien Compta": [3403],
         "Soutien LF A": [4816],
         "Soutien LF B": [7834],
         "Soutien LF C": [7835],
@@ -26,29 +23,32 @@
         "Soutien Maths B": [4722],
         "Soutien Maths C": [4624],
         "Soutien Maths D": [3395],
-        "Soutien Maths E": [4727],
-        "Soutien Maths F": [1037]
+        "Soutien Maths E": [4727]
       },
       "2ème année": {
-        "CG2P All": [1981],
-        "CG2P Esp": [3584],
+        "CG2P": [3584],
         "GC2F-A All": [1884],
         "GC2F-A Esp": [3586],
-        "GC2F-I": [1803],
-        "GEMA-FA ALL": [3582],
-        "GEMA-FA Esp": [1274],
+        "GC2F-I1": [1803],
+        "GC2F-I2 All": [6626],
+        "GC2F-I2 Esp": [6625],
+        "GEMA-FA": [1274],
         "GEMA-FI1 All": [3587],
         "GEMA-FI1 Esp": [3402],
         "GEMA-FI2": [1290],
-        "GPRH All": [2016],
-        "GPRH Esp": [3513],
-        "GMO7 All": [2692],
-        "GMO7 Esp": [2693]
+        "GPRH": [3513]
+      },
+      "3ème année": {
+        "CG2P-FA": [4656],
+        "GC2F-FA": [5146],
+        "GEMA-FA": [4655],
+        "GEMA-FI": [4653],
+        "GPRH-FA": [5182]
       }
     },
     "BUT Informatique": {
       "1ère année": {
-        "GR 1A1": [3543],
+        "GR 1A1 - PEI": [3543],
         "GR 1A2": [3542],
         "GR 1B1": [3538],
         "GR 1B2": [3535],
@@ -58,25 +58,21 @@
         "GR 1D2": [3525]
       },
       "2ème année": {
-        "2A1": [3487],
-        "2A2": [3486],
-        "2B1": [3484],
-        "2B2": [3483],
-        "2C1": [3479],
-        "2C2": [3478],
-        "2D1": [4294],
-        "2D2": [4296],
-        "Apprentis 2A1": [2496],
-        "Apprentis 2A2": [2105],
-        "Apprentis 2B1": [2053],
-        "Apprentis 2B2": [1997],
-        "Apprentis 2C1": [1919],
-        "Apprentis 2C2": [1837],
-        "Apprentis 2D1": [2744],
-        "Apprentis 2D2": [2776]
+        "GR 2A1": [3487],
+        "GR 2A2": [3486],
+        "GR 2B1": [3484],
+        "GR 2B2": [3483],
+        "GR 2C1": [3479],
+        "GR 2C2": [3478]
+      },
+      "3ème année": {
+        "GR 3A1": [6345],
+        "GR 3A2": [6927],
+        "GR 3B1": [6932],
+        "GR 3B2": [6974]
       }
     },
-    "BUT STID": {
+    "BUT SD (STID)": {
       "1ère année": {
         "1A1": [3467],
         "1A2": [3466],
@@ -87,21 +83,34 @@
         "1D1": [3458],
         "1D2": [3457],
         "Allemand": [3492],
-        "Espagnol": [3493],
-        "DU ETD": [5298]
+        "Espagnol": [3493]
       },
       "2ème année": {
-        "2AE": [3453],
-        "2AV": [3454],
-        "2BE": [3450],
-        "2BV": [3451],
-        "2CE": [3447],
-        "2CV": [3448],
-        "2DE": [1299],
-        "2DV": [1189],
+        "2A1": [3453],
+        "2A2": [3454],
+        "2B1": [3450],
+        "2B2": [3451],
+        "2C1": [3447],
+        "2C2": [3448],
+        "2D1": [3755],
+        "2D2": [3686],
+        "EMS1-FA": [4441],
+        "EMS1-FI": [4212],
+        "EMS2-FA": [1837],
+        "EMS2-FI": [1798],
+        "VCOD1-FA": [1997],
+        "VCOD1-FI": [1930],
+        "VCOD2-F1": [2075],
+        "VCOD2-FA": [2105],
         "Allemand": [3492],
-        "Espagnol": [3493],
-        "DU ETD": [5298]
+        "Espagnol": [3493]
+      },
+      "3ème année": {
+        "Gr A-EMS": [1141],
+        "Gr B-EMS": [1153],
+        "Gr C-VCOD": [1167],
+        "Allemand": [3492],
+        "Espagnol": [3493]
       }
     },
     "BUT TC": {
@@ -124,76 +133,36 @@
         "C.2": [3414],
         "D.1": [3418],
         "D.2": [3417],
-        "Parcours MKT DIGITAL 1.1": [3387],
-        "Parcours 1.2": [3585],
-        "Parcours BUS INTERNATIONAL 2.1": [3580],
-        "Parcours BUS INTERNATIONAL 2.2": [71],
-        "Parcours FA MKT et MGMT POINT DE VENTE 3.1": [2883],
-        "Parcours FA MKT et MGMT POINT DE VENTE 3.2": [2902],
-        "Parcours FI MKT et MGMT POINT DE VENTE 3.1": [2808],
-        "Parcours FI MKT et MGMT POINT DE VENTE 3.2": [2811],
-        "Parcours FI MKT et MGMT POINT DE VENTE 4.1": [2814],
-        "Parcours FI MKT et MGMT POINT DE VENTE 4.2": [2836]
+        "Parcours 2BDMRC": [71],
+        "Parcours 2BI": [8062],
+        "Parcours 2MDEE": [8060],
+        "Parcours 2MMPV": [2883]
+      },
+      "3ème année": {
+        "A.1": [3872],
+        "A.2": [3873],
+        "B.1": [3874],
+        "B.2": [3880],
+        "C.1": [3887],
+        "C.2": [3918],
+        "Parcours 3BDMRC": [6017],
+        "Parcours 3BI": [6707],
+        "Parcours 3MDEE": [6556],
+        "Parcours 3MMPV": [6139]
       }
     },
     "DCU-DSCU": {
-      "L3": {
-        "DCU": [1020],
+      "1ère année": {
         "DSCU 1 entrants": [3507],
-        "DSCU 1 sortants": [3490],
+        "DSCU 1 sortants": [3490]
+      },
+      "2ème année": {
         "DSCU 2": [3494]
       }
     },
-    "LP CGID": {
-      "1ère année": {
-        "LP CGID": [3510],
-        "LP CGID ALT": [5877]
-      }
-    },
-    "LP GAB": {
-      "1ère année": {
-        "LP GABI": [1849]
-      }
-    },
-    "LP E-COMMN": {
-      "1ère année": {
-        "E-COMMN ALT": [5252]
-      }
-    },
-    "LP CD": {
-      "1ère année": {
-        "LP CD": [3508]
-      }
-    },
-    "LP C2A": {
-      "1ère année": {
-        "LP C2A": [4226]
-      }
-    },
-    "LP SIS": {
-      "1ère année": {
-        "LP SIS ALT": [1890],
-        "SIS-A": [6787],
-        "SIS-B": [6789]
-      }
-    },
-    "LP SDM": {
-      "1ère année": {
-        "LP SDM ALT": [1359],
-        "SDM-A": [6791],
-        "SDM-B": [6800]
-      }
-    },
-    "LP CSD": {
-      "1ère année": {
-        "LP CSD ALT": [3577]
-      }
-    },
-
-    "LP DLIS": {
-      "1ère année": {
-        "LP DLIS Grp 1": [3997],
-        "LP DLIS Grp 2": [4209]
+    "DU ETD": {
+      "Toutes années": {
+        "DU ETD": [5298]
       }
     }
   },
