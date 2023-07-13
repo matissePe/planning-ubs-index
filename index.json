@@ -1318,26 +1318,27 @@
     },
     "UE5": {
       "L1": {
-        "Approches profesionnelles de la santé": [6531],
-        "GPCI - Français TD1": [7680],
-        "GPCI - Français TD2": [7702],
-        "GPCI - Rédaction en allemand": [7758],
-        "GPCI - Rédaction en anglais TD1": [7721],
-        "GPCI - Rédaction en anglais TD2": [7722],
-        "GPCI - Rédaction en espagnol TD1": [7719],
-        "GPCI - Rédaction en espagnol TD2": [7720],
+        "Approches professionnelles": [6531],
+        "Français - Gestion de projet et  CI TD1": [7680],
+        "Français - Gestion de projet et  CI TD2": [7702],
+        "Rédaction en allemand": [7758],
+        "Rédaction en anglais TD1": [7721],
+        "Rédaction en anglais TD2": [7722],
+        "Rédaction en espagnol TD1": [7719],
+        "Rédaction en espagnol TD2": [7720],
         "Métiers de l'écrit": [6656],
         "Option FLE": [6532],
-        "Découverte des métiers de l'éducation": [6692],
+        "PE Découverte des métiers de l'éducation": [6692],
         "PE Français TD1": [6464],
         "PE Français TD2": [6465],
         "PE Maths TD1": [6405],
         "PE Maths TD2": [6453],
-        "SHS": [6390],
-        "Sciences politiques": [6739],
+        "PLC Découverte des métiers de l'éducation": [6695],
         "Education aux médias TD1": [6515],
         "Education aux médias TD2": [6516],
-        "Education aux médias TD3": [7132]
+        "Education aux médias TD3": [7132],
+        "Sciences humaines et sociales": [6390],
+        "Sciences politiques": [6739]
       },
       "L2": {
         "Edition": [4160],
@@ -1348,18 +1349,18 @@
         "PLC - Disciplinaire : Lettres": [9023],
         "PLC - Disciplinaire : anglais": [8777],
         "PLC - Disciplinaire : histoire": [8778],
-        "SHS": [4242]
+        "Sciences humaines et sociales": [4242]
       },
       "L3": {
         "Edition": [4172],
         "FLE": [4204],
         "PE": [6293],
         "PLC": [1504],
-        "Disciplinaire : Anglais": [1716],
-        "Disciplinaire : Espagnol": [1702],
-        "Disciplinaire : Hsitoire": [1765],
-        "Disciplinaire : Lettres": [1711],
-        "SHS": [4252]
+        "PLC - Disciplinaire : Anglais": [1716],
+        "PLC - Disciplinaire : Espagnol": [1702],
+        "PLC - Disciplinaire : Hsitoire": [1765],
+        "PLC - Disciplinaire : Lettres": [1711],
+        "Sciences humaines et sociales": [4252]
       }
     },
     "Master AUTELI": {
