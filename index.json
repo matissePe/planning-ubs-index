@@ -2263,13 +2263,70 @@
       }
     }
   },
-  "Autres (Atouts réussite)": {
+  "Autres Plannings": {
     "Atouts réussite": {
       "Toutes années": {
         "G1 Lorient": [4534],
         "G2 Lorient": [6048],
         "G1 Vannes": [2747],
         "G2 Vannes": [2784]
+      }
+    },
+    "Université Temps Libre": {
+      "Toutes années": {
+        "UTL Anglais A1-A2": [2180],
+        "UTL Anglais A2": [341],
+        "UTL Anglais B1": [5642],
+        "UTL Anglais B2": [2018],
+        "UTL Espagnol A2": [7925],
+        "UTL Espagnol A2-bis": [6699],
+        "UTL Espagnol AO": [1955],
+        "UTL Espagnol B1-B2": [1943]
+      }
+    },
+    "Service des Affaires Internationales": {
+      "Toutes années": {
+        "FPE Lorient A2-B1": [2494],
+        "FPE Lorient B2-C1": [6106],
+        "FPE Vannes": [6107],
+        "SAI": [6257],
+        "SAI Hispanophone": [856],
+        "SAI Lusophone": [5613],
+        "SAI Weihai & Beijing": [6105]
+      }
+    },
+    "Service de Formations Professionnel et Alternance": {
+      "Toutes années": {
+        "DIVA": [138],
+        "Formation professionnelle": [1862],
+        "REVA": [416],
+        "VAE": [414],
+        "VAPRE": [415]
+      }
+    },
+    "Centre des langues": {
+      "Toutes années": {
+        "Certifications Anglais TOEIC 1 (tout public)": [5618],
+        "Certifications Anglais TOEIC 2 (institutionnel)": [5667],
+        "Certifications Allemand-Goethe": [5725],
+        "Certifications Catalan": [5735],
+        "Certifications Chinois (HSK)": [5746],
+        "Certifications Espagnol CLES B2": [5707],
+        "Certifications Espagnol DELE": [5670],
+        "Certifications Français DELF/DALF": [5570],
+        "Certifications Français TCF": [5559],
+        "Formations Anglais Cambridge": [5140],
+        "Formations Anglais Prépa TOEIC": [4963],
+        "Formations Allemand": [5251],
+        "Formations Espagnol": [5499],
+        "Formations FLE Ateliers": [4040],
+        "Formations FLE Niv B1-B2": [3506],
+        "Formations FLE Niv C1-C2": [5756],
+        "Formations Cours semi-intensifs FLE A": [3725],
+        "Formations Cours semi-intensifs FLE B": [7017],
+        "Formations Cours semi-intensifs FLE C": [1107],
+        "Formations FLE Intensifs été": [4330],
+        "Formation FLE Test de positionnement": [6897]
       }
     }
   }
