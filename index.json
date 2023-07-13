@@ -306,6 +306,11 @@
         "Z LPC": [1721],
         "Z Pres": [5672]
       }
+    },
+    "LP GOOA": {
+      "1ère année": {
+        "G1": [5839]
+      }
     }
   },
   "ENSIBS": {
@@ -440,36 +445,50 @@
   "Fac DSEG": {
     "AO": {
       "Toutes années": {
-        "Cinéma": [8441],
-        "Communication et entretiens professionnels": [4536],
-        "Construire et communiquer sur son projet professionnel": [4902],
-        "Culture Entrepreneur": [8477],
-        "Cyber-sécurité": [2925],
-        "Développement durable/Problématique environnementale": [7855],
-        "En quête d'archives": [2942],
-        "Engagement associatif et bénévole - Ligue de l'enseignement": [3539],
-        "Entreprenariat": [8473],
-        "Gestion de Projets": [4862],
-        "Histoire de l'architecture": [6288],
-        "Histoire de l'art - E Le Franc": [4223],
-        "Histoire de l'art au 19è siècle": [7935],
-        "Histoire idée européenne 1 - R Bareau": [4238],
-        "Histoire idée européenne 2": [4237],
-        "Initiation à la gestion comptable et financière": [6562],
-        "Intro psychologie sociale - N Guéguen": [4229],
-        "Intro. histoire de l'architecture - M Ramonnet": [4224],
-        "Outils Informatiques": [3503],
-        "Problématiques environnementales (Economie circulaire)": [3481],
-        "Société Numérique": [4319],
-        "Théatre": [8446],
-        "Culture entrepreneur S Gravouil": [5423],
-        "Gravure": [6326],
-        "Hist. politique et sociale contemporaine - F Ars": [4220],
-        "Illustration du vivant - D Haras ?": [4265],
-        "Philosophie 1 - D Gouzien": [4230],
-        "Philosophie 2 - D Gouzien": [3827],
-        "Photographie": [6323],
-        "Préparation concours": [4256]
+        "AO Allemand G1": [3499],
+        "AO Allemand G2": [4740],
+        "AO Cinéma": [8441],
+        "AO Communication et entretiens professionnels": [4536],
+        "AO Construire et communiquer sur son projet professionnel": [4902],
+        "AO Cordées de la réussite": [7875],
+        "AO Culture Entrepreneur": [8477],
+        "AO Cyber-sécurité": [2925],
+        "AO Développement durable/Problématique environnementale": [7855],
+        "AO En quête d'archives": [2942],
+        "AO Engagement associatif et bénévole - Ligue de l'enseignement": [3539],
+        "AO Enjeux contemporains de l'action publique européenne": [874],
+        "AO Entreprenariat": [8473],
+        "AO Espagnol": [6275],
+        "AO Gestion de Projets": [4862],
+        "AO Histoire de l'architecture": [6288],
+        "AO Histoire de l'art - E Le Franc": [4223],
+        "AO Histoire de l'art au 19è siècle": [7935],
+        "AO Histoire de la photographie": [6323],
+        "AO Histoire idée européenne 1 - R Bareau": [4238],
+        "AO Histoire idée européenne 2-les progrès": [4237],
+        "AO Initiation au no code": [5771],
+        "AO Initiation à la gestion comptable et financière": [6562],
+        "AO Intro psychologie sociale - N Guéguen": [4229],
+        "AO Intro. histoire de l'architecture - M Ramonnet": [4224],
+        "AO Outils Informatiques": [3503],
+        "AO Problématiques environnementales (Economie circulaire)": [3481],
+        "AO Sensibilisation aux enjeux climatiques et mise en oeuvre d'actions DSEG": [6989],
+        "AO Société Numérique": [4319],
+        "AO Théatre": [8446],
+        "AO culture entrepreneur S Gravouil": [5423],
+        "AO gravure": [6326],
+        "AO hist. politique et sociale contemporaine - F Ars": [4220],
+        "AO illustration du vivant - D Haras ?": [4265],
+        "AO philosophie 1 - D Gouzien": [4230],
+        "AO philosophie 2 - D Gouzien": [3827],
+        "AO préparation concours": [4256],
+        "examen AO Allemand": [7031],
+        "examen AO En quête d'archive": [7000],
+        "examen AO Espagnol": [7001],
+        "examen AO Histoire de l'idée européenne 1": [7015],
+        "examen AO Histoire politique et sociale": [7002],
+        "examen AO Problématique environnementale": [6994],
+        "examen AO outils informatiques": [7023]
       }
     },
     "CPGE": {
@@ -503,19 +522,19 @@
         "G10": [3716],
         "G11": [188],
         "G12": [7872],
-        "AG1": [4833],
-        "AG2": [4832],
-        "AG3": [4831],
-        "AG4": [4830],
-        "AG5": [4829],
-        "AG6": [4828],
-        "AG7": [4827],
-        "AG8": [4826],
-        "AG9": [4825],
-        "AG10": [5922],
-        "AG11": [195],
-        "AG12": [201],
-        "Espagnol": [2515],
+        "Langues AG1": [4833],
+        "Langues AG10": [5922],
+        "Langues AG11": [195],
+        "Langues AG12": [201],
+        "Langues AG2": [4832],
+        "Langues AG3": [4831],
+        "Langues AG4": [4830],
+        "Langues AG5": [4829],
+        "Langues AG6": [4828],
+        "Langues AG7": [4827],
+        "Langues AG8": [4826],
+        "Langues AG9": [4825],
+        "Langues Espagnol": [2515],
         "AUDIOVISUEL": [6886],
         "CYBER SECURITE": [6883],
         "GRAVURE": [6884],
@@ -539,7 +558,8 @@
         "PRATIQUE MUSICALE": [6885],
         "SPORT DE HAUT NIVEAU": [6869],
         "STREET ART": [6873],
-        "VOIX ET CHANT": [6887]
+        "VOIX ET CHANT": [6887],
+        "Evt UBS": [1257]
       },
       "L1 Accès Santé": {
         "G1": [5137],
@@ -553,24 +573,27 @@
         "G9": [5191],
         "G10": [5195],
         "G11": [5211],
-        "AG1": [5305],
-        "AG2": [5358],
-        "AG3": [5359],
-        "AG4": [5373],
-        "AG5": [5390],
-        "AG6": [5399],
-        "AG7": [5400],
-        "AG8": [5408],
-        "AG9": [5414],
-        "AG10": [5416],
-        "AG11": [5422],
-        "AG12": [5425],
-        "gpe espagnol": [5639],
         "Histoire politique et sociale contemporaine": [5426],
         "LICENCE+ 1": [5217],
         "LICENCE+ 2": [5231],
         "LICENCE+ 3": [5236],
-        "LICENCE+ 4": [5254]
+        "LICENCE+ 4": [5254],
+        "Langues AG1": [5305],
+        "Langues AG10": [5416],
+        "Langues AG11": [5422],
+        "Langues AG12": [5425],
+        "Langues AG2": [5358],
+        "Langues AG3": [5359],
+        "Langues AG4": [5373],
+        "Langues AG5": [5390],
+        "Langues AG6": [5399],
+        "Langues AG7": [5400],
+        "Langues AG8": [5408],
+        "Langues AG9": [5414],
+        "Langues espagnol": [5639],
+        "Evt UBS": [7168],
+        "L1 LAS": [4038],
+        "L1 LAS groupe": [7143]
       },
       "L2": {
         "G1": [4490],
@@ -593,15 +616,22 @@
         "Langues ANG6": [1177],
         "Langues ESP1": [4481],
         "Langues ESP2": [4240],
-        "Langues HDA L2D": [5015],
-        "Langues HDO L2D": [5204],
-        "Langues HIE L2D": [4738],
-        "Langues IGCF L2D": [5010],
-        "Langues IPS L2D": [2661]
+        "Langues Groupe espagnol": [6947],
+        "HDA L2D": [5015],
+        "HDO L2D": [5204],
+        "HIE L2D": [4738],
+        "IGCF L2D": [5010],
+        "IPS L2D": [2661],
+        "Evt UBS": [7172]
       },
       "L3": {
         "ADA L3D": [7109],
+        "Evt UBS": [7189],
         "GF L3": [2922],
+        "Groupe 1": [7043],
+        "Groupe 2": [7045],
+        "Groupe 3": [7048],
+        "Groupe 4": [7053],
         "Profil mixte - Groupe 1": [1503],
         "Profil mixte - Groupe 1a": [8682],
         "Profil mixte - Groupe 2": [5704],
@@ -613,23 +643,23 @@
         "Profil privatiste - Groupe 3": [5128],
         "Profil publiciste - Groupe 1": [5966],
         "Profil publiciste - Groupe 2": [1841],
-        "AAR L3": [4280],
-        "ALL L3D": [4459],
-        "ANG1": [4467],
-        "ANG2": [4465],
-        "ANG3": [4463],
-        "ANG4": [4399],
-        "ANG5": [5061],
-        "ANG6": [5917],
+        "Préparation concours (46)": [6123],
+        "Tiers temps 1": [615],
+        "Langues AAR L3": [4280],
+        "Langues ALL L3D": [4459],
+        "Langues ANG1": [4467],
+        "Langues ANG2": [4465],
+        "Langues ANG3": [4463],
+        "Langues ANG4": [4399],
+        "Langues ANG5": [5061],
+        "Langues ANG6": [5917],
+        "Langues ESP1": [4461],
+        "Langues ESP2": [4570],
         "AO": [6045],
-        "ESP1": [4461],
-        "ESP2": [4570],
         "HDA L3": [6587],
         "HIE L3": [6598],
         "PHILO L3": [3819],
-        "Préparation concours Langues et UECG": [2051],
-        "Préparation concours": [6123],
-        "Tiers temps 1": [615]
+        "PREPARATION CONCOURS": [2051]
       }
     },
     "Licence Eco Gestion": {
@@ -659,27 +689,26 @@
         "X": [7274],
         "Y": [382],
         "Z": [4436],
-        "Langues 1/3 Tps": [4298],
-        "Langues AG1": [4430],
-        "Langues AG2": [4428],
-        "Langues AG3": [4427],
-        "Langues AG4": [4425],
-        "Langues AG5": [4423],
-        "Langues AG6": [4422],
-        "Langues AG7": [4420],
-        "Langues AG8": [4418],
-        "Langues ALL 1": [4414],
-        "Langues ALL 2": [6595],
-        "Langues ALL 3": [6319],
-        "Langues BRETON": [5197],
-        "Langues ESP1": [4410],
-        "Langues ESP2": [4412],
-        "Langues ESP3": [2875],
-        "Langues OPTION UEC": [4416],
+        "1/3 Tps L1": [4298],
+        "AG1": [4430],
+        "AG2": [4428],
+        "AG3": [4427],
+        "AG4": [4425],
+        "AG5": [4423],
+        "AG6": [4422],
+        "AG7": [4420],
+        "AG8": [4418],
+        "ALL 1 ECO L1": [4414],
+        "ALL 2 ECO L1": [6595],
+        "ALL3 (ECO L1)": [6319],
+        "BRETON": [5197],
+        "ESP1": [4410],
+        "ESP2": [4412],
+        "ESP3": [2875],
+        "OPTION UEC": [4416],
         "L1 MIS": [1846]
       },
       "L2": {
-        "1/3 Tps": [2705],
         "A": [4373],
         "B": [4372],
         "C": [4337],
@@ -701,30 +730,32 @@
         "X": [5496],
         "Y": [5323],
         "Z": [6521],
-        "Langues AG1": [4369],
-        "Langues AG2": [4368],
-        "Langues AG3": [4366],
-        "Langues AG4": [745],
-        "Langues AG5": [746],
-        "Langues AG6": [1592],
-        "Langues AG7": [1594],
-        "Langues ALL 1": [4448],
-        "Langues ESP1": [1482],
-        "Langues ESP2": [1483],
-        "Langues ESP3": [7962],
-        "Langues OPTION UEC": [2133]
+        "AG1": [4369],
+        "AG2": [4368],
+        "AG3": [4366],
+        "AG4": [745],
+        "AG5": [746],
+        "AG6": [1592],
+        "AG7": [1594],
+        "ALL 1": [4448],
+        "ESP1": [1482],
+        "ESP2": [1483],
+        "ESP3": [7962],
+        "OPTION  UEC": [2133],
+        "1/3 Tps": [2705],
+        "Evt UBS": [7842]
       },
       "L3 Comptabilité-Finance": {
-        "A1": [2768],
+        "A": [2768],
         "A2": [2858],
+        "B": [3779],
         "B2": [2862],
-        "B3": [3779],
+        "ALL L3CF": [1368],
+        "ESP CF": [5974],
         "AO CCPP CF": [4797],
         "AO ETP CF": [8534],
         "AO HIE CF": [1907],
-        "AO SN CF": [8504],
-        "AO LV2 ALL L3CF": [1368],
-        "AO LV2 ESP CF": [5974]
+        "AO SN CF": [8504]
       },
       "L3 EGO": {
         "1/3 Tps": [4343],
@@ -734,72 +765,59 @@
         "B2": [1517],
         "C1": [3786],
         "C2": [1936],
-        "D": [200],
         "DU": [5103],
         "E": [743],
         "EGO DPA1": [3664],
         "EGO DPA2": [2129],
         "EGO DPB1": [4569],
         "EGO DPB2": [1627],
+        "EGO DPH": [200],
         "EGO GPA1": [185],
         "EGO GPA2": [2121],
         "EGO MBF A1": [170],
         "EGO MBF A2": [5703],
         "EGO MBF B1": [7801],
         "EGO MBF B2": [5138],
+        "Evt UBS": [7836],
         "G ES (36)": [5266],
         "G HPE": [5257],
-        "Langues AG1": [4317],
-        "Langues AG2": [4388],
-        "Langues AG3": [889],
-        "Langues AG4": [6136],
-        "Langues AG5": [7802],
-        "Langues ALL)": [4316],
+        "AG1": [4317],
+        "AG2": [4388],
+        "AG3": [889],
+        "AG4": [6136],
+        "AG5": [7802],
+        "ALL  (L3 EGO)": [4316],
         "Langues DU": [335],
-        "Langues ESP1": [4315],
-        "Langues ESP2": [7803]
+        "ESP1": [4315],
+        "ESP2": [7803]
       },
       "L3 Economie Appliquée": {
         "1/3 tps": [6322],
-        "G": [470],
         "G DPI": [5449],
         "G DPI1": [4667],
         "G DPI2": [4718],
         "G ET": [481],
         "G GPA": [5477],
-        "G HPE": [5480],
-        "G MBF": [5483],
-        "Langues AG1": [4387],
-        "Langues AG2": [4393],
-        "Langues AG3": [4394],
-        "Langues AG4": [4437],
-        "Langues AG5": [7804],
-        "Langues ALL": [4903],
-        "Langues ESP1": [4876],
-        "Langues ESP2": [7805],
-        "S6 ES 1": [4637],
-        "S6 ES 2": [4644],
-        "S6 ES 3": [4645],
-        "S6 HPE 1": [4650],
-        "S6 HPE 2": [4652],
-        "S6 HPE 3": [4653],
-        "S6 THE 1": [4655],
-        "S6 THE 2": [4656],
-        "S6 THE 3": [4657]
+        "G HEG": [470],
+        "AG1": [4387],
+        "AG2": [4393],
+        "AG3": [4394],
+        "ALL (L3 EA)": [4903],
+        "ESP1": [4876]
       },
       "L3 Marketing-Vente": {
-        "A1": [51],
+        "A": [51],
         "A2": [73],
+        "B": [210],
         "B2": [166],
-        "B3": [210],
         "AO CCPP MV": [8491],
         "AO DD MV": [7848],
         "AO HIE MV": [4479],
         "AO SN MV": [8492],
-        "LV2 ALL L3MV": [1100],
-        "LV2 ESP MV": [1009],
-        "LV2 ESP2 MV": [6958],
-        "Réunion ERASMUS": [2252]
+        "ALL L3MV": [1100],
+        "ESP MV": [1009],
+        "ESP2 MV": [6958],
+        "réunion ERASMUS": [2252]
       }
     },
     "LP Banque": {
@@ -813,6 +831,11 @@
         "G2": [182]
       }
     },
+    "LP GOOA": {
+      "1ère année": {
+        "G1": [5839]
+      }
+    },
     "Master CCA - CGAO": {
       "M1": {
         "G1 CCA": [4808],
@@ -824,7 +847,8 @@
         "GC CGAO": [676],
         "GrA CCA": [4795],
         "GrB CCA": [4804],
-        "GrC CCA": [4869]
+        "GrC CCA": [4869],
+        "GrD Evenement": [6926]
       },
       "M2 CCA": {
         "G1 CCA": [4594],
@@ -833,9 +857,9 @@
         "Anglais CCA-CGAO": [2415]
       },
       "M2 CGAO": {
-        "G1 CGAO": [4599],
-        "G2 CGAO": [4567],
-        "GA CGAO": [4568],
+        "Grpe 1 CGAO": [4599],
+        "Grpe 2 CGAO": [4567],
+        "Grpe A CGAO": [4568],
         "Grpe CGAO": [1214],
         "Anglais CGAO": [3602],
         "Anglais CGAO-CCA": [3603]
@@ -843,6 +867,7 @@
     },
     "Master Droit": {
       "M1 Droit privé - PCCA": {
+        "Evt UBS": [7191],
         "G1 DROIT PRIVE": [6063]
       },
       "M1 Droit public - JCAP": {
@@ -850,10 +875,13 @@
         "Evt UBS": [5264]
       },
       "M2 Droit privé - PCCA": {
-        "G1 PRIVE": [1651]
+        "G1 PRIVE": [1651],
+        "G2 PRIVE": [5145],
+        "Evt UBS": [7192]
       },
       "M2 Droit public - JCAP": {
-        "G1 PUBLIC": [1648]
+        "G1 PUBLIC": [1648],
+        "G2 PUBLIC": [2730]
       }
     },
     "Master GRH": {
@@ -861,14 +889,15 @@
         "G1": [1566]
       },
       "M2": {
-        "G": [6668],
+        "G1": [6668],
         "G2": [1575],
         "G3": [594]
       }
     },
     "Master Marketing-vente": {
       "M1": {
-        "G1": [6651]
+        "G1 Parcours Marketing Digital": [6651],
+        "G1 Responsable Marketing et Businesse Developper": [4324]
       },
       "M2": {
         "G2": [1148],
@@ -881,7 +910,9 @@
         "Gr2": [1442]
       },
       "M2": {
-        "Gr1": [6623]
+        "Gr A": [8638],
+        "Gr B": [8639],
+        "M2 CPFA": [6623]
       }
     },
     "Master CPA": {
