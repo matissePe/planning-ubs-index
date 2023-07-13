@@ -955,18 +955,28 @@
   "Fac LLSHS": {
     "AO": {
       "Toutes années": {
+        "Etudiants ambassadeurs": [5478],
         "Arts plastiques - aquarelle LLSHS": [8006],
+        "Biodiversité LLSHS": [7768],
         "Carnet de croquis LLSHS": [8005],
         "Chant LLSHS": [8001],
         "Cinéma LLSHS": [7692],
+        "Cordée de la réussite": [7706],
         "Culture entrepreneur LLSHS": [2147],
         "Dessin LLSHS": [3677],
-        "Ecriture créative LLSHS": [7706],
+        "Ecriture créative LLSHS": [1252],
+        "Ecriture numérique multimodale": [999],
         "Engagement associatif et bénévole LLSHS": [9165],
-        "Entreprends toi LLSHS": [8542],
+        "Entreprends-toi LLSHS": [5558],
+        "Francophonie": [6244],
         "Gravure LLSHS": [8002],
+        "Héritage antique": [94],
         "Interculturalité et inclusion LLSHS": [4046],
         "Langues des signes LLSHS": [813],
+        "Littérature et engagement": [6650],
+        "Outils numériques Niv 1": [4812],
+        "Outils numériques Niv 1-1": [7073],
+        "Outils numériques Niv 2": [4857],
         "Photographie LLSHS": [7998],
         "Pratique du dessin LLSHS": [7685],
         "Pratique musicale LLSHS": [8003],
@@ -989,6 +999,12 @@
         "Théâtre LLSHS": [1533]
       }
     },
+    "C2i": {
+      "Toutes années": {
+        "C2i (personnel ubs)": [1580],
+        "C2i (étudiants)": [1402]
+      }
+    },
     "Langues": {
       "Toutes années Allemand": {
         "Allemand N 01": [824],
@@ -999,14 +1015,16 @@
         "Allemand N 13": [375]
       },
       "Toutes années Anglais": {
-        "Anglais N 11 GRP 1": [429],
-        "Anglais N 11 GRP 2": [432],
-        "Anglais N 11 GRP 3": [433],
-        "Anglais N 11 GRP 4": [1423],
-        "Anglais N 12 GRP 1": [405],
-        "Anglais N 12 GRP 2": [406],
-        "Anglais N 13 GRP 1": [850],
-        "Anglais N 13 GRP 2": [851]
+        "Anglais 11 GRP 1": [429],
+        "Anglais 11 GRP 2": [432],
+        "Anglais 11 GRP 3": [433],
+        "Anglais 11 GRP 4": [1423],
+        "Anglais 11 GRP 5": [4979],
+        "Anglais 12 GRP 1": [405],
+        "Anglais 12 GRP 2": [406],
+        "Anglais 12 GRP 3": [3810],
+        "Anglais 13 GRP 1": [850],
+        "Anglais 13 GRP 2": [851]
       },
       "Toutes années Breton": {
         "Breton N 01": [327],
@@ -1039,14 +1057,16 @@
         "Espagnol N 13": [4666]
       },
       "Toutes années Italien": {
-        "Italien N 01 GRP 1": [331],
-        "Italien N 01 GRP 2": [332],
-        "Italien N 01 GRP 3": [7695],
-        "Italien N 02": [362],
-        "Italien N 03": [363],
-        "Italien N 11": [770],
-        "Italien N 12": [364],
-        "Italien N 13": [4671]
+        "Italien 01 GRP 1": [331],
+        "Italien 01 GRP 2": [332],
+        "Italien 01 GRP 3": [7695],
+        "Italien 02 Grp 1": [5242],
+        "Italien 02 Grp 2": [362],
+        "Italien N03  Grp2": [3974],
+        "Italien N03 Grp1": [363],
+        "Italien 11": [770],
+        "Italien 12": [364],
+        "Italien 13": [4671]
       },
       "Toutes années Portugais": {
         "Portugais N 01 GRP 1": [853],
@@ -1055,9 +1075,8 @@
         "Portugais N 03": [321]
       },
       "Toutes années Russe": {
-        "Russe N 01 Gr1": [4673],
-        "Russe N 01 Gr2": [6321],
-        "Russe N 02/03": [4680]
+        "Russe N01": [4673],
+        "Russe N02/03": [4680]
       }
     },
     "CPGE LEA": {
@@ -1108,7 +1127,7 @@
         "Renforcement Français 2ème année": [4678],
         "Renforcement anglais \"Oui si\"": [8708],
         "Renforcement bureautique": [5535],
-        "Renforcement économie 1ère année": [7979],
+        "Renforcement économie": [7979],
         "Renforcement économie 2ème année": [7995]
       },
       "L2": {
@@ -1130,10 +1149,14 @@
         "gr A2": [2267],
         "gr A3": [2268],
         "gr A4": [2552],
+        "gr A5": [8634],
+        "gr A6": [8633],
         "gr B1": [2269],
         "gr B2": [2270],
         "gr B3": [2271],
         "gr B4": [2793],
+        "gr B5": [8635],
+        "gr B6": [8636],
         "gr C1": [3495],
         "gr C2": [3812],
         "gr C3": [3650],
@@ -1156,7 +1179,9 @@
         "Institutions politiques gr1": [751],
         "Institutions politiques gr2": [557],
         "Institutions politiques gr3": [752],
-        "Institutions politiques gr4": [4743]
+        "Institutions politiques gr4": [4743],
+        "Institutions politiques gr5": [2753],
+        "Institutions politiques gr6": [2759]
       },
       "L2": {
         "ARCHEO gr1": [1396],
@@ -1285,7 +1310,7 @@
         "Gr 2": [4124]
       }
     },
-    "LP ACIET": {
+    "LP MCI": {
       "1ère année": {
         "Germanistes": [648],
         "Hispanistes": [653]
@@ -1367,7 +1392,7 @@
         "M2 CISS": [260]
       }
     },
-    "Master RDI": {
+    "Master LEA RDI": {
       "M1": {
         "Germanistes": [674],
         "Hispanistes": [673]
@@ -1377,7 +1402,7 @@
         "Hispanistes": [388]
       }
     },
-    "Master GPRE": {
+    "Master LEA GPRE": {
       "M1": {
         "Germanistes": [1035],
         "Hispanistes": [1025]
