@@ -434,11 +434,17 @@
     "PEI": {
       "1ère année": {
         "GIM Lorient TP1": [2504, 2548],
-        "MT2E Lorient TP1": [1969, 1985]
+        "MT2E Lorient TP1": [1969, 1985],
+        "SSI PEI-1 71": [4077, 6629],
+        "SSI PEI-1 72": [4039, 6619],
+        "SSI PEI-1 73": [333]
       },
       "2ème année": {
         "GIM Lorient TP1": [3182, 3627],
-        "MT2E Lorient TP1": [2206, 2376]
+        "MT2E Lorient TP1": [2206, 2376],
+        "SSI PEI2 S3": [1745],
+        "SSI PEI2 S4 71": [7420],
+        "SSI PEI2 S4 72": [7421]
       }
     }
   },
@@ -1632,15 +1638,14 @@
     "CUPGE MIS": {
       "1ère année": {
         "S1 CUPGE": [3669],
-        "S2 CUPGE P": [1767],
+        "S2 CUPGE IM": [1767],
         "S2 CUPGE S": [1764]
       },
       "2ème année": {
-        "S1 CUPGE I": [4783],
-        "S1 CUPGE MS": [5344],
-        "S2 CUPGE INFO": [5895],
-        "S2 CUPGE MATH": [2384],
-        "S2 CUPGE STAT": [4994]
+        "S3 CUPGE I": [4783],
+        "S3 CUPGE MS": [5344],
+        "S4 CUPGE I": [5895],
+        "S4 CUPGE M": [2384]
       }
     },
     "CUPGE Physique": {
@@ -1673,7 +1678,9 @@
     },
     "Licence CMI": {
       "L1": {
-        "CMI": [7155, 9166]
+        "S1 CMI SD": [7155],
+        "S2 CMI-I": [9166],
+        "S2 CMI-P": [7112]
       },
       "L2": {
         "CMI": [3660, 2556]
@@ -1708,22 +1715,27 @@
         "S2 parcours spécialisé": [6571]
       },
       "L2": {
-        "CMI": [2556],
-        "CUPGE I": [5895],
-        "CUPGE M": [2384],
-        "INFO": [4675],
-        "INFO 2": [7765],
-        "MATH MI": [4566],
-        "MATH MS": [2672],
-        "MATH SI": [6514],
-        "STAT": [2353]
+        "CMI": [3660, 2556],
+        "CUPGE I": [4783, 5895],
+        "CUPGE MS": [5344, 2384],
+        "S3 INFO-PHY": [3038],
+        "S3 INFO-STAT": [5419],
+        "S3 MATH-INFO": [2896],
+        "S3 MATH-PHY": [2867],
+        "S3 MATH-STAT": [4118],
+        "S4 INFO": [4675],
+        "S4 INFO-2": [7765],
+        "S4 MATH-MI": [4566],
+        "S4 MATH-MS": [2672],
+        "S4 MATH-SI": [6514],
+        "S4 STAT": [2353]
       },
       "L3": {
-        "CMI IS": [4163],
+        "CMI IS": [4163, 2434],
         "INFO 1": [427, 2234],
-        "INFO 2": [4796, 6555],
-        "INFO 3": [4389, 2544],
-        "INFO 4": [4434, 2615],
+        "INFO 2": [4796],
+        "INFO 3": [4389],
+        "INFO 4": [4434],
         "MATH": [2022, 732],
         "STAT 1": [4545, 2722],
         "STAT 2": [2118, 7094]
