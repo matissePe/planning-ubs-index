@@ -1091,6 +1091,12 @@
         "ESP cpge": [1319]
       }
     },
+    "DAEU A": {
+      "1ère année": {
+        "DAEU A Lorient": [1146],
+        "DAEU A Vannes": [6771]
+      }
+    },
     "Licence ASS": {
       "L1": {
         "Gr1-1": [1159],
@@ -1647,6 +1653,11 @@
         "1A": [447, 7403],
         "1B": [637, 7405],
         "1C": [8391, 7406]
+      }
+    },
+    "DAEU B": {
+      "1ère année": {
+        "DAEU B Lorient": [1147]
       }
     },
     "DU Paréo": {
@@ -2327,6 +2338,15 @@
         "Formations Cours semi-intensifs FLE C": [1107],
         "Formations FLE Intensifs été": [4330],
         "Formation FLE Test de positionnement": [6897]
+      }
+    },
+    "Service de la formation professionnelle et de l'alternance": {
+      "Toutes années": {
+        "DIVA": [138],
+        "Formation professionnelle": [1862],
+        "REVA": [416],
+        "VAE": [414],
+        "VAPRE": [415]
       }
     }
   }
