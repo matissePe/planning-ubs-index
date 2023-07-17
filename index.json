@@ -2164,10 +2164,23 @@
     },
     "Master MEEF S2IME": {
       "M1": {
-        "Groupe 1": [442]
+        "Groupe 1": [442],
+        "DIU S2I": [672]
       },
       "M2": {
-        "Groupe 1": [1285]
+        "Groupe 1": [1285],
+        "DIU S2I": [672]
+      }
+    },
+    "Master MEEF PLP": {
+      "M2": {
+        "TD 1 BIOTECH": [2156],
+        "TD 1 MSPC": [2134],
+        "TD 1 STI": [2152],
+        "TD 2 ARTS APP": [2396],
+        "TD 2 ECO-GESTION": [2251],
+        "TD 2 LETTRES - HG": [2280],
+        "TD 2 LETTRES - LANGUES": [2328]
       }
     },
     "Master CMI": {
