@@ -311,6 +311,32 @@
       "1ère année": {
         "G1": [5839]
       }
+    },
+    "LP CQPA": {
+      "1ère année": {
+        "TP1": [1498],
+        "TP2": [1500]
+      }
+    },
+    "LP IMB": {
+      "1ère année": {
+        "A1": [6890],
+        "A2": [197],
+        "B1": [6906],
+        "B2": [6908]
+      }
+    },
+    "LP MICN": {
+      "1ère année": {
+        "TP1": [461],
+        "TP2": [682]
+      }
+    },
+    "LP PTVR": {
+      "1ère année": {
+        "TP1": [2255],
+        "TP2": [7152]
+      }
     }
   },
   "ENSIBS": {
@@ -1336,6 +1362,14 @@
         "Hispanistes": [653]
       }
     },
+    "Double licence": {
+      "L1": {
+        "Groupe 1": [5227]
+      },
+      "L2": {
+        "Groupe 1": [6628]
+      }
+    },
     "UE5": {
       "L1": {
         "Approches professionnelles": [6531],
@@ -1675,7 +1709,8 @@
     },
     "DU Paréo": {
       "1ère année": {
-        "Grp 1": [220]
+        "Communication et Management": [2091],
+        "Santé et Médicosocial": [220]
       }
     },
     "DU Impression 3D": {
@@ -1726,6 +1761,7 @@
         "CMI": [3660, 2556],
         "CUPGE I": [4783, 5895],
         "CUPGE MS": [5344, 2384],
+        "PEI-A Vannes S3-TP1": [8670],
         "S3 INFO-PHY": [3038],
         "S3 INFO-STAT": [5419],
         "S3 MATH-INFO": [2896],
