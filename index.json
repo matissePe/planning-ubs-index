@@ -1399,26 +1399,34 @@
         "Sciences politiques": [6739]
       },
       "L2": {
-        "Edition": [4160],
-        "FLE": [4201],
+        "Approches professionnelles de la santé et du social": [1639],
+        "Commerce international": [1702],
+        "Gestion de projets européens": [1716],
+        "Métiers de l'écrit": [4160],
+        "Option FLE (PE-PLC)": [4201],
         "PE": [6237],
-        "PLC": [1340],
         "PLC - Disciplinaire : Espagnol": [9071],
         "PLC - Disciplinaire : Lettres": [9023],
-        "PLC - Disciplinaire : anglais": [8777],
-        "PLC - Disciplinaire : histoire": [8778],
-        "Sciences humaines et sociales": [4242]
+        "PLC - Disciplinaire : Anglais": [8777],
+        "PLC - Disciplinaire : Histoire-Géographie": [8778],
+        "PLC": [1340],
+        "Sciences humaines et sociales": [4242],
+        "Sciences politiques": [7968]
       },
       "L3": {
-        "Edition": [4172],
-        "FLE": [4204],
-        "PE": [6293],
-        "PLC": [1504],
-        "PLC - Disciplinaire : Anglais": [1716],
-        "PLC - Disciplinaire : Espagnol": [1702],
-        "PLC - Disciplinaire : Hsitoire": [1765],
-        "PLC - Disciplinaire : Lettres": [1711],
-        "Sciences humaines et sociales": [4252]
+        "Approches professionnelles de la santé et du social": [1504],
+        "Commerce international": [1838],
+        "FLE": [8970],
+        "Gestion de projets européens": [2675],
+        "Métiers de l'écrit": [6568],
+        "PE": [8980],
+        "PLC - Disciplinaire : Espagnol": [9048],
+        "PLC - Disciplinaire : Lettres": [9051],
+        "PLC - Disciplinaire : anglais": [9070],
+        "PLC - Disciplinaire : histoire": [9054],
+        "PLC": [9090],
+        "Sciences humaines et sociales": [5241],
+        "Sciences politiques": [4939]
       }
     },
     "Master AUTELI": {
