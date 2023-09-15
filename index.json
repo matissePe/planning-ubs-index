@@ -100,15 +100,21 @@
         "EMS2-FI": [1798],
         "VCOD1-FA": [1997],
         "VCOD1-FI": [1930],
-        "VCOD2-F1": [2075],
         "VCOD2-FA": [2105],
+        "VCOD2-FI": [9254],
         "Allemand": [3492],
         "Espagnol": [3493]
       },
       "3ème année": {
-        "Gr A-EMS": [1141],
-        "Gr B-EMS": [1153],
-        "Gr C-VCOD": [1167],
+        "GrA-EMS": [9022],
+        "GrA-EMS-FA": [8976],
+        "GrA-EMS-FI": [8977],
+        "GrB-EMS": [8978],
+        "GrB-EMS-FA": [9042],
+        "GrB-EMS-FI": [8992],
+        "GrC-VCOD": [8995],
+        "GrC-VCOD-FA": [9001],
+        "GrC-VCOD-FI": [9010],
         "Allemand": [3492],
         "Espagnol": [3493]
       }
