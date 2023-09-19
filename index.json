@@ -352,15 +352,15 @@
   "ENSIBS": {
     "CyberData": {
       "3ème année": {
-        "TP1": [4426, 5258],
-        "TP2": [4527, 4096]
+        "TP1": [4426, 5258]
       },
       "4ème année": {
         "TP1": [154, 2187],
         "TP2": [4176, 2239]
       },
       "5ème année": {
-        "TP1": [6371]
+        "TP1": [6371],
+        "M2RI": [4096]
       }
     },
     "CyberLog": {
@@ -373,7 +373,8 @@
       },
       "5ème année": {
         "TP1": [887],
-        "TP2": [2764]
+        "TP2": [2764],
+        "M2RI": [701]
       }
     },
     "CyberDéfense": {
@@ -1679,14 +1680,6 @@
         "Sensibilisation aux enjeux climatiques et environnementaux SSI": [5654],
         "Théâtre et improvisation SSI": [8000],
         "Voix et Chant SSI": [7996]
-      }
-    },
-    "Entrepreneuriat": {
-      "Toutes années": {
-        "D2E - Lorient": [2733],
-        "D2E - Vannes": [4025],
-        "Les Entrepreneuriales - Lorient": [4023],
-        "Les Entrepreneuriales - Vannes": [4096]
       }
     },
     "CPEM": {
