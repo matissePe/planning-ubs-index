@@ -476,16 +476,15 @@
       "1ère année": {
         "GIM Lorient TP1": [2504, 2548],
         "MT2E Lorient TP1": [1969, 1985],
-        "SSI PEI-1 71": [4077, 6629],
-        "SSI PEI-1 72": [4039, 6619],
-        "SSI PEI-1 73": [333]
+        "SSI PEI-1 71": [6629],
+        "SSI PEI-1 72": [6619],
+        "SSI PEI-1 73": [5502],
+        "SSI PEI-1 74": [5340]
       },
       "2ème année": {
         "GIM Lorient TP1": [3182, 3627],
         "MT2E Lorient TP1": [2206, 2376],
-        "SSI PEI2 S3": [1745],
-        "SSI PEI2 S4 71": [7420],
-        "SSI PEI2 S4 72": [7421]
+        "SSI PEI-2": [7420]
       }
     }
   },
