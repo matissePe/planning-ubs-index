@@ -1988,7 +1988,8 @@
         "S6 C09 SV TP2": [7569],
         "S6 C10 Q SVU TP3": [7571],
         "S6 C11 Q SV TP3": [7572],
-        "S6 C12 ag TP3": [7575]
+        "S6 C12 ag TP3": [7575],
+        "C13 Anglais débutant": [7650]
       },
       "L3 Biologie et Écologie générales": {
         "S5 G1 IPD BO": [3814],
@@ -2002,7 +2003,8 @@
         "S6 G04 E K": [6583],
         "S6 G05 E NVJ": [6585],
         "S6 G06 E KVJ": [6596],
-        "S6 G07 E NKV": [7094]
+        "S6 G07 E NKV": [7094],
+        "C13 Anglais débutant": [7650]
       },
       "L3 Sciences de l'Environnement": {
         "S5 E1 OID SH": [4035],
@@ -2014,7 +2016,8 @@
         "S6 E03 C RF": [6606],
         "S6 E04 C ELF": [6620],
         "S6 E05 C ERF": [7112],
-        "S6 E06 EF-ag": [7201]
+        "S6 E06 EF-ag": [7201],
+        "C13 Anglais débutant": [7650]
       },
       "L3 Bio Santé": {
         "TP1": [1901],
