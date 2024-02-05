@@ -74,26 +74,22 @@
     },
     "BUT SD (STID)": {
       "1ère année": {
-        "1A1": [3467],
-        "1A2": [3466],
-        "1B1": [3464],
-        "1B2": [3463],
-        "1C1": [3461],
-        "1C2": [3460],
-        "1D1": [3458],
-        "1D2": [3457],
-        "Allemand": [3492],
-        "Espagnol": [3493]
+        "A1": [3467],
+        "A2": [3466],
+        "B1": [3464],
+        "B2": [3463],
+        "C1": [3461],
+        "C2": [3460]
       },
       "2ème année": {
-        "2A1": [3453],
-        "2A2": [3454],
-        "2B1": [3450],
-        "2B2": [3451],
-        "2C1": [3447],
-        "2C2": [3448],
-        "2D1": [3755],
-        "2D2": [3686],
+        "A1": [3453],
+        "A2": [3454],
+        "B1": [3450],
+        "B2": [3451],
+        "C1": [3447],
+        "C2": [3448],
+        "D1": [3755],
+        "D2": [3686],
         "EMS1-FA": [4441],
         "EMS1-FI": [4212],
         "EMS2-FA": [1837],
@@ -101,9 +97,7 @@
         "VCOD1-FA": [1997],
         "VCOD1-FI": [1930],
         "VCOD2-FA": [2105],
-        "VCOD2-FI": [9254],
-        "Allemand": [3492],
-        "Espagnol": [3493]
+        "VCOD2-FI": [9254]
       },
       "3ème année": {
         "GrA-EMS": [9022],
@@ -115,8 +109,8 @@
         "GrC-VCOD": [8995],
         "GrC-VCOD-FA": [9001],
         "GrC-VCOD-FI": [9010],
-        "Allemand": [3492],
-        "Espagnol": [3493]
+        "Groupe 3C1": [6778],
+        "Groupe 3C2": [9376]
       },
       "Enseignants": {
         "Leonard A.": [3768]
@@ -142,7 +136,8 @@
         "C.2": [3414],
         "D.1": [3418],
         "D.2": [3417],
-        "Parcours 2BDMRC": [71],
+        "Parcours 2BDMRC.1": [9372],
+        "Parcours 2BDMRC.2": [9375],
         "Parcours 2BI": [8062],
         "Parcours 2MDEE": [8060],
         "Parcours 2MMPV": [2883]
@@ -155,7 +150,8 @@
         "C.1": [3887],
         "C.2": [3918],
         "Parcours 3BDMRC": [6017],
-        "Parcours 3BI": [6707],
+        "Parcours 3BI.1": [6707],
+        "Parcours 3BI.2": [9230],
         "Parcours 3MDEE": [6556],
         "Parcours 3MMPV": [6139]
       }
@@ -198,7 +194,7 @@
         "TDB TP3": [5694]
       },
       "3ème année": {
-        "TDA TP1": [2982],
+        "TDA TP1": [669],
         "TDA TP2": [2927],
         "TDB TP2": [2881],
         "TDB TP3": [2671]
@@ -252,10 +248,10 @@
         "TP2 Apprentissage": [1962]
       },
       "3ème année": {
-        "TP2.3": [2621],
-        "TP2.4": [6108],
         "TP1.1": [1878],
-        "TP1.2": [5940]
+        "TP1.2": [5940],
+        "TP2.3": [2621],
+        "TP2.4": [6108]
       }
     },
     "BUT MT2E": {
@@ -291,7 +287,9 @@
         "TP1": [2072],
         "TP2": [2073],
         "TP5": [1175],
-        "TP6": [2077]
+        "TP6": [2077],
+        "FI SAE PT-A": [2838],
+        "FI SAE PT-B": [4007]
       },
       "2ème année": {
         "TP1": [2099],
@@ -299,8 +297,8 @@
         "TP5": [2191],
         "TP6": [5540],
         "ATN": [4005],
-        "MPBS1": [4018],
-        "MPBS2": [4007]
+        "MPBS1": [2003],
+        "MPBS2": [4018]
       },
       "3ème année": {
         "TP1": [6557],
@@ -369,7 +367,7 @@
     "CyberLog": {
       "3ème année": {
         "TP1": [1026, 5132],
-        "TP2": [701, 7966]
+        "TP2": [9358, 9359]
       },
       "4ème année": {
         "TP1": [1771, 645]
@@ -446,7 +444,8 @@
         "Parcours GI": [1047],
         "TP1 CPro": [155],
         "TP1 Alternants": [2059],
-        "TP2 Alternants": [7193]
+        "TP2 Alternants": [7193],
+        "Anonyme": [8800]
       }
     },
     "Mécatronique": {
@@ -477,14 +476,16 @@
         "GIM Lorient TP1": [2504, 2548],
         "MT2E Lorient TP1": [1969, 1985],
         "SSI PEI-1 71": [6629],
-        "SSI PEI-1 72": [6619],
-        "SSI PEI-1 73": [5502],
+        "SSI PEI-1 S1 71a": [4077],
+        "SSI PEI-1 S1 71b": [9145],
+        "SSI PEI-1 72": [6619, 4039],
+        "SSI PEI-1 73": [5502, 333],
         "SSI PEI-1 74": [5340]
       },
       "2ème année": {
         "GIM Lorient TP1": [3182, 3627],
         "MT2E Lorient TP1": [2206, 2376],
-        "SSI PEI-2": [7420]
+        "SSI PEI-2": [7420, 1745]
       }
     }
   },
@@ -849,7 +850,8 @@
         "AG2": [4393],
         "AG3": [4394],
         "ALL (L3 EA)": [4903],
-        "ESP1": [4876]
+        "ESP1": [4876],
+        "ES": [7410]
       },
       "L3 Marketing-Vente": {
         "A": [51],
@@ -1110,7 +1112,7 @@
         "Italien 01 GRP 3": [7695],
         "Italien 02 Grp 1": [5242],
         "Italien 02 Grp 2": [362],
-        "Italien N03  Grp2": [3974],
+        "Italien N03 Grp2": [3974],
         "Italien N03 Grp1": [363],
         "Italien 11": [770],
         "Italien 12": [364],
@@ -1172,6 +1174,11 @@
         "Gr5-3": [8675],
         "Gr5-4": [8676],
         "Gr5-5": [8677],
+        "RD Gr2": [9223],
+        "RD Gr1": [9222],
+        "RD Gr3": [9224],
+        "RD Gr4": [9225],
+        "RD Gr5": [9226],
         "Environnement et projet \"Oui si 2\" 1ère année": [8413],
         "Renforcement Compta gestion 2ème année": [3564],
         "Renforcement Compta-gestion 1ère année": [1822],
@@ -1233,6 +1240,16 @@
         "GEO gr2": [663],
         "GEO gr3": [3817],
         "GEO gr4": [4703],
+        "MTU BU1": [8615],
+        "MTU BU2": [8669],
+        "MTU BU3": [8696],
+        "MTU BU4": [8704],
+        "MTU BU5": [8769],
+        "MTU BU6": [8770],
+        "MTU BU7": [8780],
+        "MTU BU8": [8854],
+        "MTU BU9": [8855],
+        "MTU BU10": [8865],
         "Institutions politiques gr1": [751],
         "Institutions politiques gr2": [557],
         "Institutions politiques gr3": [752],
@@ -1259,10 +1276,16 @@
     },
     "Licence Histoire-Géographie": {
       "L1": {
-        "Groupe 1": [8868]
+        "Histoire - Géographie": [8868],
+        "Histoire - Géographie gpe 1": [9107],
+        "Histoire - Géographie gpe 2": [9111],
+        "Histoire - Géographie gpe 3": [9355],
+        "Histoire - Géographie gpe 4": [9356]
       },
       "L2": {
-        "Groupe 1": [8870]
+        "Histoire - Géographie": [8870],
+        "Histoire - Géographie gpe1": [8235],
+        "Histoire - Géographie gpe2": [8237]
       }
     },
     "Licence LEA": {
@@ -1279,6 +1302,9 @@
         "esp gr4-1": [357],
         "esp gr4-2": [1205],
         "esp gr4-3": [359],
+        "OUI SI anglais 1": [9366],
+        "OUI SI anglais 2": [9367],
+        "OUI SI espagnol": [3002],
         "Soutien": [1128]
       },
       "L2": {
@@ -1350,7 +1376,8 @@
     "Licence LLCER-Espagnol": {
       "L1": {
         "Gr 1 (DL)": [910],
-        "Gr 2 (LE)": [911]
+        "Gr 2 (LE)": [911],
+        "OUI SI": [1167]
       },
       "L2": {
         "Gr 1 (DL)": [2967],
@@ -1403,6 +1430,7 @@
         "Rédaction en espagnol TD1": [7719],
         "Rédaction en espagnol TD2": [7720],
         "Métiers de l'écrit": [6656],
+        "Métiers de la culture": [8240],
         "Option FLE": [6532],
         "PE Découverte des métiers de l'éducation": [6692],
         "PE Français TD1": [6464],
@@ -1410,16 +1438,21 @@
         "PE Maths TD1": [6405],
         "PE Maths TD2": [6453],
         "PLC Découverte des métiers de l'éducation": [6695],
-        "Education aux médias TD1": [6515],
-        "Education aux médias TD2": [6516],
-        "Education aux médias TD3": [7132],
+        "Analyse des médias TD1": [6515],
+        "Analyse des médias TD2": [6516],
+        "Analyse des médias TD3": [7132],
         "Sciences humaines et sociales": [6390],
         "Sciences politiques": [6739]
       },
       "L2": {
         "Approches professionnelles de la santé et du social": [1639],
         "Commerce international": [1702],
+        "Commerce international Allemand": [8067],
+        "Commerce international Espagnol 1": [8065],
+        "Commerce international Espagnol 2": [8066],
         "Gestion de projets européens": [1716],
+        "Gestion de projets européens Allemand": [8102],
+        "Gestion de projets européens Espagnol": [8101],
         "Métiers de l'écrit": [4160],
         "Option FLE (PE-PLC)": [4201],
         "PE": [6237],
@@ -1429,7 +1462,8 @@
         "PLC - Disciplinaire : Histoire-Géographie": [8778],
         "PLC": [1340],
         "Sciences humaines et sociales": [4242],
-        "Sciences politiques": [7968]
+        "Sciences politiques": [7968],
+        "Sciences politiques LEA EU5": [8241]
       },
       "L3": {
         "Approches professionnelles de la santé et du social": [1504],
@@ -1445,6 +1479,15 @@
         "PLC": [9090],
         "Sciences humaines et sociales": [5241],
         "Sciences politiques": [4939]
+      },
+      "M1": {
+        "CPFP": [4537],
+        "LV1": [4617],
+        "LV2": [4683],
+        "LV3": [4878],
+        "MFP": [4879],
+        "Méthodo 1": [4880],
+        "Méthodo 2": [4885]
       }
     },
     "Master AUTELI": {
@@ -1497,22 +1540,25 @@
         "Hispanistes": [1233]
       }
     },
-    "Master Recherche": {
+    "Master Recherche LLC": {
       "M1": {
-        "Parcours Anglais": [961],
-        "Parcours Espagnol": [962],
+        "Cultural studies": [961],
+        "Etudes ibériques et ibérico-américaines": [962],
         "Parcours Lettres": [963]
       },
       "M2": {
-        "Parcours Anglais": [897],
-        "Parcours Espagnol": [930],
+        "Cultural studies": [897],
+        "Etudes ibériques et ibérico-américaines": [930],
         "Parcours Lettres": [931]
       }
     },
     "Master Métiers du Livre": {
       "M1": {
         "Groupe 1": [992],
-        "Groupe 2": [993]
+        "Groupe 2": [993],
+        "groupe 1 - salle NIS": [9361],
+        "groupe 2 - salle NIS": [9362],
+        "groupe 3 - salle NIS": [9363]
       },
       "M2": {
         "Documentation Numérique": [3626],
@@ -1612,6 +1658,9 @@
         "PE2 - TP1": [906],
         "PE2 - TP2": [1207],
         "PE2 - TP3": [4745],
+        "PE2 GAPP 1": [9234],
+        "PE2 GAPP 3": [9300],
+        "PE2 GAPP2": [9235],
         "PE2 Option His-Géo-EMC": [6022],
         "PE2 Option LVE": [5970],
         "PE2 Option Science": [5992],
@@ -1709,8 +1758,7 @@
     "CUPGE MIS Vannes": {
       "1ère année": {
         "S1 CUPGE": [3669],
-        "S2 CUPGE IM": [1767],
-        "S2 CUPGE S": [1764]
+        "S2 CUPGE I": [1764]
       },
       "2ème année": {
         "S3 CUPGE I": [4783],
@@ -1722,13 +1770,11 @@
     "CUPGE Maths-Physique Lorient": {
       "L1": {
         "1A": [795, 6548],
-        "1B": [5381, 8071],
-        "1C": [2366]
+        "1B": [5381, 8071]
       },
       "L2": {
         "1A": [447, 7403],
-        "1B": [637, 7405],
-        "1C": [7406]
+        "1B": [637, 7405]
       }
     },
     "DAEU B": {
@@ -1763,6 +1809,14 @@
     },
     "Licences Maths-Info-Stat": {
       "L1": {
+        "S1 CMI-SD": [7155],
+        "S1 CUPGE": [3669],
+        "S1 MMI IM": [4080],
+        "S1 MMI IP": [4529],
+        "S1 MMI MP": [4292],
+        "S1 MmI IM-1": [1910],
+        "S1 MmI IP": [3666],
+        "S1 MmI MP": [3502],
         "S2 CMI-I": [9166],
         "S2 CMI-P": [6597],
         "S2 CUPGE I": [1764],
@@ -1773,13 +1827,18 @@
         "S2 MMM-PI": [1306],
         "S2 MMM-PS": [9167],
         "S2 PASS": [6466],
-        "S2 parcours spécialisé": [6571]
+        "S2 parcours spécialisé": [2476, 6571]
       },
       "L2": {
         "CMI": [3660, 2556],
         "CUPGE I": [4783, 5895],
         "CUPGE MS": [5344, 2384],
         "PEI-A": [8670, 7519],
+        "S3 INFO-PHY": [3038],
+        "S3 INFO-STAT": [5419],
+        "S3 MATH-INFO": [2896],
+        "S3 MATH-PHY": [2867],
+        "S3 MATH-STAT": [4118],
         "S4 INFO": [4675],
         "S4 INFO-2": [7765],
         "S4 INFO_*": [8166],
@@ -1797,7 +1856,7 @@
       "L3": {
         "CMI IS": [4163, 2434],
         "INFO 1": [427, 2234],
-        "INFO 2": [4796],
+        "INFO 2": [4796, 7577],
         "INFO 3": [4389],
         "INFO 4": [4434],
         "MATH": [2022, 732],
@@ -1926,6 +1985,37 @@
         "S2 CP5": [8016]
       },
       "L2 Vannes": {
+        "S3 D": [9202],
+        "S3 E": [9200],
+        "S3 EB": [9208],
+        "S3 ED": [9201],
+        "S3 EDB3": [9206],
+        "S3 EDBe": [9207],
+        "S3 EDLa10": [9197],
+        "S3 EDLb10": [9199],
+        "S3 EDLc6": [9198],
+        "S3 EDLe": [9205],
+        "S3 EDLra": [9203],
+        "S3 EDLrb2": [9204],
+        "S3 ELM2": [9209],
+        "S3 ZBC7": [9159],
+        "S3 ZBC8Las": [9168],
+        "S3 ZBCeLas": [9170],
+        "S3 ZBCr": [9162],
+        "S3 ZBCrLas": [9171],
+        "S3 ZBCsLas": [9232],
+        "S3 ZBD2Las": [9193],
+        "S3 ZBD6": [9192],
+        "S3 ZBDeLas": [9194],
+        "S3 ZBM6": [9155],
+        "S3 ZBMeLas2": [9156],
+        "S3 ZC": [9160],
+        "S3 ZDE4": [9196],
+        "S3 ZDM3": [9195],
+        "S3 ZMC5": [9188],
+        "S3 ZMC5Las": [9191],
+        "S3 ZMCe": [9190],
+        "S3 ZMCr": [9189],
         "S4 AGP9": [6473],
         "S4 AIE": [2945],
         "S4 AIELas": [3645],
@@ -1972,34 +2062,35 @@
         "S4 BD1": [2853]
       },
       "L3 Biologie Cellulaire et Moléculaire": {
-        "S5 C1 MGD TA": [3732],
-        "S5 C2 MGD TA": [3728],
-        "S5 C3 MGD TA": [3701],
-        "S5 C4 MGD TA": [5538],
-        "S5 C5 GD TA": [3801],
-        "S5 C6 D-gas": [3807],
-        "S5 C7 MGD TA-gas": [2260],
-        "S5 C8 MGD T Alt": [4439],
-        "S6 C01 Q SVJ TP1": [7556],
-        "S6 C02 Q VUJ TP1": [7560],
-        "S6 C03 Q SVU TP1": [7561],
-        "S6 C04 Q VU Alt TP1": [7563],
-        "S6 C05 Q SUJ TP1": [7564],
-        "S6 C06 Q SU Alt TP1": [7565],
-        "S6 C07 Q SVUJ TP1": [7566],
-        "S6 C08 Q SVU TP2": [7567],
-        "S6 C09 SV TP2": [7569],
-        "S6 C10 Q SVU TP3": [7571],
-        "S6 C11 Q SV TP3": [7572],
-        "S6 C12 ag TP3": [7575],
+        "S5 C01 MGD TA (6) TP1": [3732],
+        "S5 C02 MGD TA (11) TP2": [3728],
+        "S5 C03 G-A (1) TP2": [3701],
+        "S5 C04 MGD T-a (1) TP4": [5538],
+        "S5 C05 GD-TA (1) TP4": [4788],
+        "S5 C06 MGD TA (6) TP3": [2260],
+        "S5 C07  MGD-TA (6) TP4": [4753],
+        "S5 C08 MGD T Alt (4) TP1": [4439],
+        "S5 C09  MGD-TA (4) TP4": [4754],
+        "S5 C10 MGD-TA (8) TP3": [3807],
+        "S6 C01 Q SVJ (4) TP1": [7556],
+        "S6 C02 Q VUJ (5) TP1": [7560],
+        "S6 C03 Q SVU (1) TP1": [7561],
+        "S6 C04 Q VU Alt (3) TP1": [7563],
+        "S6 C05 Q SUJ (1) TP1": [7564],
+        "S6 C06 Q SU Alt (1) TP1": [7565],
+        "S6 C07 Q SVUJ (1) TP1": [7566],
+        "S6 C08 Q SVU (13) TP2": [7567],
+        "S6 C09 SV (1) TP2": [7569],
+        "S6 C10 Q SVU (13) TP3": [7571],
+        "S6 C11 Q SV (1) TP3": [7572],
+        "S6 C12 ag (1) TP3": [7575],
         "C13 Anglais débutant": [7650]
       },
       "L3 Biologie et Écologie générales": {
-        "S5 G1 IPD BO": [3814],
-        "S5 G2 IPD BO": [3837],
-        "S5 G3 IPD BO": [3838],
-        "S5 G4 IP B": [3854],
-        "S5 G5 IPD BO-gas": [3862],
+        "S5 G1 IPD BO (9)": [3814],
+        "S5 G2 IPD BO (10)": [3837],
+        "S5 G3 IPD BO (10)": [3838],
+        "S5 G4 IPD BO (7)": [3854],
         "S6 G01 E NKL": [5315],
         "S6 G02 E NKL": [5931],
         "S6 G03 E NLV": [6575],
@@ -2012,8 +2103,6 @@
       "L3 Sciences de l'Environnement": {
         "S5 E1 OID SH": [4035],
         "S5 E2 OID SH": [4009],
-        "S5 E3 OID SH": [1618],
-        "S5 E4 I S-gas": [2003],
         "S6 E01 C LF-ag": [6600],
         "S6 E02 C ELR": [6604],
         "S6 E03 C RF": [6606],
@@ -2039,13 +2128,12 @@
       "L1": {
         "A1": [7217, 5065],
         "A2": [2352, 5120],
-        "B": [7220, 6558],
-        "S2 C": [7075]
+        "B1": [7220, 6558],
+        "B2": [9140]
       },
       "L2": {
         "A": [863, 7408],
-        "B": [960, 7409],
-        "S4 C": [7410]
+        "B": [960, 7409]
       },
       "L3": {
         "S5 PMMC": [1244],
@@ -2079,7 +2167,9 @@
         "Groupe 2": [4592, 7235]
       },
       "L2": {
-        "Groupe 1": [1095, 7418]
+        "S3 Groupe 1": [1095],
+        "S4 Groupe 1": [7418],
+        "S4 Groupe 2": [8105]
       },
       "L3": {
         "Groupe 1": [1547],
@@ -2127,14 +2217,14 @@
         "S3 5B": [1467],
         "S4 5A": [7413],
         "S4 5B1": [7416],
-        "S4 5B2": [7417]
+        "S4 5B2": [7417],
+        "S4 5C": [8104]
       },
       "L3 Génie civil": {
-        "S5 TP1-All": [2178],
         "S5 TP1-Esp 0": [2177],
+        "S5 TP1-FLE": [2178],
         "S5 TP2-AO sport": [4882],
         "S5 TP2-Esp 1": [2179],
-        "S5 TP3-FLE": [6614],
         "S6 TP1": [3640],
         "S6 TP2.1": [2949],
         "S6 TP2.2": [6680],
@@ -2144,6 +2234,22 @@
         "TP1": [339, 2582],
         "TP2": [2248, 5696],
         "TP3": [7963]
+      }
+    },
+    "Licence TACB": {
+      "L1": {
+        "LP1 TACB": [517]
+      },
+      "L2": {
+        "LP2 TACB-S4": [4846],
+        "LP2a TACB": [7933],
+        "LP2b TACB": [7669]
+      },
+      "L3": {
+        "L3 TACB TP1": [1894],
+        "L3 TACB TP2": [1895],
+        "LP3 TACB TP1": [1896],
+        "LP3 TACB TP2": [1282]
       }
     },
     "LP DPCS": {
@@ -2178,15 +2284,6 @@
         "Plaisance et relation client TD-GR02": [8592]
       }
     },
-    "LP TACB": {
-      "1ère année": {
-        "LP1 TACB": [517],
-        "LP2a TACB": [7933],
-        "LP2b TACB": [7669],
-        "LP3 TACB TP1": [1896],
-        "LP3 TACB TP2": [1282]
-      }
-    },
     "Master MEEF S2IME": {
       "M1": {
         "Groupe 1": [442],
@@ -2210,7 +2307,7 @@
     },
     "Master CMI": {
       "M1": {
-        "CMI": [7862, 1312]
+        "CMI": [1312]
       },
       "M2": {
         "CMI": [2817]
@@ -2251,12 +2348,10 @@
     },
     "Master IGRCL": {
       "M1": {
-        "S1 G1": [607],
-        "S2 G1": [6564],
-        "S2 G2": [5407]
+        "G1": [607, 6564]
       },
       "M2": {
-        "S1 G1": [662]
+        "G1": [662]
       }
     },
     "Master BMB": {
@@ -2347,14 +2442,16 @@
         "TP4": [495]
       },
       "M2": {
-        "TP1": [4608],
-        "TP2a": [4786],
-        "TP2b": [4861],
-        "TP3": [4867],
-        "TP1 Alt.": [5854],
-        "TP2a Alt.": [8600],
-        "TP2b Alt.": [8651],
-        "TP3 Alt.": [8641]
+        "TD1 TP1": [4608],
+        "TD1 TP2a": [4786],
+        "TD1 TP3a": [9151],
+        "TD2 TP2b": [4861],
+        "TD2 TP3": [4867],
+        "TD1 TP1 Alt.": [5854],
+        "TD1 TP2a Alt.": [8600],
+        "TD1 TP3a Alt.": [9153],
+        "TD2 TP2b Alt.": [8651],
+        "TD2 TP3 Alt.": [8641]
       }
     },
     "Master GMM": {
