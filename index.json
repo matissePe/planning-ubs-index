@@ -2325,8 +2325,8 @@
         "Groupe 1": [4807, 5884]
       },
       "M2": {
-        "Groupe 1": [4778],
-        "Groupe 2": [7857]
+        "Groupe 1": [4778, 8280],
+        "Groupe 2": [7857, 8284]
       }
     },
     "Master SAIM": {
@@ -2334,7 +2334,7 @@
         "Groupe 1": [2625, 4714]
       },
       "M2": {
-        "Groupe 2": [775]
+        "Groupe 1": [775, 8281]
       }
     },
     "Master DSMS": {
@@ -2344,8 +2344,8 @@
       },
       "M2": {
         "SDD": [3596],
-        "STAT DSMS1": [830],
-        "STAT DSMS2": [6145]
+        "STAT DSMS1": [830, 8282],
+        "STAT DSMS2": [6145, 8283]
       }
     },
     "Master IGRCL": {
