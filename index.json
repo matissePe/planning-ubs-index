@@ -435,9 +435,11 @@
       },
       "4ème année": {
         "TP1": [1120, 1938],
-        "TP2": [1578, 1203],
+        "TP2": [1203],
         "TP1 Alternants": [7210, 7216],
-        "TP2 Alternants": [7209, 7214]
+        "TP2 Alternants": [7209, 7214],
+        "TP3 Alternants": [8957],
+        "TP4 Alternants": [8956]
       },
       "5ème année": {
         "M2OPPI": [4],
@@ -474,7 +476,7 @@
     "PEI": {
       "1ère année": {
         "GIM Lorient TP1": [2504, 2548],
-        "MT2E Lorient TP1": [1969, 1985],
+        "MT2E Lorient TP1": [8961, 8963],
         "SSI PEI-1 71": [6629],
         "SSI PEI-1 S1 71a": [4077],
         "SSI PEI-1 S1 71b": [9145],
@@ -484,7 +486,7 @@
       },
       "2ème année": {
         "GIM Lorient TP1": [3182, 3627],
-        "MT2E Lorient TP1": [2206, 2376],
+        "MT2E Lorient TP1": [9011, 9121],
         "SSI PEI-2": [7420, 1745]
       }
     }
