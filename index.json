@@ -1461,12 +1461,14 @@
     },
     "Master Histoire": {
       "M1": {
-        "Gr 1 Métiers de l'administration": [1116],
-        "Gr 2 Métiers de l'enseignement": [1933]
+        "Gr 1 Parcours administration": [1116],
+        "Gr 2 Parcours enseignement": [1933],
+        "Gr 3 Parcours Patrimoine": [7166]
       },
       "M2": {
-        "Gr 1 Métiers de l'administration": [1117],
-        "Gr 2 Métiers de l'enseignement": [1934]
+        "Gr 1 parcours administration": [1117],
+        "Gr 2 parcours enseignement": [1934],
+        "Gr 3 parcours Guide conférencier": [9022]
       }
     },
     "Master IDS": {
