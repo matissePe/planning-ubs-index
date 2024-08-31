@@ -1398,7 +1398,7 @@
         "Sciences politiques": [6739]
       },
       "L2": {
-        "Approches professionnelles de la santé et du social": [1639],
+        "Approches professionnelles de la santé et du social": [4731],
         "Approches professionnelles de la santé et du social Gr1": [8995],
         "Approches professionnelles de la santé et du social Gr2": [9011],
         "Commerce international": [1702],
@@ -1409,12 +1409,13 @@
         "Gestion de projets européens Allemand": [8102],
         "Gestion de projets européens Espagnol": [8101],
         "Métiers de l'écrit": [4160],
-        "Option FLE (PE-PLC)": [4201],
-        "PE": [6237],
-        "PLC - Disciplinaire : Espagnol": [9071],
-        "PLC - Disciplinaire : Lettres": [9023],
-        "PLC - Disciplinaire : Anglais": [8777],
-        "PLC - Disciplinaire : Histoire-Géographie": [8778],
+        "PE FLE": [4201],
+        "PE Option découverte des Métiers de l'éducation": [9212],
+        "PLC UE5 Option FLE": [9211],
+        "PLC Disciplinaire : Espagnol": [9071],
+        "PLC Disciplinaire : Lettres": [9023],
+        "PLC Disciplinaire : anglais": [8777],
+        "PLC Disciplinaire : histoire-géographie": [8778],
         "PLC": [1340],
         "Sciences humaines et sociales": [4242],
         "Sciences politiques": [7968],
@@ -1425,17 +1426,19 @@
         "Commerce international allemand": [2105],
         "Commerce international espagnol": [2249],
         "Commerce international": [1838],
-        "FLE": [8970],
         "Gestion de projets européens allemand": [2410],
         "Gestion de projets européens espagnol": [3446],
         "Gestion de projets européens": [2675],
         "Métiers de l'écrit": [6568],
-        "PE": [8980],
         "PLC - Disciplinaire : Espagnol": [9048],
         "PLC - Disciplinaire : Lettres": [9051],
         "PLC - Disciplinaire : anglais": [9070],
         "PLC - Disciplinaire : histoire": [9054],
         "PLC": [9090],
+        "PLC option FLE": [9213],
+        "PLC option QSV": [9215],
+        "PE FLE L3": [8970],
+        "PE SV L3": [8980],
         "Sciences humaines et sociales": [5241],
         "Sciences politiques": [4939]
       },
@@ -1580,6 +1583,7 @@
         "Option éducation civique": [5891],
         "Part modulaire Gr1": [2375],
         "Part modulaire Gr2": [2620],
+        "UE3 Recherche EICS": [5662],
         "UE3 Recherche EICS gr 1": [7984],
         "UE3 Recherche EICS gr 2": [7985],
         "UE3 Recherche PLA": [5645]
@@ -2297,9 +2301,9 @@
         "CMI": [2817]
       }
     },
-    "Master ERASMUS MUNDUS": {
+    "Master COPERNICUS": {
       "M2": {
-        "ERASMUS MUNDUS": [4986]
+        "COPERNICUS": [4986]
       }
     },
     "Master AIDN": {
