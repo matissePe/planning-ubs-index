@@ -14,6 +14,8 @@
         "GR 5 T": [1715],
         "GR 6 G": [707],
         "GR 6 T": [5805],
+        "Gr 6 All": [2040],
+        "Gr 6 Esp": [3670],
         "Soutien Anglais A": [3400],
         "Soutien Compta": [3403],
         "Soutien LF A": [4816],
@@ -132,8 +134,8 @@
         "Parcours 2BDMRC.1": [9372],
         "Parcours 2BDMRC.2": [9375],
         "Parcours 2BI": [8062],
-        "Parcours 2MDEE Gr1": [8060],
-        "Parcours 2MDEE Gr2": [3790]
+        "Parcours 2MDEE.1": [8060],
+        "Parcours 2MDEE.2": [3790]
       },
       "3ème année": {
         "A.1": [3872],
@@ -814,6 +816,7 @@
         "A": [4312],
         "B": [4173],
         "C": [3786],
+        "D": [9242],
         "EGO GPA": [185],
         "EGO MBF": [170],
         "ECOM 1": [979],
@@ -1058,8 +1061,7 @@
         "Catalan N 02/03": [728]
       },
       "Toutes années Chinois": {
-        "Chinois N 1 Gr1": [326],
-        "Chinois N 1 Gr2": [5713],
+        "Chinois N 01": [326],
         "Chinois N 02": [374],
         "Chinois N 03": [441],
         "Chinois N 11": [377],
@@ -2379,7 +2381,8 @@
         "CSSE - TP groupe 1": [6256],
         "CSSE - TP groupe 2": [6270],
         "CYBERUS English course": [6303],
-        "CYBERUS French course": [6301],
+        "CYBERUS French course - Group 1": [6301],
+        "CYBERUS French course - Group 2": [9249],
         "CYBERUS IoT": [6894],
         "CYBERUS Software": [6898],
         "CYBERUS group 1": [2245],
