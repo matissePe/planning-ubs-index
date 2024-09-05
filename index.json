@@ -2111,7 +2111,8 @@
       "L1": {
         "A1": [7217, 5065],
         "A2": [2352, 5120],
-        "B1": [7220, 6558]
+        "B1": [7220, 6558],
+        "B2": [9270]
       },
       "L2": {
         "A": [863, 7408],
@@ -2251,22 +2252,8 @@
     },
     "LP Nautisme": {
       "1ère année": {
-        "Histoire et Patrimoine CM-GR01": [8402],
-        "Histoire et Patrimoine CM-GR02": [8403],
-        "Histoire et Patrimoine TP-GR01": [8426],
-        "Histoire et Patrimoine TP-GR02": [8434],
-        "Nautisme Navig plaisance CM-GR01": [8601],
-        "Nautisme Navig plaisance CM-GR02": [8602],
-        "Nautisme Navig plaisance TD-GR01": [8604],
-        "Nautisme Navig plaisance TD-GR02": [8605],
-        "Organisation et sécurité maritime - Préparation permis mer CM-GR01": [8393],
-        "Organisation et sécurité maritime - Préparation permis mer CM-GR02": [8394],
-        "Organisation et sécurité maritime - Préparation permis mer TD-GR01": [8396],
-        "Organisation et sécurité maritime - Préparation permis mer TD-GR02": [8398],
-        "Plaisance et relation client CM-GR01": [8548],
-        "Plaisance et relation client CM-GR02": [8550],
-        "Plaisance et relation client TD-GR01": [8591],
-        "Plaisance et relation client TD-GR02": [8592]
+        "Groupe 1": [1210],
+        "Groupe 2": [1868]
       }
     },
     "Master Science des données": {
