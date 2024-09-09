@@ -568,6 +568,7 @@
         "1/3 Tps CPGE2": [716],
         "AG1 CPGE2": [4286],
         "ALL3 CPGE2": [6324],
+        "COLLE 2 CPGE 2": [9168],
         "COLLE CPGE 2": [3288],
         "ESP CPGE": [3287]
       }
@@ -2048,16 +2049,18 @@
         "S4 BD1": [2853]
       },
       "L3 Biologie Cellulaire et Moléculaire": {
-        "S5 C01 MGD TA (6) TP1": [3732],
-        "S5 C02 MGD TA (11) TP2": [3728],
-        "S5 C03 G-A (1) TP2": [3701],
-        "S5 C04 MGD T-a (1) TP4": [5538],
-        "S5 C05 GD-TA (1) TP4": [4788],
-        "S5 C06 MGD TA (6) TP3": [2260],
-        "S5 C07  MGD-TA (6) TP4": [4753],
-        "S5 C08 MGD T Alt (4) TP1": [4439],
-        "S5 C09  MGD-TA (4) TP4": [4754],
-        "S5 C10 MGD-TA (8) TP3": [3807],
+        "S5 C01_MGD_TA (9) TP1": [3732],
+        "S5 C02_MGD_TA (8) TP2": [3728],
+        "S5 C03_MGD_TA (7) TP2": [3701],
+        "S5 C04_MGD_TA (7) TP3": [5538],
+        "S5 C05_MGD_TA (8) TP3": [4788],
+        "S5 C06_ MGD-TA (12) TP4": [4753],
+        "S5 C07_MGD_TA_Alt (1) TP1": [4754],
+        "S5 C08_MGD_T_Alt (3) TP1": [4439],
+        "S5 C09_D_TA (1) TP4": [3807],
+        "S5 C10_ G_TA-a (1) TP1": [9156],
+        "S5 C11_MD_TA-a (1) TP1": [9159],
+        "S5 C12_MG_TA-a (1) TP4": [9160],
         "S6 C01 Q SVJ (4) TP1": [7556],
         "S6 C02 Q VUJ (5) TP1": [7560],
         "S6 C03 Q SVU (1) TP1": [7561],
@@ -2073,10 +2076,8 @@
         "C13 Anglais débutant": [7650]
       },
       "L3 Biologie et Écologie générales": {
-        "S5 G1 IPD BO (9)": [3814],
-        "S5 G2 IPD BO (10)": [3837],
-        "S5 G3 IPD BO (10)": [3838],
-        "S5 G4 IPD BO (7)": [3854],
+        "S5 G1_IPD_BO (9)": [3814],
+        "S5 G2_IPD_BO (10)": [3837],
         "S6 G01 E NKL": [5315],
         "S6 G02 E NKL": [5931],
         "S6 G03 E NLV": [6575],
@@ -2087,8 +2088,8 @@
         "C13 Anglais débutant": [7650]
       },
       "L3 Sciences de l'Environnement": {
-        "S5 E1 OID SH": [4035],
-        "S5 E2 OID SH": [4009],
+        "S5 E1_OID_SH (7)": [4035],
+        "S5 E2_OID_S (7)": [4009],
         "S6 E01 C LF-ag": [6600],
         "S6 E02 C ELR": [6604],
         "S6 E03 C RF": [6606],
