@@ -1344,8 +1344,8 @@
     },
     "Licence Lettres": {
       "L1": {
-        "L1 LM Tutorat 1": [8276],
-        "L1 LM Tutorat 2": [8277],
+        "L1 LM MTU 1": [8276],
+        "L1 LM MTU 2": [8277],
         "L1 Lettres Modernes": [473]
       },
       "L2": {
@@ -2216,6 +2216,7 @@
         "S4 5C": [8104]
       },
       "L3 Génie civil": {
+        "S5 TP1-Esp 0": [9192],
         "S5 TP1-Esp 1": [2177],
         "S5 TP1-SHN": [2178],
         "S5 TP2-AO Jeudi": [4882],
