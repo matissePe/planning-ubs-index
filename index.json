@@ -1194,6 +1194,7 @@
     },
     "Licence Histoire": {
       "L1": {
+        "OUI SI": [6485],
         "Env. gr1": [1411],
         "Env. gr2": [1656],
         "Env. gr3": [3609],
@@ -1232,6 +1233,7 @@
     },
     "Licence Histoire-Géographie": {
       "L1": {
+        "OUI SI": [6486],
         "Histoire - Géographie": [8868],
         "Histoire - Géographie gpe 1": [9107],
         "Histoire - Géographie gpe 2": [9111],
@@ -1674,7 +1676,8 @@
         "Photos SSI Vannes": [8370],
         "Sensibilisation aux enjeux climatiques et environnementaux SSI Vannes": [7713],
         "Street-Art SSI Vannes": [7990],
-        "Théâtre SSI Vannes": [8803]
+        "Théâtre SSI Vannes": [8803],
+        "Parcours Europe SSI Vannes": [6472]
       }
     },
     "AO Lorient": {
@@ -1718,7 +1721,8 @@
         "Sensibilisation aux enjeux climatiques et environnementaux SSI": [5654],
         "Théâtre et improvisation SSI": [8000],
         "Voix et Chant SSI": [7996],
-        "Étudiants ambassadeurs SSI": [7749]
+        "Étudiants ambassadeurs SSI": [7749],
+        "Parcours Europe SSI Lorient": [6471]
       }
     },
     "CPEM": {
