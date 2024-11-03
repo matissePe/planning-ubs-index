@@ -424,13 +424,19 @@
     },
     "Génie Civil": {
       "3ème année": {
-        "TD1-TP1": [4620, 5027],
-        "TD1-TP2": [2457, 2854],
-        "TD2-TP3": [3721, 5105],
-        "TD2-TP4": [3718, 723],
-        "TPA": [8433],
-        "TPB": [8464],
-        "TPC": [8489]
+        "S5 TD1 TP1": [4620],
+        "S5 TD1 TP2": [2457],
+        "S5 TD2 TP3": [3721],
+        "S5 TD2 TP4": [3718],
+        "S5 TPA": [8433],
+        "S5 TPB": [8464],
+        "S5 TPC": [8489],
+        "S6 TD1 TP1 (TPA)": [5027],
+        "S6 TD1 TP2 (TPA)": [2854],
+        "S6 TD1 TP2 (TPB)": [9418],
+        "S6 TD1 TP3 (TPB)": [5105],
+        "S6 TD1 TP3 (TPC)": [9420],
+        "S6 TD1 TP4 (TPC)": [723]
       },
       "4ème année": {
         "TP1": [2540, 2635],
@@ -497,13 +503,15 @@
         "SSI PEI-1 71": [959, 6629],
         "SSI PEI-1 72": [6619, 4039],
         "SSI PEI-1 73": [5502, 333],
-        "SSI PEI-1 74": [1051, 5340]
+        "SSI PEI-1 74": [1051, 5340],
+        "PEI 1/3 temps": [9390]
       },
       "2ème année": {
         "Lorient TP1": [3182, 3627],
         "Vannes TP1 ": [8951, 8685],
         "SSI PEI-2 1": [7420, 1745],
-        "SSI PEI-2 2": [1985]
+        "SSI PEI-2 2": [1985],
+        "PEI 1/3 temps": [9384]
       }
     }
   },
@@ -548,7 +556,8 @@
         "AO hist. politique et sociale contemporaine - F Ars": [4220],
         "AO philosophie 1 - D Gouzien": [4230],
         "AO philosophie 2 - D Gouzien": [3827],
-        "AO préparation concours": [4256],
+        "AO préparation concours 1": [4256],
+        "AO Préparation concours 2": [3645],
         "AO Étudiants ambassadeurs": [8461],
         "examen AO Allemand": [7031],
         "examen AO En quête d'archive": [7000],
@@ -870,7 +879,7 @@
     },
     "LP Banque": {
       "1ère année": {
-        "G1": [6670]
+        "G1": [9362]
       }
     },
     "LP Metiers de la GRH": {
@@ -943,6 +952,7 @@
     },
     "Master Marketing-vente": {
       "M1": {
+        "Examen all M1 MV": [8287],
         "G1 Parcours Marketing Digital": [6651],
         "G1 Responsable Marketing et Businesse Developper": [4324]
       },
@@ -990,6 +1000,7 @@
         "Carnet de croquis LLSHS": [8005],
         "Chant LLSHS": [8001],
         "Cinéma LLSHS": [7692],
+        "Conduite à Risque de Biologie": [9369],
         "Cordée de la réussite": [7706],
         "Culture entrepreneur LLSHS": [2147],
         "Dessin LLSHS": [3677],
@@ -1123,6 +1134,11 @@
       "1ère année": {
         "DAEU A Lorient": [1146],
         "DAEU A Vannes": [6771]
+      }
+    },
+    "Etudiants LAS": {
+      "Toutes années": {
+        "Etudiants LAS": [9399]
       }
     },
     "Licence ASS": {
@@ -1518,6 +1534,7 @@
     },
     "Master Recherche LLC": {
       "M1": {
+        "ADSL": [4162],
         "Cultural studies": [961],
         "Etudes ibériques et ibérico-américaines": [962],
         "Parcours Lettres": [963]
@@ -1707,6 +1724,7 @@
         "Espagnol G2 L1 Continuation SSI Lorient": [9332],
         "Espagnol G2 L2 Continuation SSI Lorient": [9354],
         "Espagnol L2": [895],
+        "Fabrik ta pépite": [9406],
         "Gravure SSI": [5881],
         "Histoire des Techniques SSI": [4196],
         "Illustration du vivant SSI": [5448],
@@ -1751,11 +1769,13 @@
     "CUPGE Maths-Physique Lorient": {
       "L1": {
         "1A": [795, 6548],
-        "1B": [5381, 8071]
+        "1B": [5381, 8071],
+        "1/3 temps": [9396]
       },
       "L2": {
         "1A": [447, 7403],
-        "1B": [637, 7405]
+        "1B": [637, 7405],
+        "1/3 temps": [9387]
       }
     },
     "DAEU B": {
@@ -1824,7 +1844,7 @@
         "S2 MMM-PI": [1306],
         "S2 MMM-PS": [9167],
         "S2 PASS": [6466],
-        "S2 parcours spécialisé": [2476, 6571]
+        "S2 Oui-si 2": [2476, 6571]
       },
       "L2": {
         "CMI": [3660, 2556],
@@ -2018,6 +2038,7 @@
         "S3 ZBDr": [8591],
         "S3 ZBM8": [6940],
         "S3 ZBMLase": [4278],
+        "S3 ZBMa6": [2385],
         "S3 ZBMe6": [1096],
         "S3 ZBMlas2": [1094],
         "S3 ZBMr": [8398],
@@ -2105,8 +2126,8 @@
         "C13 Anglais débutant": [7650]
       },
       "L3 Biologie et Écologie générales": {
-        "S5 G1_IPD_BO (9)": [3814],
-        "S5 G2_IPD_BO (10)": [3837],
+        "S5 G1_IPD_BO": [3814],
+        "S5 G2_IPD_BO": [3837],
         "S6 G01 E NKL": [5315],
         "S6 G02 E NKL": [5931],
         "S6 G03 E NLV": [6575],
@@ -2145,11 +2166,13 @@
         "A1": [7217, 5065],
         "A2": [2352, 5120],
         "B1": [7220, 6558],
-        "B2": [9270]
+        "B2": [9270],
+        "1/3 temps": [9389]
       },
       "L2": {
         "A": [863, 7408],
-        "B": [960, 7409]
+        "B": [960, 7409],
+        "1/3 temps": [9385]
       },
       "L3": {
         "S5 PMMC": [1244],
@@ -2169,7 +2192,7 @@
       "L2": {
         "Gr1": [1569],
         "Gr2": [1570],
-        "Gr3": [2472],
+        "Gr PE": [2472],
         "ME": [5119],
         "PC": [5111]
       },
@@ -2181,13 +2204,15 @@
     "Licence SNIO": {
       "L1": {
         "Groupe 1": [7233, 8030],
-        "Groupe 2": [4592, 7235]
+        "Groupe 2": [4592, 7235],
+        "1/3 temps": [9388]
       },
       "L2": {
         "S3 Groupe 1": [1969],
         "S3 Groupe 2": [1095],
         "S4 Groupe 1": [7418],
-        "S4 Groupe 2": [8105]
+        "S4 Groupe 2": [8105],
+        "1/3 temps": [9386]
       },
       "L3": {
         "Groupe 1": [1547],
@@ -2199,7 +2224,8 @@
         "Groupe 1": [3830, 5617]
       },
       "L2": {
-        "Groupe 1": [1326, 7411]
+        "Groupe 1": [1326, 7411],
+        "1/3 temps": [9383]
       },
       "L3": {
         "TP1": [1179],
@@ -2228,7 +2254,8 @@
         "S2 5B": [7219],
         "S2 5C1": [7225],
         "S2 5C2": [7227],
-        "S2 5D": [7231]
+        "S2 5D": [7231],
+        "1/3 temps": [9394]
       },
       "L2": {
         "S3 5A": [1386],
@@ -2236,7 +2263,8 @@
         "S4 5A": [7413],
         "S4 5B1": [7416],
         "S4 5B2": [7417],
-        "S4 5C": [8104]
+        "S4 5C": [8104],
+        "1/3 temps": [9363]
       },
       "L3 Génie civil": {
         "S5 TP1-Esp 0": [9192],
@@ -2348,8 +2376,8 @@
     },
     "Master DSMS": {
       "M1": {
-        "STAT 1": [1397, 5861],
-        "STAT 2": [2910, 1766]
+        "STAT DSMS1": [1397, 5861],
+        "STAT DSMS2": [2910, 1766]
       },
       "M2": {
         "SDD": [3596],
@@ -2523,7 +2551,7 @@
         "UTL Anglais B2": [2018],
         "UTL Espagnol A2": [7925],
         "UTL Espagnol A2-bis": [6699],
-        "UTL Espagnol AO": [1955],
+        "UTL Espagnol AO / A1": [1955],
         "UTL Espagnol B1-B2": [1943]
       }
     },
