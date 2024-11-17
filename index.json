@@ -2321,7 +2321,10 @@
     },
     "Master Science des données": {
       "M1": {
-        "SDD": [3767]
+        "SDD": [3767, 7417]
+      },
+      "M2": {
+        "SDD": [3596]
       }
     },
     "Master MEEF S2IME": {
@@ -2381,7 +2384,6 @@
         "STAT DSMS2": [2910, 1766]
       },
       "M2": {
-        "SDD": [3596],
         "STAT DSMS1": [830],
         "STAT DSMS2": [6145]
       }
