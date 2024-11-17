@@ -1240,20 +1240,16 @@
         "Institutions politiques gr6": [2759]
       },
       "L2": {
-        "ARCHEO gr1": [1396],
-        "ARCHEO gr2": [1409],
+        "Environnement gr1": [1396],
+        "Environnement gr2": [1409],
         "administration gr1": [1394],
-        "administration gr2": [1363],
-        "GEO gr1": [1378],
-        "GEO gr2": [1376]
+        "administration gr2": [1363]
       },
       "L3": {
-        "ARCHEO gr1": [1655],
-        "ARCHEO gr2": [2535],
+        "Environnement  gr1": [1655],
+        "Environnement  gr2": [2535],
         "administration gr1": [1510],
-        "administration gr2": [1513],
-        "GEO gr1": [4392],
-        "GEO gr2": [4398]
+        "administration gr2": [1513]
       }
     },
     "Licence Histoire-Géographie": {
