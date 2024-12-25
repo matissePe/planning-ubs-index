@@ -557,6 +557,8 @@
         "AO Sensibilisation aux enjeux climatiques et mise en oeuvre d'actions DSEG": [6989],
         "AO Société Numérique": [4319],
         "AO Street-Art DSEG Vannes": [8805],
+        "AO TEDS  L2 Eco Gestion G1": [8172],
+        "AO TEDS  L2 Eco Gestion G2": [8221],
         "AO Théatre DSEG Vannes": [8446],
         "AO culture entrepreneur S Gravouil": [5423],
         "AO hist. politique et sociale contemporaine - F Ars": [4220],
@@ -1969,6 +1971,8 @@
         "S2 GCMCE": [8145],
         "S2 GPMC": [8146],
         "S2 P": [8147],
+        "S2 PASS 1": [8159],
+        "S2 PASS 2": [8160],
         "S2 PC": [8148],
         "S2 PCC": [8149],
         "S2 PCCE": [8150],
@@ -2068,11 +2072,11 @@
         "S4 GPa": [9485],
         "S4 GPb": [9486],
         "S4 MAPa5": [9478],
-        "S4 MAPb8": [9479],
+        "S4 MAPb7": [9479],
         "S4 MAPc8": [9480],
         "S4 MAPd4": [9481],
         "S4 MAPe4": [9482],
-        "S4 MAPf6": [9487],
+        "S4 MAPf7": [9487],
         "S4 ZC": [7563],
         "S4 ZIA": [9475],
         "S4 ZIC": [7575],
@@ -2081,8 +2085,9 @@
         "S4 ZICaLas7": [7565],
         "S4 ZICb9": [7566],
         "S4 ZICbLas5": [7567],
-        "S4 ZICc8": [7569],
+        "S4 ZICc7": [7569],
         "S4 ZICe7": [7571],
+        "S4 ZICeA": [8165],
         "S4 ZICeLas5": [7572]
       },
       "L2 Lorient": {
@@ -2204,9 +2209,7 @@
       "L2": {
         "Gr1": [1569],
         "Gr2": [1570],
-        "Gr PE": [2472],
-        "ME": [5119],
-        "PC": [5111]
+        "Gr PE": [2472]
       },
       "L3": {
         "TP1": [5417],
