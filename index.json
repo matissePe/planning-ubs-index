@@ -554,11 +554,14 @@
         "AO Outils Informatiques": [3503],
         "AO Photo DSEG Vannes": [8804],
         "AO Problématiques environnementales (Economie circulaire)": [3481],
-        "AO Sensibilisation aux enjeux climatiques et mise en oeuvre d'actions DSEG": [6989],
         "AO Société Numérique": [4319],
         "AO Street-Art DSEG Vannes": [8805],
         "AO TEDS  L2 Eco Gestion G1": [8172],
         "AO TEDS  L2 Eco Gestion G2": [8221],
+        "AO TEDS  L2 Eco Gestion GROUPE A": [9505],
+        "AO TEDS  L2 Eco Gestion GROUPE B": [9506],
+        "AO TEDS  L2 Eco Gestion GROUPE C": [9507],
+        "AO TEDS  L2 Eco Gestion GROUPE D": [9508],
         "AO Théatre DSEG Vannes": [8446],
         "AO culture entrepreneur S Gravouil": [5423],
         "AO hist. politique et sociale contemporaine - F Ars": [4220],
@@ -568,7 +571,6 @@
         "AO Préparation concours 2": [3645],
         "AO Étudiants ambassadeurs": [8461],
         "examen AO Allemand": [7031],
-        "examen AO En quête d'archive": [7000],
         "examen AO Espagnol": [7001],
         "examen AO Histoire de l'idée européenne 1": [7015],
         "examen AO Histoire politique et sociale": [7002],
@@ -843,6 +845,7 @@
         "EGO MBF": [170],
         "ECOM 1": [979],
         "ECOM 2": [1152],
+        "EGO DHP": [8226],
         "EGO ETE": [5070],
         "AG1": [4317],
         "AG2": [4388],
@@ -1143,6 +1146,7 @@
     },
     "DAEU A": {
       "1ère année": {
+        "DAEU A Français": [9499],
         "DAEU A Lorient": [1146],
         "DAEU A Vannes": [6771]
       }
@@ -1456,7 +1460,9 @@
         "PLC": [1340],
         "Sciences humaines et sociales": [4242],
         "Sciences politiques": [7968],
-        "Sciences politiques LEA UE5": [8241]
+        "Sciences politiques LEA UE5": [8241],
+        "Sc. Politiques gr 1 anglais": [9503],
+        "Sc. Politiques gr 2 anglais": [9500]
       },
       "L3": {
         "Approches professionnelles de la santé et du social": [1504],
@@ -1476,8 +1482,11 @@
         "PLC option QSV": [9215],
         "PE FLE L3": [8970],
         "PE SV L3": [8980],
+        "Psychologie L3": [5923],
         "Sciences humaines et sociales": [5241],
-        "Sciences politiques": [4939]
+        "Sciences politiques": [4939],
+        "Sc. Politiques Anglais Gr1": [9509],
+        "Sc. Politiques Anglais Gr2": [9510]
       },
       "M1": {
         "CPFP": [4537],
@@ -1723,7 +1732,7 @@
         "Cybersécurité SSI": [7135],
         "Dessin SSI": [8373],
         "EAB SSI": [4842],
-        "Engagement DD-RS": [3320],
+        "TEDS": [3320],
         "Engagement associatif et bénévole SSI": [2527],
         "Entreprends-toi SSI": [7988],
         "Espagnol G1 Débutant SSI Lorient": [9330],
@@ -1824,7 +1833,8 @@
         "CMI": [3660, 2556]
       },
       "L3": {
-        "CMI": [2434, 4163]
+        "CMI-Maths-Info": [2434, 4163],
+        "CMI-Maths-Stat": [9517]
       }
     },
     "Licence Accès Santé": {
@@ -2153,6 +2163,7 @@
         "S6 B01d RBMA": [9471],
         "S6 B01e RBMV": [9472],
         "S6 B01f RVEBA": [9473],
+        "S6 B01g RVeBV": [9498],
         "C13 Anglais débutant": [7650]
       },
       "L3 Sciences de l'Environnement": {
