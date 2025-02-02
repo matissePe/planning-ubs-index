@@ -888,6 +888,15 @@
         "ALL L3MV": [1100],
         "ESP MV": [1009],
         "ESP2 MV": [6958],
+        "groupe projet tuteuré 1": [1803],
+        "groupe projet tuteuré 2": [9533],
+        "groupe projet tuteuré 3": [9534],
+        "groupe projet tuteuré 4": [9535],
+        "groupe projet tuteuré 5": [9536],
+        "groupe projet tuteuré 6": [9537],
+        "groupe projet tuteuré 7": [9538],
+        "groupe projet tuteuré 8": [9539],
+        "groupe projet tuteuré 9": [9540],
         "réunion ERASMUS": [2252]
       }
     },
@@ -1414,7 +1423,8 @@
     },
     "UE5": {
       "L1": {
-        "Approches professionnelles": [6531],
+        "Approches professionnelles TD1": [6531],
+        "Approches professionnelles TD2": [9541],
         "Français - Gestion de projet et  CI TD1": [7680],
         "Français - Gestion de projet et  CI TD2": [7702],
         "Rédaction en allemand": [7758],
@@ -1735,11 +1745,10 @@
         "TEDS": [3320],
         "Engagement associatif et bénévole SSI": [2527],
         "Entreprends-toi SSI": [7988],
-        "Espagnol G1 Débutant SSI Lorient": [9330],
-        "Espagnol G1 L1 Continuation SSI Lorient": [9331],
-        "Espagnol G1 L2 Continuation SSI Lorient": [9319],
+        "Espagnol S2 L1 G1": [9330],
+        "Espagnol S2 L1 G2": [9331],
         "Espagnol G2 Débutant SSI Lorient": [6488],
-        "Espagnol G2 L1 Continuation SSI Lorient": [9332],
+        "Espagnol S2 L2": [9332],
         "Espagnol G2 L2 Continuation SSI Lorient": [9354],
         "Espagnol L2": [895],
         "Fabrik ta pépite": [9406],
@@ -1798,7 +1807,8 @@
     },
     "DAEU B": {
       "1ère année": {
-        "DAEU B Lorient": [1147]
+        "DAEU B Lorient": [1147],
+        "DAEU B Mathématiques": [9528]
       }
     },
     "DEUST STAPS - Lorient": {
