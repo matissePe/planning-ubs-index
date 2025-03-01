@@ -183,7 +183,8 @@
         "TD MDFS FI": [4653],
         "TDA commun FI": [3154],
         "TDB commun FI": [3495],
-        "TDC commun ALT": [3623]
+        "TDC commun ALT": [3623],
+        "Prépa IAE": [9556]
       }
     },
     "BUT GC-GP": {
@@ -2087,7 +2088,6 @@
         "S4 AGPe": [9484],
         "S4 AIE": [7556],
         "S4 APG5": [9477],
-        "S4 AZE": [7560],
         "S4 AZELas": [7561],
         "S4 GPa": [9485],
         "S4 GPb": [9486],
@@ -2098,7 +2098,7 @@
         "S4 MAPe4": [9482],
         "S4 MAPf7": [9487],
         "S4 ZC": [7563],
-        "S4 ZIA": [9475],
+        "S4 ZIA2": [9475],
         "S4 ZIC": [7575],
         "S4 ZICLas": [7650],
         "S4 ZICa12": [7564],
