@@ -491,20 +491,37 @@
       "1ère année": {
         "Lorient PEI-D TP1": [2504, 2548],
         "Lorient PEI-D TP2": [8106],
-
-        "SSI PEI-1 71": [959, 6629],
-        "SSI PEI-1 72": [6619, 4039],
-        "SSI PEI-1 73": [5502, 333],
-        "SSI PEI-1 74": [1051, 5340],
-        "PEI 1/3 temps": [9390]
+        "GR 1A1": [3543],
+        "SSI PEI-1 71": [4039, 6629],
+        "SSI PEI-1 72a": [333],
+        "SSI PEI-1 72b": [19067],
+        "SSI PEI-1 73": [1578,5502],
+        "SSI PEI-1 72": [6619],
+        "SSI PEI-1 74": [5340]
       },
       "2ème année": {
-        "Lorient PEI-D TP1": [3182, 3627],
         "Vannes PEI-A TP1": [8951, 8685],
-
-        "SSI PEI-2 1": [7420, 1745],
-        "SSI PEI-2 2": [1985, 9428],
-        "PEI 1/3 temps": [9384]
+        "Vannes PEI-A": [8670,7519],
+        "Lorient PEI-D TP1": [3182, 3627],
+        "SSI PEI-2 71": [1745, 7420],
+        "SSI PEI-2 72": [1985,9428],
+        "SSI PEI-2 73": [2045],
+        "PEI 1/3 temps": [9384],
+        "UE PEI CM": [2764],
+        "UE PEI TP1": [2774],
+        "UE PEI TP2": [7559],
+        "UE PEI TP3": [2258]
+      },
+      "UE optionnelles PEI1" : {
+        "Intro GI-GC-EH PEI1 CM-TP": [640],
+        "Intro ENT PEI1 CM": [2895],
+        "Intro ENT PEI1 TP1": [3011],
+        "Intro ENT PEI1 TP2": [3020],
+        "Intro ENT PEI1 TP3": [3739],
+        "Intro ENT PEI1 TP4": [1921],
+        "Complément électricité CM/TP": [7532],
+        "Préparation entretien alternance CM/TP": [8118],
+        "TOEIC blanc CM/TD": [8115]
       }
     }
   },
@@ -1027,52 +1044,41 @@
   "Fac LLSHS": {
     "AO": {
       "Toutes années": {
-        "Arts plastiques LLSHS": [8006],
-        "Biodiversité LLSHS": [7768],
-        "Carnet de croquis LLSHS": [8005],
-        "Chant LLSHS": [8001],
-        "Cinéma LLSHS": [7692],
-        "Conduite à Risque de Biologie": [9369],
-        "Cordée de la réussite": [7706],
-        "Culture entrepreneur LLSHS": [2147],
-        "Dessin LLSHS": [3677],
-        "Ecriture créative LLSHS": [1252],
-        "Ecriture et crise environnementale": [8787],
-        "Ecriture numérique multimodale": [999],
-        "Engagement associatif et bénévole LLSHS": [9165],
-        "Entreprends-toi LLSHS": [5558],
-        "Francophonie": [6244],
-        "Gravure LLSHS": [8002],
-        "Héritage antique": [94],
-        "Interculturalité et inclusion LLSHS": [4046],
-        "Introduction à l'archéologie": [6412],
-        "Langues des signes LLSHS": [813],
-        "Littérature et engagement": [6650],
-        "Outils numériques Niv 1": [4812],
-        "Outils numériques Niv 1-1": [7073],
-        "Outils numériques Niv 2": [4857],
-        "Photographie LLSHS": [7998],
-        "Pratique du dessin LLSHS": [7685],
-        "Pratique musicale LLSHS": [8003],
-        "Radio LLSHS": [7999],
-        "Spectacle vivant LLSHS": [768],
-        "Théâtre et improvisation LLSHS": [8239],
-        "Transition et territoires LLSHS": [7634],
-        "Étudiants ambassadeurs LLSHS": [5478],
-        "Communication gagnante LLSHS": [7923],
-        "Cybersécurité LLSHS": [7177],
-        "Fondements culturels de l'Europe LLSHS": [1719],
-        "Histoire de l'Art LLSHS": [1800],
-        "Informatique LLSHS (LLCER Anglais Gr1)": [1490],
-        "Informatique LLSHS (LLCER Anglais Gr2)": [1644],
-        "Informatique LLSHS (LLCER Anglais Gr3)": [1772],
-        "Informatique LLSHS (LLCER Espagnol)": [1866],
-        "Informatique LLSHS (LM)": [7058],
-        "Philosophie LLSHS": [1603],
-        "Pratique du théâtre LLSHS": [1533],
-        "Renforcement méthodologique \"oui si\"": [5553],
-        "Sport LLSHS": [2782],
-        "Stages L3 SHS": [5537]
+        "Ecriture créative en partenariat avec le centre pénitentiaire": [9226],
+        "Histoire de l'Art": [1688],
+        "Héritages antiques": [14735],
+        "Initiation au FLE": [14743],
+        "Introduction à l'archéologie : Histoire, méthodes et techniques": [14742],
+        "Langues des signes G1 (LSF)": [14744],
+        "Langues des signes G2 (LSF)": [14755],
+        "Pratique du théâtre": [14740],
+        "Tabac, alcool, sexe, drogues : physiologie et prévention": [14745],
+        "Écriture créative G1": [14737],
+        "Écriture créative G2": [14738],
+        "Accompagnement à la scolarité L1": [94],
+        "Accompagnement à la scolarité L3": [474],
+        "Atelier créatif d'impression d'images": [1559],
+        "Cinéma": [14741],
+        "Design, Scupture et Impression 3D": [1603],
+        "Engagement associatif et bénévole": [999],
+        "Engagement citoyen": [1252],
+        "Gravure et estampes": [14748],
+        "Impression d'images": [9369],
+        "Photographie": [14749],
+        "Pratique musicale": [14750],
+        "Radio": [14751],
+        "Théâtre et improvisation": [14752],
+        "Voix et chant": [14753],
+        "Élu étudiant": [891],
+        "Cordée de la Réussite": [14754],
+        "Culture entrepreneur": [14747],
+        "Entreprends-toi": [14746],
+        "Entrepreneuriat : Fabrik ta pépite": [1533],
+        "Étudiant ambassadeur": [1360],
+        "Communication gagnante : les atouts de la réussite": [14739],
+        "Découverte de la biodiversité": [813],
+        "Français sur Objectif universitaire": [1644],
+        "ASTEP": [1490]
       }
     },
     "Langues": {
@@ -1133,8 +1139,8 @@
         "Italien 01 GRP 4": [1020],
         "Italien 02 Grp 1": [5242],
         "Italien 02 Grp 2": [362],
-        "Italien N03 Grp2": [3974],
-        "Italien N03 Grp1": [363],
+        "Italien 03 Grp 1": [363],
+        "Italien 03 Grp 2": [3974],
         "Italien 11": [770],
         "Italien 12": [364],
         "Italien 13": [4671]
@@ -1162,10 +1168,10 @@
         "ESP cpge": [1319]
       }
     },
-    "DAEU A": {
-      "1ère année": {
-        "DAEU A Français": [9499],
+    "DAEU": {
+      "Toutes années": {
         "DAEU A Lorient": [1146],
+        "DAEU B Lorient": [1147],
         "DAEU A Vannes": [6771]
       }
     },
@@ -1186,26 +1192,15 @@
         "Gr2-3": [1551],
         "Gr2-4": [4904],
         "Gr2-5": [6200],
-        "Gr3-1": [1161],
-        "Gr3-2": [1691],
-        "Gr3-3": [2131],
-        "Gr3-4": [4907],
-        "Gr3-5": [6204],
-        "Gr4-1": [1163],
-        "Gr4-2": [2141],
-        "Gr4-3": [2143],
-        "Gr4-4": [4908],
-        "Gr4-5": [6218],
-        "Gr5-1": [8673],
-        "Gr5-2": [8674],
-        "Gr5-3": [8675],
-        "Gr5-4": [8676],
-        "Gr5-5": [8677],
-        "RD Gr2": [9223],
+        "Gr3-1": [5994],
+        "Gr3-2": [6488],
+        "Gr3-3": [6685],
+        "Gr3-4": [9331],
+        "Gr3-5": [9332],
         "RD Gr1": [9222],
+        "RD Gr2": [9223],
         "RD Gr3": [9224],
         "RD Gr4": [9225],
-        "RD Gr5": [9226],
         "Environnement et projet \"Oui si 2\" 1ère année": [8413],
         "Renforcement Compta gestion 2ème année": [3564],
         "Renforcement Compta-gestion 1ère année": [1822],
@@ -1246,11 +1241,11 @@
     },
     "Licence Histoire": {
       "L1": {
-        "OUI SI": [6485],
         "Env. gr1": [1411],
         "Env. gr2": [1656],
         "Env. gr3": [3609],
         "Env. gr4": [4630],
+        "OUI SI": [6485],
         "MTU BU1": [8615],
         "MTU BU2": [8669],
         "MTU BU3": [8696],
@@ -1260,7 +1255,21 @@
         "MTU BU7": [8780],
         "MTU BU8": [8854],
         "MTU BU9": [8855],
-        "MTU BU10": [8865],
+        "MTU UE5 BU1": [9344],
+        "MTU UE5 BU2": [9345],
+        "MTU UE5 BU3": [9346],
+        "MTU UE5 BU4": [9347],
+        "MTU UE5 BU5": [9348],
+        "MTU UE5 BU6": [9349],
+        "MTU UE5 BU7": [9350],
+        "MTU UE5 BU8": [9351],
+        "MTU UE5 BU9": [9352],
+        "MTU UE5 BU10": [9353],
+        "MTU UE5 MTU1": [9340],
+        "MTU UE5 MTU2": [9341],
+        "MTU UE5 MTU3": [9342],
+        "MTU UE5 MTU4": [9343],
+        "MTU UE5 MTU5": [9162],
         "Institutions politiques gr1": [751],
         "Institutions politiques gr2": [557],
         "Institutions politiques gr3": [752],
@@ -1284,10 +1293,11 @@
     "Licence Histoire-Géographie": {
       "L1": {
         "OUI SI": [6486],
-        "Histoire - Géographie": [8868],
-        "Histoire - Géographie gpe 1": [9107],
-        "Histoire - Géographie gpe 2": [9111],
-        "Histoire - Géographie gpe 3": [18753]
+        "TD Gr1": [8868],
+        "TD Gr2": [19059],
+        "BU 1": [9107],
+        "BU 2": [9111],
+        "BU 3": [18753]
       },
       "L2": {
         "Histoire - Géographie": [8870],
@@ -1336,6 +1346,14 @@
     "Licence LLCER-Anglais": {
       "L1": {
         "1-1": [3021],
+        "1-2": [3717],
+        "1-3": [3809],
+        "1-4": [3831],
+        "1-5": [3856],
+        "1-6": [3858],
+        "1-7": [3859],
+        "1-8": [3863],
+        "1-9": [3888],
         "1-10": [4004],
         "1-11": [4008],
         "1-12": [4029],
@@ -1345,20 +1363,10 @@
         "1-16": [4071],
         "1-17": [4110],
         "1-18": [4131],
-        "1-2": [3717],
-        "1-3": [3809],
-        "1-4": [3831],
-        "1-5": [3856],
-        "1-6": [3858],
-        "1-7": [3859],
-        "1-8": [3863],
-        "1-9": [3888]
+        "LLCER A Licence +": [4172]
       },
       "L2": {
         "2-1": [779],
-        "2-10": [4981],
-        "2-11": [5002],
-        "2-12": [5009],
         "2-2": [872],
         "2-3": [974],
         "2-4": [986],
@@ -1366,11 +1374,11 @@
         "2-6": [1063],
         "2-7": [1197],
         "2-8": [1590],
-        "2-9": [1929]
+        "2-9": [1929],
+        "2-10": [4981]
       },
       "L3": {
         "3-1": [1289],
-        "3-10": [804],
         "3-2": [1295],
         "3-3": [1324],
         "3-4": [1327],
@@ -1378,12 +1386,14 @@
         "3-6": [1379],
         "3-7": [1382],
         "3-8": [1395],
-        "3-9": [1405]
+        "3-9": [1405],
+        "3-10": [804]
       }
     },
     "Licence LLCER-Espagnol": {
       "L1": {
-        "Gr 1": [6446],
+        "TD 1": [6446],
+        "TD 2": [7589],
         "OUI SI": [1167]
       },
       "L2": {
@@ -1455,15 +1465,13 @@
         "Sciences politiques": [6739]
       },
       "L2": {
-        "Approches professionnelles de la santé et du social": [4731],
-        "Approches professionnelles de la santé et du social Gr1": [8995],
-        "Approches professionnelles de la santé et du social Gr2": [9011],
+        "APSSS Gr1": [4731],
+        "APSSS Gr2": [1639],
         "Commerce international": [1702],
         "Commerce international Allemand": [8067],
         "Commerce international Espagnol 1": [8065],
         "Commerce international Espagnol 2": [8066],
         "Métiers des arts et de la culture": [3800],
-        "Gestion de projets européens": [1716],
         "Gestion de projets européens Allemand": [8102],
         "Gestion de projets européens Espagnol": [8101],
         "Métiers de l'écrit": [4160],
@@ -1475,40 +1483,46 @@
         "PLC": [1340],
         "Sciences humaines et sociales": [4242],
         "Sciences politiques": [7968],
-        "Sciences politiques LEA UE5": [8241],
-        "Sc. Politiques gr 1 anglais": [9503],
-        "Sc. Politiques gr 2 anglais": [9500]
+        "Sciences politiques LEA": [8241],
+        "Sciences Politiques gr 1 anglais": [9503],
+        "Sciences Politiques gr 2 anglais": [9500]
       },
       "L3": {
-        "Approches professionnelles de la santé et du social": [1504],
+        "APS Gr1": [1504],
+        "APS Gr2": [17281],
         "Commerce international allemand": [2105],
         "Commerce international espagnol": [2249],
         "Commerce international": [1838],
         "Gestion de projets européens allemand": [2410],
         "Gestion de projets européens espagnol": [3446],
-        "Gestion de projets européens": [2675],
         "Métiers de l'écrit": [6568],
+        "Métiers des arts et de la culture Gr1": [17459],
+        "Métiers des arts et de la culture Gr2": [17462],
         "PLC - Disciplinaire : Espagnol": [9048],
         "PLC - Disciplinaire : Lettres": [9051],
         "PLC - Disciplinaire : anglais": [9070],
         "PLC - Disciplinaire : histoire": [9054],
         "PLC": [9090],
-        "PE FLE L3": [8970],
-        "PE QSV L3": [8980],
-        "Psychologie L3": [5923],
+        "PE FLE": [8970],
+        "PE QSV": [8980],
+        "Psychologie": [5923],
         "Sciences humaines et sociales": [5241],
         "Sciences politiques": [4939],
-        "Sc. Politiques Anglais Gr1": [9509],
-        "Sc. Politiques Anglais Gr2": [9510]
-      },
-      "M1": {
-        "CPFP": [4537],
-        "LV1": [4617],
-        "LV2": [4683],
-        "LV3": [4878],
-        "MFP": [4879],
-        "Méthodo 1": [4880],
-        "Méthodo 2": [4885]
+        "Sciences Politiques Anglais Gr1": [9509],
+        "Sciences Politiques Anglais Gr2": [9510]
+      }
+    },
+    "UE4 Diversification Master": {
+      "Master": {
+        "Anglais scientifique": [17659],
+        "Didactique des langues": [7125],
+        "Droit de la fonction publique": [7555],
+        "Exploitation des sources": [9191],
+        "Méthodologie en sociologie": [6479],
+        "Prépa concours Culture générale": [6774],
+        "Prépa concours FP": [9155],
+        "Prépa concours Note de synthèse": [4889],
+        "RSOT": [3838]
       }
     },
     "Master AUTELI": {
@@ -1585,7 +1599,8 @@
         "Documentation Numérique": [3626],
         "Edition gr1": [1747],
         "Edition gr2": [1749],
-        "Recherche": [4446]
+        "Recherche": [4446],
+        "Alternance": [13344]
       }
     },
     "Master Patrimoine culturel, patrimoine naturel": {
@@ -1617,8 +1632,8 @@
       "M1 PE": {
         "TD1 TPA1": [5031],
         "TD1 TPA2": [4026],
-        "TD1 TPB1": [3791],
-        "TD1 TPB2": [3600],
+        "TD2 TPB1": [3791],
+        "TD2 TPB2": [3600],
         "TD2 TPC1": [1328],
         "TD2 TPC2": [4194],
         "TD2 TPD1": [4197],
@@ -1736,58 +1751,65 @@
       }
     },
     "AO Lorient": {
-      "Toutes années": {
-        "ASTEP SSI": [5388],
-        "Actualités du développement durable SSI": [6176],
-        "Allemand SSI": [894],
-        "Archipel SSI": [6991],
-        "Art plastique SSI": [3571],
-        "Biodiversité SSI": [7767],
-        "Cinéma SSI": [3572],
-        "Communication gagnante SSI": [5207],
-        "Culture entrepreneur SSI": [4171],
-        "Cybersécurité SSI": [7135],
-        "Dessin SSI": [8373],
-        "EAB SSI": [4842],
-        "TEDS": [3320],
-        "Engagement associatif et bénévole SSI": [2527],
-        "Entreprends-toi SSI": [7988],
-        "Espagnol SSI": [9330],
-        "Fabrik ta pépite": [9406],
-        "Gravure SSI": [5881],
-        "Histoire des Techniques SSI": [4196],
-        "Illustration du vivant SSI": [5448],
-        "Insertion professionelle": [2697],
-        "Introduction aux Sciences forensiques": [9173],
-        "Journalisme SSI": [3653],
-        "Méthodes de l'écrit et de l'oral": [8842],
-        "Photographie SSI": [7993],
-        "Plastique et environnement": [5744],
-        "Pratique musicale SSI": [44],
-        "Radio SSI": [7994],
-        "Sensibilisation aux enjeux climatiques et environnementaux SSI": [5654],
-        "Théâtre et improvisation SSI": [8000],
-        "Voix et Chant SSI": [7996],
-        "Étudiants ambassadeurs SSI": [7749],
-        "Parcours Europe SSI Lorient": [6471]
+      "AO LLSHS": {
+        "Ecriture créative en partenariat avec le centre pénitentiaire SSI": [5345],
+        "Histoire de l'Art SSI": [3772],
+        "Héritages antiques SSI": [1772],
+        "Initiation au FLE SSI": [2781],
+        "Introduction à l'archéologie : Histoire, méthodes et techniques SSI": [2147],
+        "Langues des signes G1 (LSF) SSI": [2782],
+        "Langues des signes G2 (LSF) SSI": [3677],
+        "Pratique du théâtre SSI": [1866],
+        "Tabac, alcool, sexe, drogues : physiologie et prévention SSI": [1800],
+        "Écriture créative G1 SSI": [1860],
+        "Écriture créative G2 SSI": [1799]
+      },
+      "AO SCVC": {
+        "AO Accompagnement à la scolarité L1 SSI": [5558],
+        "AO Accompagnement à la scolarité L3 SSI": [6244],
+        "AO Atelier créatif d'impression d'images SSI": [7073],
+        "AO Cinéma SSI": [5478],
+        "AO Design, Scupture et Impression 3D SSI": [7176],
+        "AO Engagement SSI": [7058],
+        "AO Engagement associatif et bénévole : Ligue de l'Enseignement SSI": [11976],
+        "AO Engagement associatif et bénévole SSI": [6650],
+        "AO Gravure et estampes SSI": [4569],
+        "AO Impression d'images SSI": [9165],
+        "AO Photographie SSI": [4812],
+        "AO Pratique musicale SSI": [5537],
+        "AO Radio SSI": [5553],
+        "AO Théâtre et improvisation SSI": [5536],
+        "AO Voix et chant SSI": [4857],
+        "AO Élu étudiant SSI": [6412]
+      },
+      "AO SPOT": {
+        "AO Cordée de la Réussite SSI": [7692],
+        "AO Entrepreneuriat : Entreprends-toi SSI": [7634],
+        "AO Entrepreneuriat : Fabrik ta pépite SSI": [7768],
+        "AO Entrepreneuriat Culture entrepreneur : démystifier l'entrepreneuriat SSI": [7685],
+        "AO Étudiant ambassadeur SSI": [7706]
+      },
+      "AO SSI": {
+        "AO Allemand SSI": [894],
+        "AO Communication gagnante : les atouts de la réussite SSI": [7999],
+        "AO Découverte de la biodiversité SSI": [7923],
+        "AO Espagnol SSI Lorient": [9330],
+        "AO Français sur Objectifs Universitaires (FOU) SSI Lorient": [8001],
+        "ASTEP SSI": [7998]
       }
     },
     "CPEM": {
-      "1ère année": {
-        "CPEM Vannes": [651],
-        "CPEM Lorient": [4951]
+      "Toutes années": {
+        "CPEM L": [4951]
       }
     },
     "CUPGE MIS Vannes": {
       "1ère année": {
-        "S1 CUPGE": [3669],
-        "S2 CUPGE I": [1764]
+        "S1 CUPGE": [3669]
       },
       "2ème année": {
         "S3 CUPGE I": [4783],
-        "S3 CUPGE MS": [5344],
-        "S4 CUPGE I": [5895],
-        "S4 CUPGE M": [2384]
+        "S3 CUPGE MS": [5344]
       }
     },
     "CUPGE Maths-Physique Lorient": {
@@ -1799,18 +1821,20 @@
       "L2": {
         "1A": [447, 7403],
         "1B": [637, 7405],
+        "1C": [996],
         "1/3 temps": [9387]
       }
     },
-    "DAEU B": {
-      "1ère année": {
-        "DAEU B Lorient": [1147],
-        "DAEU B Mathématiques": [9528]
-      }
-    },
     "DEUST STAPS - Lorient": {
-      "1ère année": {
-        "DEUST 1 AGAPSC": [7785]
+      "DEUST 1": {
+        "AGAPSC": [7785]
+      },
+      "DEUST 2": {
+        "AGAPSC": [393]
+      },
+      "Licence 1": {
+        "Groupe 1": [155],
+        "Groupe 2": [394]
       }
     },
     "DU Gestionnaire de port de plaisance": {
@@ -1833,15 +1857,14 @@
     "Licence CMI": {
       "L1": {
         "S1 CMI SD": [7155],
-        "S2 CMI-I": [9166],
+        "S2 CMI": [3660],
         "S2 CMI-P": [7112]
       },
       "L2": {
         "CMI": [3660, 2556]
       },
       "L3": {
-        "CMI-Maths-Info": [2434, 4163],
-        "CMI-Maths-Stat": [9517]
+        "CMI": [2434]
       }
     },
     "Licence Accès Santé": {
@@ -1852,52 +1875,28 @@
     },
     "Licences Maths-Info-Stat": {
       "L1": {
-        "S1 CMI-SD": [7155],
-        "S1 CUPGE": [3669],
-        "S1 MMI IM": [4080],
-        "S1 MMI IP": [4529],
-        "S1 MMI MP": [4292],
-        "S1 MmI IM-1": [1910],
-        "S1 MmI IP": [3666],
-        "S1 MmI MP": [3502],
-        "S2 CMI-I": [9166],
-        "S2 CMI-P": [6597],
-        "S2 CUPGE I": [1764],
-        "S2 LAS Maths": [9489],
-        "S2 LAS Phy": [9493],
-        "S2 LAS Stats": [9490],
-        "S2 MMI-I'P": [2346],
-        "S2 MMI-I'S": [2559],
-        "S2 MMM-II'": [1321],
-        "S2 MMM-IS": [2287],
-        "S2 MMM-PI": [1306],
-        "S2 MMM-PS": [9167],
-        "S2 PASS": [6466],
-        "S2 Oui-si 2": [2476, 6571]
+        "CMI-SD": [7155],
+        "CUPGE": [3669],
+        "LAS-MI": [3533],
+        "LAS-MP": [3451],
+        "MMI_IM": [4080],
+        "MMI_IP": [4529],
+        "MMI_MP": [4292],
+        "MmI_IM": [1910],
+        "MmI_IP": [3666],
+        "MmI_MP": [3502],
+        "Oui Si-2": [2476]
       },
       "L2": {
-        "CMI": [3660, 2556],
-        "CUPGE I": [4783, 5895],
-        "CUPGE MS": [5344, 2384],
-        "PEI-A": [8670, 7519],
-        "S3 INFO-PHY": [3038],
-        "S3 INFO-STAT": [5419],
-        "S3 MATH-INFO": [2896],
-        "S3 MATH-PHY": [2867],
-        "S3 MATH-STAT": [4118],
-        "S4 INFO": [4675],
-        "S4 INFO-2": [7765],
-        "S4 INFO_*": [8166],
-        "S4 INFO_**": [8167],
-        "S4 INFO_***": [8168],
-        "S4 MATH-MI": [4566],
-        "S4 MATH-MI*": [8170],
-        "S4 MATH-MS": [2672],
-        "S4 MATH-MS*": [8169],
-        "S4 MATH-MS**": [8171],
-        "S4 MATH-MS***": [8172],
-        "S4 MATH-SI": [1343],
-        "S4 STAT": [2353]
+        "CMI": [3660],
+        "CUPGE_I": [4783],
+        "CUPGE_MS": [5344],
+        "INFO-PHY": [3038],
+        "INFO-STAT": [5419],
+        "MATH-INFO": [2896],
+        "MATH-PHY": [2867],
+        "MATH-STAT": [4118],
+        "PEI-A Vannes": [8670]
       },
       "L3": {
         "CMI IS": [4163, 2434],
@@ -2042,7 +2041,11 @@
       },
       "L2 Vannes": {
         "S3 BC": [8399],
+        "S3 E": [19483],
+        "S3 EB": [19484],
         "S3 EBM": [9276],
+        "S3 EBM4": [19337],
+        "S3 EBMr": [19485],
         "S3 ED": [8604],
         "S3 EDB3": [9275],
         "S3 EDBr": [9274],
@@ -2052,28 +2055,50 @@
         "S3 EDLe5": [8605],
         "S3 EDLr": [8602],
         "S3 EL": [8603],
+        "S3 ELBa6": [19338],
+        "S3 ELBb5": [19339],
+        "S3 ELC": [19340],
         "S3 ELM2": [9277],
+        "S3 ELMa7": [19341],
+        "S3 ELMb5": [19342],
+        "S3 ELMc6": [17056],
+        "S3 ELMd4": [19343],
+        "S3 ELMe3": [19345],
+        "S3 ELMv": [19344],
+        "S3 ELZ6": [17669],
+        "S3 ELZe": [17671],
+        "S3 ZBC": [19055],
         "S3 ZBC9": [8405],
         "S3 ZBCLas2": [8402],
+        "S3 ZBCLasa4": [19482],
         "S3 ZBCLasb": [6398],
+        "S3 ZBCLasb3": [19486],
         "S3 ZBCLase3": [8400],
         "S3 ZBCb": [6395],
         "S3 ZBCe": [8403],
         "S3 ZBCr": [8426],
+        "S3 ZBCra": [19491],
+        "S3 ZBCrb": [19492],
         "S3 ZBD": [8567],
         "S3 ZBDLas2": [8548],
         "S3 ZBDLase2": [8542],
         "S3 ZBDe": [8550],
         "S3 ZBDr": [8591],
+        "S3 ZBE": [18754],
+        "S3 ZBM16": [19489],
         "S3 ZBM8": [6940],
+        "S3 ZBMLas10": [19487],
         "S3 ZBMLase": [4278],
         "S3 ZBMa6": [2385],
+        "S3 ZBMe": [19490],
         "S3 ZBMe6": [1096],
         "S3 ZBMlas2": [1094],
         "S3 ZBMr": [8398],
         "S3 ZDCLas8": [8601],
         "S3 ZDM": [8597],
         "S3 ZDMLas": [8592],
+        "S3 ZMC10": [19481],
+        "S3 ZMCLas6": [19488],
         "S3 ZMCa6": [8434],
         "S3 ZMCb8": [8532],
         "S3 ZMCe": [6490],
@@ -2633,15 +2658,7 @@
         "Formations FLE Intensifs été": [4330],
         "Formation FLE Test de positionnement": [6897]
       }
-    },
-    "Service de la formation professionnelle et de l'alternance": {
-      "Toutes années": {
-        "DIVA": [138],
-        "Formation professionnelle": [9999],
-        "REVA": [416],
-        "VAE": [414],
-        "VAPRE": [415]
-      }
+    }
     }
   }
 }
