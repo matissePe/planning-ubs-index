@@ -527,10 +527,9 @@
       "UE optionnelles PEI1" : {
         "Intro GI-GC-EH PEI1 CM-TP": [640],
         "Intro ENT PEI1 CM": [2895],
-        "Intro ENT PEI1 TP1": [3011],
-        "Intro ENT PEI1 TP2": [3020],
-        "Intro ENT PEI1 TP3": [3739],
-        "Intro ENT PEI1 TP4": [1921],
+        "Intro ENT PEI1 TP1": [3020],
+        "Intro ENT PEI1 TP2": [3739],
+        "Intro ENT PEI1 TP3": [1921],
         "Complément électricité CM/TP": [7532],
         "Préparation entretien alternance CM/TP": [8118],
         "TOEIC blanc CM/TD": [8115]
@@ -2669,6 +2668,11 @@
         "Formations Cours semi-intensifs FLE C": [1107],
         "Formations FLE Intensifs été": [4330],
         "Formation FLE Test de positionnement": [6897]
+      }
+    },
+    "Planning personnalisé": {
+      "Toutes années": {
+        "IGREC M1 + M2": [607, 6564, 662]
       }
     }
   }
