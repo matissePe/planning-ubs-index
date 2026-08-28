@@ -412,8 +412,12 @@
         "TP2": [4958],
         "TP3": [2422],
         "TP4": [2424],
-        "TP5": [4983],
-        "TP6": [4989]
+        "Chinois gr1a": [7064],
+        "Chinois gr1b": [7065],
+        "Chinois gr2a": [7071],
+        "Chinois gr2b": [7081],
+        "Russe gr1": [6990],
+        "Russe gr2": [7046]
       }
     },
     "Énergies, Hydrogène": {
