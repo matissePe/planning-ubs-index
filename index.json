@@ -63,17 +63,17 @@
       },
       "2ème année": {
         "GR 2A1": [3487],
-        "GR 2A2": [3486],
+        "GR 2A2": [4568],
         "GR 2B1": [3484],
-        "GR 2B2": [3483],
-        "GR 2C1": [3479],
+        "GR 2B2": [18904],
+        "GR 2C1": [18908],
         "GR 2C2": [3478]
       },
       "3ème année": {
-        "GR 3A1": [6345],
-        "GR 3A2": [6927],
+        "GR 3A1": [19141],
+        "GR 3A2": [19143],
         "GR 3B1": [6932],
-        "GR 3B2": [6974]
+        "GR 3B2": [19149]
       }
     },
     "BUT SD": {
@@ -104,8 +104,8 @@
       "3ème année": {
         "GrA-EMS-FA": [8976],
         "GrA-EMS-FI": [8977],
-        "GrB-EMS-FA": [9042],
-        "GrB-EMS-FI": [8992],
+        "GrB-EMS-FA": [3807],
+        "GrB-EMS-FI": [3819],
         "GrC-VCOD-FA": [7842],
         "GrC-VCOD-FI": [7831]
       }
@@ -136,13 +136,13 @@
         "Parcours 2MDEE.2": [3790]
       },
       "3ème année": {
-        "A.1": [3872],
-        "A.2": [3873],
-        "B.1": [3874],
-        "B.2": [3880],
-        "C.1": [3887],
-        "C.2": [3918],
-        "Parcours 3BDMRC": [6017],
+        "A.1": [594],
+        "A.2": [638],
+        "B.1": [755],
+        "B.2": [1568],
+        "C.1": [1575],
+        "C.2": [1704],
+        "Parcours 3BDMRC": [19410],
         "Parcours 3BI.1": [6707],
         "Parcours 3BI.2": [9230],
         "Parcours 3MDEE": [6556]
@@ -372,8 +372,7 @@
         "TP2": [3373, 5628]
       },
       "5ème année": {
-        "TP1": [6371],
-        "M2RI": [4096]
+        "TP1": [6371]
       }
     },
     "CyberLog": {
@@ -388,8 +387,7 @@
         "TP2": [5630, 5673]
       },
       "5ème année": {
-        "TP1": [9994],
-        "M2RI": [9992]
+        "TP1": [9994]
       }
     },
     "CyberDéfense": {
@@ -517,39 +515,38 @@
       },
       "5ème année": {
         "MTA TP1": [8034],
-        "MTA TP1 (I-MARS)": [9910],
+        "MTA TP1 (I-MARS)": [6804],
         "MTA TP2": [8035],
-        "MTA TP2 (I-MARS)": [7792],
+        "MTA TP2 (I-MARS)": [6858],
         "MTE TP1": [10002],
-        "MTE TP1 (I-MARS)": [9999]
+        "MTE TP1 (I-MARS)": [7220]
       }
     },
     "PEI": {
       "1ère année": {
         "Lorient PEI-D TP1": [2504, 2548],
-        "Lorient PEI-D TP2": [8106],
         "GR 1A1": [3543],
         "SSI PEI-1 71": [4039, 6629],
         "SSI PEI-1 72a": [333],
         "SSI PEI-1 72b": [19067],
-        "SSI PEI-1 73": [1578,5502],
+        "SSI PEI-1 73": [1578, 5502],
         "SSI PEI-1 72": [6619],
         "SSI PEI-1 74": [5340]
       },
       "2ème année": {
         "Vannes PEI-A TP1": [8951, 8685],
-        "Vannes PEI-A": [8670,7519],
+        "Vannes PEI-A": [8670, 7519],
         "Lorient PEI-D TP1": [3182, 3627],
         "SSI PEI-2 71": [1745, 7420],
-        "SSI PEI-2 72": [1985,9428],
-        "SSI PEI-2 73": [2045],
+        "SSI PEI-2 72": [1985, 9428],
+        "SSI PEI-2 73": [9473],
         "PEI 1/3 temps": [9384],
         "UE PEI CM": [2764],
         "UE PEI TP1": [2774],
         "UE PEI TP2": [7559],
         "UE PEI TP3": [2258]
       },
-      "UE optionnelles PEI1" : {
+      "UE optionnelles PEI1": {
         "Intro GI-GC-EH PEI1 CM-TP": [640],
         "Intro ENT PEI1 CM": [2895],
         "Intro ENT PEI1 TP1": [3020],
@@ -759,7 +756,7 @@
         "Profil privatiste - Groupe 3": [5128],
         "Profil publiciste - Groupe 1": [5966],
         "Profil publiciste - Groupe 2": [1841],
-        "Préparation concours": [6123],
+        "Préparation concours": [2051],
         "Langues Tiers temps 1": [615],
         "Langues AAR L3": [4280],
         "Langues ALL L3D": [4459],
