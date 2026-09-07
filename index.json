@@ -37,16 +37,21 @@
         "GC2F-I Esp": [6625],
         "GEMA-FA-All": [1274],
         "GEMA-FA-Esp": [6717],
-        "GEMA-FI1 All": [3587],
         "GEMA-FI1 Esp": [3402],
         "GEMA-FI2": [1290],
-        "GPRH Allemand": [3513],
+        "GEMA-FI2 All": [2303],
+        "GEMA-FI2 Esp": [2305],
+        "GEMA International": [1889],
         "GPRH Espagnol": [2856]
       },
       "3ème année": {
         "CG2P": [4656],
-        "GC2F": [5146],
-        "GEMA": [4655],
+        "GEMA RS1": [4655],
+        "GEMA RC1": [1313],
+        "GEMA RC2": [1385],
+        "GEMA RS2": [1802],
+        "GC2F1": [1238],
+        "GC2F2": [1254],
         "GPRH": [5182]
       }
     },
@@ -62,18 +67,23 @@
         "GR 1D2": [3525]
       },
       "2ème année": {
-        "GR 2A1": [3487],
+        "GR 2A1 - FA": [3476],
+        "GR 2A1 - FI": [3597],
         "GR 2A2": [4568],
-        "GR 2B1": [3484],
+        "GR 2B1 - FA": [18900],
+        "GR 2B1 - FI": [18903],
         "GR 2B2": [18904],
         "GR 2C1": [18908],
-        "GR 2C2": [3478]
+        "GR 2C2 - FI PEI": [18910],
+        "GR 2C2 - FI non PEI": [18911]
       },
       "3ème année": {
         "GR 3A1": [19141],
         "GR 3A2": [19143],
-        "GR 3B1": [6932],
-        "GR 3B2": [19149]
+        "GR 3B1 - FA": [19148],
+        "GR 3B1 - FI": [19147],
+        "GR 3B2": [19149],
+        "GR 3C1 - FI": [19151]
       }
     },
     "BUT SD": {
@@ -89,7 +99,7 @@
       },
       "2ème année": {
         "EMS Gr A-FA": [6926],
-        "EMS Gr A-FI": [6827],
+        "EMS Gr A2-FA": [7192],
         "EMS Gr A1": [4441],
         "EMS Gr A2": [4212],
         "EMS Gr B-FA": [6963],
@@ -99,15 +109,26 @@
         "VCOD Gr C-FA": [7026],
         "VCOD Gr C-FI": [7171],
         "VCOD Gr C1": [1997],
-        "VCOD Gr C2": [1930]
+        "VCOD Gr C2": [1930],
+        "Option IA": [9998],
+        "Option SIG": [10186],
+        "Option marketing": [6648],
+        "Option maths": [7073],
+        "Option santé": [9101]
       },
       "3ème année": {
         "GrA-EMS-FA": [8976],
         "GrA-EMS-FI": [8977],
+        "GrA-VCOD-FA": [3317],
+        "GrA-VCOD-FI": [3316],
         "GrB-EMS-FA": [3807],
         "GrB-EMS-FI": [3819],
-        "GrC-VCOD-FA": [7842],
-        "GrC-VCOD-FI": [7831]
+        "GrB-VCOD-FA": [3434],
+        "GrB-VCOD-FI": [3546],
+        "Option marketing": [3196],
+        "Option maths": [3022],
+        "Option santé": [3153],
+        "Option SIG": [3236]
       }
     },
     "BUT TC": {
@@ -131,9 +152,9 @@
         "D.1": [3418],
         "D.2": [3417],
         "Parcours 2BDMRC": [1047],
+        "Parcours 2BDMRC.2": [635],
         "Parcours 2BI": [1118],
-        "Parcours 2MDEE.1": [8060],
-        "Parcours 2MDEE.2": [3790]
+        "Parcours 2MDEE": [701]
       },
       "3ème année": {
         "A.1": [594],
@@ -144,7 +165,6 @@
         "C.2": [1704],
         "Parcours 3BDMRC": [19410],
         "Parcours 3BI.1": [6707],
-        "Parcours 3BI.2": [9230],
         "Parcours 3MDEE": [6556]
       }
     },
@@ -155,11 +175,6 @@
       },
       "2ème année": {
         "DSCU 2": [3494]
-      }
-    },
-    "DU ETD": {
-      "Toutes années": {
-        "DU ETD": [5298]
       }
     },
     "LP": {
@@ -185,6 +200,7 @@
         "TD MDFS A FI": [4653],
         "TD MDFS B FI": [3154],
         "TD MDFS C ALT": [5274],
+        "TD MDFS D ALT": [19158],
         "Prépa IAE": [9556]
       },
       "3ème année": {
@@ -239,7 +255,9 @@
         "A1 MCM": [4573],
         "A2 MCM": [4579],
         "B1 ARI": [5081],
-        "B2 ARI": [5563]
+        "B2 ARI": [5563],
+        "C1 MCM": [17331],
+        "C2 MCM": [17330]
       }
     },
     "BUT HSE-CQSE": {
@@ -726,6 +744,9 @@
         "Langues IPS L2D": [2661],
         "Evt UBS": [7172]
       },
+      "L2 Droit Science Politique": {
+        "L2 DROIT SC PO": [2006]
+      },
       "L3": {
         "Profil mixte": [484],
         "Profil privatiste - Groupe 1": [529],
@@ -740,8 +761,10 @@
         "Langues ANG5": [5061],
         "Langues ANG6": [5917],
         "AO": [6045],
-        "Projet Eloquence": [21945],
-        "PREPARATION CONCOURS": [2051]
+        "Projet Eloquence": [21945]
+      },
+      "PASS": {
+        "PASS": [4087]
       }
     },
     "CPGE": {
@@ -913,6 +936,11 @@
         "réunion ERASMUS": [2252]
       }
     },
+    "LP Activités Juridiques": {
+      "Toutes années": {
+        "LP Activités Juridiques": [454]
+      }
+    },
     "LP Banque": {
       "1ère année": {
         "G1": [9362]
@@ -1003,6 +1031,11 @@
         "GR1": [5372]
       }
     },
+    "DU Influence contre influence": {
+      "Toutes années": {
+        "DU Influence contre influence": [17775]
+      }
+    },
     "DU AT": {
       "1ère année": {
         "1/3 Tps DU AT": [1469],
@@ -1068,7 +1101,6 @@
         "Anglais 11 GRP 2": [432],
         "Anglais 11 GRP 3": [433],
         "Anglais 11 GRP 4": [1423],
-        "Anglais 11 GRP 5": [20345],
         "Anglais 12 GRP 1": [405],
         "Anglais 12 GRP 2": [406],
         "Anglais 12 GRP 3": [3810],
@@ -1143,7 +1175,6 @@
     "DAEU": {
       "Toutes années": {
         "DAEU A Lorient": [1146],
-        "DAEU B Lorient": [1147],
         "DAEU A Vannes": [6771]
       }
     },
@@ -1312,7 +1343,8 @@
       },
       "L3": {
         "Esp1": [444],
-        "Esp2": [2873]
+        "Esp2": [2873],
+        "Germanistes": [22725]
       }
     },
     "Licence LLCER-Anglais": {
@@ -1377,9 +1409,9 @@
     },
     "Licence Lettres": {
       "L1": {
-        "L1 LM MTU 1": [8276],
-        "L1 LM MTU 2": [8277],
-        "L1 Lettres Modernes": [473]
+        "L1 Lettres Modernes": [473],
+        "TD A": [1296],
+        "TD B": [1377]
       },
       "L2": {
         "L2 Lettres Modernes": [4149]
@@ -1423,16 +1455,10 @@
         "Rédaction en espagnol TD2": [7720],
         "Métiers de l'écrit": [6656],
         "Métiers de la culture": [8240],
-        "Option FLE": [6532],
-        "PE Découverte des métiers de l'éducation": [6692],
-        "PE Français TD1": [6464],
-        "PE Français TD2": [6465],
-        "PE Maths TD1": [6405],
-        "PE Maths TD2": [6453],
-        "PLC Découverte des métiers de l'éducation": [6695],
-        "Analyse des médias TD1": [6515],
-        "Analyse des médias TD2": [6516],
-        "Analyse des médias TD3": [7132],
+        "PE L1 TD1": [6237],
+        "PE L1 TD2": [6276],
+        "PLC L1 TD1": [6708],
+        "PLC L1 TD2": [6925],
         "Sciences humaines et sociales": [6390],
         "Sciences politiques": [6739]
       },
@@ -1578,7 +1604,6 @@
         "Documentation Numérique": [3626],
         "Edition gr1": [1747],
         "Edition gr2": [1749],
-        "Recherche": [4446],
         "Alternance": [13344]
       }
     },
@@ -1683,21 +1708,7 @@
         "PE2 TDA": [7607],
         "PE2 TDB": [7627],
         "PE2 option arts": [5989],
-        "PE2C": [7584],
-        "PE2C Cycle 1": [1412],
-        "PE2C Cycle 2": [1501],
-        "PE2C Cycle 3": [1621],
         "PE2I": [5777],
-        "PE2I Cycle 1": [2305],
-        "PE2I Cycle 2": [2324],
-        "PE2I Cycle 3": [2350],
-        "PE2S": [7594],
-        "PE2S Cycle 1": [1238],
-        "PE2S Cycle 2": [1254],
-        "PE2S Cycle 3": [1385],
-        "PES Cycle 1": [1889],
-        "PES Cycle 2": [2467],
-        "PES Cycle 3": [2806],
         "PES (Stagiaires)": [6755],
         "TP1-Cycle1_2": [6311],
         "TP2-cycle3": [6312]
@@ -1748,7 +1759,6 @@
       "AO SCVC": {
         "Accompagnement à la scolarité L1 SSI": [5558],
         "Accompagnement à la scolarité L3 SSI": [6244],
-        "Atelier créatif d'impression d'images SSI": [7073],
         "Cinéma SSI": [5478],
         "Design, Scupture et Impression 3D SSI": [7176],
         "Engagement SSI": [7058],
@@ -1775,23 +1785,24 @@
         "Communication gagnante : les atouts de la réussite SSI": [7999],
         "Découverte de la biodiversité SSI": [7923],
         "Espagnol SSI Lorient": [9330],
-        "Français sur Objectifs Universitaires (FOU) SSI Lorient": [8001],
         "ASTEP SSI": [7998],
         "Cours Europe Lorient": [20007]
       }
     },
     "CPEM": {
       "Toutes années": {
-        "CPEM L": [4951]
+        "CPEM L": [4951],
+        "CPEM V": [651]
       }
     },
     "CUPGE MIS Vannes": {
       "1ère année": {
-        "S1 CUPGE": [3669]
+        "CUPGE": [3669, 1764]
       },
       "2ème année": {
-        "S3 CUPGE I": [4783],
-        "S3 CUPGE MS": [5344]
+        "CUPGE I": [4783, 5895],
+        "CUPGE Maths": [5344, 2384],
+        "CUPGE Sciences": [5344, 4691]
       }
     },
     "CUPGE Maths-Physique Lorient": {
@@ -1803,7 +1814,7 @@
       "L2": {
         "1A": [447, 7403],
         "1B": [637, 7405],
-        "1C": [996],
+        "1C": [996, 21578],
         "1/3 temps": [9387]
       }
     },
@@ -1817,6 +1828,14 @@
       "Licence 1": {
         "Groupe 1": [155],
         "Groupe 2": [394]
+      },
+      "Licence 2": {
+        "AGAPSC": [1672]
+      }
+    },
+    "DIU Thanatopraxie": {
+      "Toutes années": {
+        "DIU Thanatopraxie": [15132]
       }
     },
     "DU Gestionnaire de port de plaisance": {
@@ -1838,15 +1857,15 @@
     },
     "Licence CMI": {
       "L1": {
-        "S1 CMI SD": [7155],
-        "S2 CMI": [3660],
-        "S2 CMI-P": [7112]
+        "CMI-I": [7155, 9166],
+        "CMI-P": [7155, 6597]
       },
       "L2": {
         "CMI": [3660, 2556]
       },
       "L3": {
-        "CMI": [2434]
+        "CMI Maths-Info": [2434, 4163],
+        "CMI Maths-Stat": [2434, 9517]
       }
     },
     "Licence Accès Santé": {
@@ -1857,8 +1876,9 @@
     },
     "Licences Maths-Info-Stat": {
       "L1": {
-        "CMI-SD": [7155],
-        "CUPGE": [3669],
+        "CMI-I": [7155, 9166],
+        "CMI-P": [7155, 6597],
+        "CUPGE": [3669, 1764],
         "LAS-MI": [3533],
         "LAS-MP": [3451],
         "MMI_IM": [4080],
@@ -1867,28 +1887,26 @@
         "MmI_IM": [1910],
         "MmI_IP": [3666],
         "MmI_MP": [3502],
-        "Oui Si-2": [2476]
+        "Oui Si-2": [2476, 6571]
       },
       "L2": {
-        "CMI": [3660],
-        "CUPGE_I": [4783],
-        "CUPGE_MS": [5344],
+        "CMI": [3660, 2556],
+        "CUPGE_I": [4783, 5895],
+        "CUPGE Maths": [5344, 2384],
+        "CUPGE Sciences": [5344, 4691],
         "INFO-PHY": [3038],
         "INFO-STAT": [5419],
         "MATH-INFO": [2896],
         "MATH-PHY": [2867],
         "MATH-STAT": [4118],
-        "PEI-A Vannes": [8670]
+        "PEI-A Vannes": [8670, 7519]
       },
       "L3": {
-        "CMI IS": [4163, 2434],
+        "CMI Maths-Info": [2434, 4163],
+        "CMI Maths-Stat": [2434, 9517],
         "INFO 1": [427, 2234],
-        "INFO 2": [4796, 7577],
-        "INFO 3": [4389],
-        "INFO 4": [4434],
         "MATH": [2022, 732],
-        "STAT 1": [4545, 2722],
-        "STAT 2": [2118, 7094]
+        "STAT 1": [4545, 2722]
       }
     },
     "Licence SVT": {
@@ -1904,35 +1922,32 @@
         "S1 AVE": [19845],
         "S1 AVEC": [9198],
         "S1 AVEM": [19846],
-        "S1 AVEMC": [9199],
         "S1 AVM": [9200],
         "S1 AVMC1": [9201],
         "S1 AVMC2": [19847],
         "S1 G": [19848],
-        "S1 PS": [9204],
-        "S1 PSC": [9205],
-        "S1 PSE": [9206],
-        "S1 PSEM": [9207],
-        "S1 PSM": [9208],
-        "S1 PSMC": [9209],
+        "S1 P": [18760],
+        "S1 PA": [18761],
+        "S1 PS": [18762],
+        "S1 PSC": [18763],
+        "S1 PSE": [18764],
+        "S1 PSEM": [18765],
+        "S1 PSM": [18766],
+        "S1 PSMC": [18767],
+        "S1 PV": [18768],
         "S1 S1": [9268],
         "S1 S2": [19849],
         "S1 S3": [19850],
         "S1 SA": [9280],
         "S1 SAC": [9281],
         "S1 SAEC": [9282],
-        "S1 SAEM": [9283],
-        "S1 SAEMC": [9284],
         "S1 SAM": [9285],
         "S1 SAMC": [9286],
         "S1 SC": [9287],
-        "S1 SE": [9288],
         "S1 SEC": [19851],
-        "S1 SEM": [9289],
         "S1 SG": [19852],
         "S1 SGC": [9290],
         "S1 SGEC": [19853],
-        "S1 SGM": [9291],
         "S1 SGMC": [19854],
         "S1 SM": [9292],
         "S1 SMC": [9293],
@@ -1942,67 +1957,71 @@
         "S1 SVM": [19855],
         "S1 SVMC": [9297],
         "S1 VG": [9298],
-        "S1 VGC": [9299],
-        "S1 VGEMC": [9307],
         "S1 VGMC": [9314],
-        "S2 B": [6514],
         "S2 BC": [6518],
-        "S2 BCC": [6522],
-        "S2 BCMC": [6525],
+        "S2 BCI": [21685],
+        "S2 BCS": [21686],
         "S2 BE": [6527],
-        "S2 BEC": [6528],
-        "S2 BECE": [7577],
-        "S2 BEMC": [7596],
-        "S2 BEMCE": [7765],
-        "S2 BGC": [8123],
-        "S2 BGM": [8124],
-        "S2 BP": [8125],
-        "S2 C": [8126],
-        "S2 CC": [8127],
-        "S2 CE": [8128],
-        "S2 CM": [8129],
-        "S2 CMC": [8130],
+        "S2 BEI": [21687],
+        "S2 BEMI": [21688],
+        "S2 BG": [8123],
+        "S2 BGI": [8124],
+        "S2 BPMI": [8125],
+        "S2 BPIS": [21713],
+        "S2 BPMS": [21689],
+        "S2 BPS": [21690],
+        "S2 C1": [8126],
+        "S2 C2": [21691],
+        "S2 C3": [21692],
+        "S2 CI": [8128],
+        "S2 CS": [21693],
         "S2 E": [8131],
         "S2 EC": [8132],
-        "S2 ECC": [8133],
+        "S2 ECI": [8133],
+        "S2 ECMI": [21694],
+        "S2 ECS": [21695],
         "S2 EG": [8134],
-        "S2 EGC": [8135],
-        "S2 EGCE": [8136],
+        "S2 EGI1": [8135],
+        "S2 EGI2": [21696],
+        "S2 EGI3": [21697],
+        "S2 EGIS": [21698],
+        "S2 EGMI2": [21699],
+        "S2 EGS": [21700],
         "S2 EGM": [8137],
-        "S2 EGMC": [8138],
-        "S2 EGMCE": [8139],
-        "S2 EGME": [8140],
-        "S2 EPCE": [8141],
-        "S2 G": [8142],
-        "S2 GC": [8143],
-        "S2 GCC": [8144],
-        "S2 GCMCE": [8145],
-        "S2 GPMC": [8146],
+        "S2 EGMI1": [8138],
+        "S2 EPI": [21701],
+        "S2 EPMI": [21702],
+        "S2 EPS": [21703],
+        "S2 EP": [8141],
+        "S2 GI": [21704],
+        "S2 GP2": [21705],
+        "S2 GP3": [21706],
+        "S2 GPMI": [21707],
+        "S2 GPS": [21708],
+        "S2 GCMI": [8145],
+        "S2 GCS": [8144],
+        "S2 GP1": [8146],
         "S2 P": [8147],
         "S2 PASS 1": [8159],
         "S2 PASS 2": [8160],
-        "S2 PC": [8148],
-        "S2 PCC": [8149],
-        "S2 PCCE": [8150],
-        "S2 PCE": [8151],
-        "S2 PCMC": [8152],
-        "S2 WE": [8153]
+        "S2 PC1": [8148],
+        "S2 PC2": [21709],
+        "S2 PCI": [8149],
+        "S2 PCMI": [8152],
+        "S2 PCS": [21710],
+        "S2 PI": [21711],
+        "S2 PMI": [21712]
       },
       "L1 Lorient": {
         "S1 BP1": [2039],
         "S1 BP2": [990],
-        "S1 BP3": [6347],
-        "S1 BP4": [4077],
         "S1 EB1": [2029],
         "S1 EB2": [2056],
         "S1 EB3": [2070],
         "S1 EB4": [998],
-        "S1 EB5": [6314],
-        "S1 EG1": [2137],
         "S1 EG2": [2218],
         "S1 EG3": [787],
         "S1 GP1": [2010],
-        "S1 GP2": [997],
         "S1 Prégroupe TD prov 1": [3729],
         "S1 Prégroupe TD prov 2": [3745],
         "S1 Prégroupe TD prov 3": [3757],
@@ -2016,7 +2035,6 @@
         "S1 Prégroupe TP prov 7": [8058],
         "S1 Prégroupe TP prov 8": [8059],
         "S2 BG1": [8019],
-        "S2 BG2": [8020],
         "S2 BP1": [8009],
         "S2 BP2": [8010],
         "S2 BP3": [8011],
@@ -2024,129 +2042,70 @@
         "S2 CG1": [8024],
         "S2 CP1": [8022],
         "S2 CP2": [8023],
-        "S2 CP3": [8014],
-        "S2 CP4": [8015],
-        "S2 CP5": [8016],
-        "S2 CP6": [8025],
-        "S2 CP7": [9444],
-        "S2 CP8": [9445]
+        "S2 CP3": [8014]
       },
       "L2 Vannes": {
-        "S3 BC": [8399],
-        "S3 E": [19483],
-        "S3 EB": [19484],
-        "S3 EBM": [9276],
-        "S3 EBM4": [19337],
-        "S3 EBMr": [19485],
-        "S3 ED": [8604],
-        "S3 EDB3": [9275],
-        "S3 EDBr": [9274],
-        "S3 EDLa14": [9259],
-        "S3 EDLb15": [9260],
-        "S3 EDLc8": [9269],
-        "S3 EDLe5": [8605],
-        "S3 EDLr": [8602],
-        "S3 EL": [8603],
-        "S3 ELBa6": [19338],
-        "S3 ELBb5": [19339],
-        "S3 ELC": [19340],
-        "S3 ELM2": [9277],
-        "S3 ELMa7": [19341],
-        "S3 ELMb5": [19342],
-        "S3 ELMc6": [17056],
-        "S3 ELMd4": [19343],
-        "S3 ELMe3": [19345],
-        "S3 ELMv": [19344],
-        "S3 ELZ6": [17669],
-        "S3 ELZe": [17671],
-        "S3 ZBC": [19055],
-        "S3 ZBC9": [8405],
-        "S3 ZBCLas2": [8402],
-        "S3 ZBCLasa4": [19482],
-        "S3 ZBCLasb": [6398],
-        "S3 ZBCLasb3": [19486],
-        "S3 ZBCLase3": [8400],
-        "S3 ZBCb": [6395],
-        "S3 ZBCe": [8403],
-        "S3 ZBCr": [8426],
-        "S3 ZBCra": [19491],
-        "S3 ZBCrb": [19492],
-        "S3 ZBD": [8567],
-        "S3 ZBDLas2": [8548],
-        "S3 ZBDLase2": [8542],
-        "S3 ZBDe": [8550],
-        "S3 ZBDr": [8591],
-        "S3 ZBE": [18754],
-        "S3 ZBM16": [19489],
-        "S3 ZBM8": [6940],
-        "S3 ZBMLas10": [19487],
-        "S3 ZBMLase": [4278],
-        "S3 ZBMa6": [2385],
-        "S3 ZBMe": [19490],
-        "S3 ZBMe6": [1096],
-        "S3 ZBMlas2": [1094],
-        "S3 ZBMr": [8398],
-        "S3 ZDCLas8": [8601],
-        "S3 ZDM": [8597],
-        "S3 ZDMLas": [8592],
-        "S3 ZMC11": [19481],
-        "S3 ZMCLas6": [19488],
-        "S3 ZMCa6": [8434],
-        "S3 ZMCb8": [8532],
-        "S4 ACE2": [7112],
-        "S4 ACELas3": [7201],
-        "S4 ACIe": [9476],
-        "S4 AGP7": [9483],
-        "S4 AGPe": [9484],
+        "S3 EBMa1": [19485],
+        "S3 ELBa12": [19338],
+        "S3 ELBra1": [19339],
+        "S3 ELMa10": [19341],
+        "S3 ELMb11": [19342],
+        "S3 ELZa9": [17669],
+        "S3 EMa1": [17671],
+        "S3 ZBCa7": [19055],
+        "S3 ZBCLASa10": [19482],
+        "S3 ZBCLASb8": [19486],
+        "S3 ZBEa1": [18754],
+        "S3 ZBMa9": [19489],
+        "S3 ZBMLASa4": [19487],
+        "S3 ZMCa13": [19490],
+        "S3 ZMCLASa13": [8398],
+        "S3 ZMCra1": [19481],
+        "S3 ZMEa2": [19488],
+        "S4 AGPa7": [9483],
+        "S4 AGPb6": [9484],
+        "S4 AEM3": [21770],
         "S4 AIE": [7556],
-        "S4 APG5": [9477],
-        "S4 AZELas": [7561],
-        "S4 GPa": [9485],
-        "S4 GPb": [9486],
-        "S4 MAPa5": [9478],
+        "S4 AIZ": [21773],
+        "S4 AIZe": [21774],
+        "S4 AP": [21771],
+        "S4 APG2": [9477],
+        "S4 APZ4": [21772],
+        "S4 AZE": [21769],
+        "S4 MAPa7": [9478],
         "S4 MAPb7": [9479],
-        "S4 MAPc8": [9480],
-        "S4 MAPd4": [9481],
-        "S4 MAPe4": [9482],
-        "S4 MAPf7": [9487],
+        "S4 MAPe2": [9482],
+        "S4 N": [22536],
+        "S4 P": [21775],
         "S4 ZC": [7563],
-        "S4 ZIA2": [9475],
-        "S4 ZIC": [7575],
-        "S4 ZICLas": [7650],
-        "S4 ZICa12": [7564],
-        "S4 ZICaLas7": [7565],
-        "S4 ZICb9": [7566],
-        "S4 ZICbLas5": [7567],
-        "S4 ZICc7": [7569],
-        "S4 ZICe7": [7571],
-        "S4 ZICeA": [8165],
-        "S4 ZICeLas5": [7572]
+        "S4 ZIA3": [9475],
+        "S4 ZIALas": [21776],
+        "S4 ZIC": [22537],
+        "S4 ZICa14": [7564],
+        "S4 ZICaLas10": [7565],
+        "S4 ZICb3": [7566],
+        "S4 ZICbLas8": [7567],
+        "S4 ZICe4": [7571],
+        "S4 ZICeLas3": [7572]
       },
       "L2 Lorient": {
         "S3 ABC1": [7610],
-        "S3 ABC2": [5059],
         "S3 ABD1": [7612],
-        "S3 ABE1": [7613],
         "S3 ABF1": [3618],
-        "S3 ACD1": [3774],
-        "S3 ACE1": [5069],
         "S3 BCD1": [7614],
         "S3 BCD2": [2888],
-        "S3 BCD3": [4872],
         "S3 BCF1": [4464],
         "S3 BCF2": [917],
         "S3 tp2 provisoire": [19319],
         "S4 AB1": [6468],
         "S4 AB2": [6675],
         "S4 AB3": [6696],
-        "S4 AB4": [2841],
-        "S4 AB5": [2804],
-        "S4 AB6": [2805],
         "S4 AC1": [8122],
-        "S4 BC1": [7092],
+        "S3/S4 BC1": [19974, 7092],
         "S4 BE1": [2853]
       },
       "L3 Biologie Cellulaire et Moléculaire": {
+        "Alternants": [15984],
         "S5 C01a BGOTPA": [3732],
         "S5 C01b BGOTPA": [6186],
         "S5 C02a BGOPCA": [3728],
@@ -2164,34 +2123,21 @@
         "S6 C03a CINAU": [9459],
         "S6 C03b CINAU": [9460],
         "S6 C04 CIVAU": [9461],
-        "S6 C05Alt CVNU": [9462],
         "S6 C06 CN": [9463],
-        "S6 C07 CIVNAU": [9464],
-        "S6 C08 CV": [9465],
-        "S6 C09 CIV": [9466],
-        "C13 Anglais débutant": [7650]
+        "S6 C08 CV": [9465]
       },
       "L3 Biologie et Écologie générales": {
-        "S5 G1_IPD_BO": [3814],
-        "S5 G2_IPD_BO": [3837],
+        "S5 BG 1": [3814],
         "S6 B01a RVeBM": [9468],
         "S6 B01b RVeMV": [9469],
-        "S6 B01c RVeBM": [9470],
-        "S6 B01d RBMA": [9471],
-        "S6 B01e RBMV": [9472],
-        "S6 B01f RVEBA": [9473],
-        "S6 B01g RVeBV": [9498],
-        "C13 Anglais débutant": [7650]
+        "S6 B01c RVeBM": [9470]
       },
       "L3 Sciences de l'Environnement": {
-        "S5 E1_OID_SH (7)": [4035],
-        "S5 E2_OID_S (7)": [4009],
+        "S5 E1_OID_SH": [4035],
+        "S5 E2_OID_SB": [4009],
         "S6 S01 CGFBU": [9451],
         "S6 S02 RCGBU": [9452],
-        "S6 S03 RCGFU": [9453],
-        "S6 S04 RCFBU": [9454],
-        "S6 S05 RCFU": [9467],
-        "C13 Anglais débutant": [7650]
+        "S6 S03 RCGFU": [9453]
       },
       "L3 Bio Santé": {
         "TP1": [1901],
@@ -2210,8 +2156,7 @@
       "L1": {
         "A1": [7217, 5065],
         "A2": [2352, 5120],
-        "B1": [7220, 7783],
-        "B2": [9270, 7812],
+        "B1": [9014, 7783],
         "1/3 temps": [9389]
       },
       "L2": {
@@ -2229,15 +2174,12 @@
     },
     "Licence SES": {
       "L1": {
-        "Double diplôme Lettres-Sciences": [1242],
         "TP1": [636],
-        "TP2": [6702],
-        "TP3": [1980]
+        "TP2": [6702]
       },
       "L2": {
         "Gr1": [1569],
-        "Gr2": [1570],
-        "Gr PE": [2472]
+        "Gr2": [1570]
       },
       "L3": {
         "TP1": [5417],
@@ -2247,14 +2189,13 @@
     "Licence SNIO": {
       "L1": {
         "Groupe 1": [7233, 8030],
-        "Groupe 2": [4592, 7235],
+        "Groupe 2": [18758, 7235],
         "1/3 temps": [9388]
       },
       "L2": {
         "S3 Groupe 1": [1969],
         "S3 Groupe 2": [1095],
         "S4 Groupe 1": [7418],
-        "S4 Groupe 2": [8105],
         "1/3 temps": [9386]
       },
       "L3": {
@@ -2297,7 +2238,6 @@
         "S2 5B": [7219],
         "S2 5C1": [7225],
         "S2 5C2": [7227],
-        "S2 5D": [7231],
         "1/3 temps": [9394]
       },
       "L2": {
@@ -2310,7 +2250,6 @@
       },
       "L3 Génie civil": {
         "S5 TP1": [2177],
-        "S5 TP1-Esp 0": [9192],
         "S5 TP2": [4882],
         "S5 TP3-Esp 0": [4669],
         "S6 TP1": [3640],
@@ -2405,8 +2344,7 @@
         "Groupe 1": [4807, 5884]
       },
       "M2": {
-        "Groupe 1": [4778],
-        "Groupe 2": [7857]
+        "Groupe 1": [4778]
       }
     },
     "Master SAIM": {
@@ -2419,12 +2357,10 @@
     },
     "Master DSMS": {
       "M1": {
-        "STAT DSMS1": [1397, 5861],
-        "STAT DSMS2": [2910, 1766]
+        "STAT DSMS1": [1397, 5861]
       },
       "M2": {
-        "STAT DSMS1": [830],
-        "STAT DSMS2": [6145]
+        "STAT DSMS1": [830]
       }
     },
     "Master IGRCL": {
@@ -2453,8 +2389,7 @@
         "Grp 3": [2727],
         "Grp 4": [2506],
         "Grp 5": [2741],
-        "Grp BAM": [1585],
-        "Grp BIOMACROM": [1586]
+        "Grp BAM": [1585]
       }
     },
     "Master IABC": {
@@ -2478,7 +2413,6 @@
         "CYBERUS Software": [6898],
         "CYBERUS group 1": [2245],
         "CYBERUS group 2": [2338],
-        "EII Hispano": [92],
         "SESI": [1880],
         "OP & PI-Alt": [4834]
       },
@@ -2487,8 +2421,7 @@
         "ISC - CSSE - Non Alternants": [1858],
         "ISC - SESI": [689],
         "I-Mars": [1731],
-        "OP & PI-Alt": [496],
-        "OP & PI-Spé": [1296]
+        "OP & PI-Alt": [496]
       }
     },
     "Master Ingénierie Marine": {
@@ -2525,12 +2458,7 @@
       },
       "M2": {
         "TP1 All.": [5836],
-        "TP1 Esp.": [4608],
-        "TP1 FLE": [5848],
-        "TP1 Alt. All.": [5309],
-        "TP1 Alt. Esp.": [5854],
-        "TP1 Alt. FLE": [6789],
-        "TP2 Alt.": [8600]
+        "TP1 Esp.": [4608]
       }
     },
     "Master GMM": {
@@ -2577,14 +2505,6 @@
     }
   },
   "Autres Plannings": {
-    "Atouts réussite": {
-      "Toutes années": {
-        "G1 Lorient": [4534],
-        "G2 Lorient": [6048],
-        "G1 Vannes": [2747],
-        "G2 Vannes": [2784]
-      }
-    },
     "Université Temps Libre": {
       "Toutes années": {
         "UTL Anglais A1": [2180],
