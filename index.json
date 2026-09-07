@@ -387,7 +387,14 @@
         "TP2": [5630, 5673]
       },
       "5ème année": {
-        "TP1": [9994]
+        "CPR TP1": [6201],
+        "CPR EE TP1": [6471],
+        "ING TP1": [5518],
+        "ING EE TP1": [6370],
+        "CPR TP2": [2947],
+        "CPR EE TP2": [2137],
+        "ING TP2": [3197],
+        "ING EE TP2": [2999]
       }
     },
     "CyberDéfense": {
@@ -464,12 +471,18 @@
         "TD2 TPc2": [3356, 5418]
       },
       "5ème année": {
-        "TD1 TPa1": [8029],
-        "TD1 TPa2": [8031],
-        "TD2 TPb1": [9905],
-        "TD2 TPb2": [9908],
-        "TD2 TPc1": [9902],
-        "TD2 TPc2": [9901]
+        "ING TP1": [9743],
+        "ING EE TP1": [10810],
+        "MR TP1": [10814],
+        "MR EE TP1": [10815],
+        "ING TP2": [9744],
+        "ING EE TP2": [10842],
+        "MR TP2": [10845],
+        "MR EE TP2": [10844],
+        "ING TP3": [9745],
+        "ING EE TP3": [10843],
+        "MR TP3": [10846],
+        "MR EE TP3": [10847]
       }
     },
     "Génie Industriel": {
@@ -488,14 +501,14 @@
         "INI TP2": [603, 1141]
       },
       "5ème année": {
-        "APP ING TP1": [454],
-        "APP ING TP2": [2059],
-        "APP MR TP1": [2459],
-        "APP MR TP2": [2509],
-        "INI ING TP1": [701],
-        "INI ING TP2": [9986],
-        "INI MR TP1": [2558],
-        "INI MR TP2": [2794]
+        "APP ING TP1": [10898],
+        "APP ING TP2": [10903],
+        "APP MR TP1": [10899],
+        "APP MR TP2": [10904],
+        "INI ING TP1": [10884],
+        "INI ING TP2": [10913],
+        "INI MR TP1": [10895],
+        "INI MR TP2": [10914]
       }
     },
     "Mécatronique": {
@@ -514,47 +527,23 @@
         "MTE TP2": [2043, 6219]
       },
       "5ème année": {
-        "MTA TP1": [8034],
+        "MTA TP1": [11029],
         "MTA TP1 (I-MARS)": [6804],
-        "MTA TP2": [8035],
+        "MTA TP2": [11030],
         "MTA TP2 (I-MARS)": [6858],
-        "MTE TP1": [10002],
-        "MTE TP1 (I-MARS)": [7220]
+        "MTE TP1": [7389],
+        "MTE TP1 (I-MARS)": [7220],
+        "MTE TP2": [11181],
+        "MTE TP2 (I-MARS)": [11180]
       }
     },
     "PEI": {
       "1ère année": {
-        "Lorient PEI-D TP1": [2504, 2548],
-        "GR 1A1": [3543],
-        "SSI PEI-1 71": [4039, 6629],
-        "SSI PEI-1 72a": [333],
-        "SSI PEI-1 72b": [19067],
-        "SSI PEI-1 73": [1578, 5502],
-        "SSI PEI-1 72": [6619],
-        "SSI PEI-1 74": [5340]
+        "Lorient PEI-D TP1": [2504, 2548]
       },
       "2ème année": {
         "Vannes PEI-A TP1": [8951, 8685],
-        "Vannes PEI-A": [8670, 7519],
-        "Lorient PEI-D TP1": [3182, 3627],
-        "SSI PEI-2 71": [1745, 7420],
-        "SSI PEI-2 72": [1985, 9428],
-        "SSI PEI-2 73": [9473],
-        "PEI 1/3 temps": [9384],
-        "UE PEI CM": [2764],
-        "UE PEI TP1": [2774],
-        "UE PEI TP2": [7559],
-        "UE PEI TP3": [2258]
-      },
-      "UE optionnelles PEI1": {
-        "Intro GI-GC-EH PEI1 CM-TP": [640],
-        "Intro ENT PEI1 CM": [2895],
-        "Intro ENT PEI1 TP1": [3020],
-        "Intro ENT PEI1 TP2": [3739],
-        "Intro ENT PEI1 TP3": [1921],
-        "Complément électricité CM/TP": [7532],
-        "Préparation entretien alternance CM/TP": [8118],
-        "TOEIC blanc CM/TD": [8115]
+        "Lorient PEI-D TP1": [3182, 3627]
       }
     }
   },
@@ -563,7 +552,7 @@
       "Toutes années": {
         "Allemand G1": [3499],
         "Allemand G2": [4740],
-        "Cinéma DSEG Vannes": [8441],
+        "Cinéma DSEG Vannes": [1987],
         "Communication et entretiens professionnels": [4536],
         "Construire et communiquer sur son projet professionnel": [4902],
         "Cordées de la réussite": [7875],
@@ -738,40 +727,20 @@
         "Evt UBS": [7172]
       },
       "L3": {
-        "ADA L3D": [7109],
-        "Evt UBS": [7189],
-        "GF L3": [2922],
-        "Groupe 1": [7043],
-        "Groupe 2": [7045],
-        "Groupe 3": [7048],
-        "Groupe 4": [7053],
-        "Profil mixte - Groupe 1": [1503],
-        "Profil mixte - Groupe 1a": [8682],
-        "Profil mixte - Groupe 2": [5704],
-        "Profil mixte - Groupe 2a": [8683],
-        "Profil mixte - Groupe 3": [8684],
-        "Profil privatiste": [3546],
-        "Profil privatiste - Groupe 1": [2599],
-        "Profil privatiste - Groupe 2": [2718],
-        "Profil privatiste - Groupe 3": [5128],
-        "Profil publiciste - Groupe 1": [5966],
-        "Profil publiciste - Groupe 2": [1841],
+        "Profil mixte": [484],
+        "Profil privatiste - Groupe 1": [529],
+        "Profil privatiste - Groupe 2": [18215],
+        "Profil publiciste": [572],
         "Préparation concours": [2051],
         "Langues Tiers temps 1": [615],
-        "Langues AAR L3": [4280],
-        "Langues ALL L3D": [4459],
         "Langues ANG1": [4467],
         "Langues ANG2": [4465],
         "Langues ANG3": [4463],
         "Langues ANG4": [4399],
         "Langues ANG5": [5061],
         "Langues ANG6": [5917],
-        "Langues ESP1": [4461],
-        "Langues ESP2": [4570],
         "AO": [6045],
-        "HDA L3": [6587],
-        "HIE L3": [6598],
-        "PHILO L3": [3819],
+        "Projet Eloquence": [21945],
         "PREPARATION CONCOURS": [2051]
       }
     },
@@ -895,10 +864,7 @@
         "B": [4173],
         "C": [3786],
         "D": [9242],
-        "E": [9439],
-        "F": [9561],
         "ECOM 1": [979],
-        "ECOM 2": [1152],
         "EGO GPA": [185],
         "EGO MBF": [170],
         "EGO DHP": [8226],
@@ -914,21 +880,12 @@
         "Langues ESP2": [7803]
       },
       "L3 Economie Appliquée": {
-        "1/3 tps": [6322],
-        "DPI EA 1": [5449],
-        "DPI EA 2": [7632],
-        "DPI EA 3": [1242],
-        "EA ETE 1": [481],
-        "EA ETE 2": [4885],
+        "DPI EA": [5449],
+        "DPI EA 1": [373],
+        "EA ETE": [481],
+        "EA ETE 1": [876],
         "EA GPA": [5477],
         "EA HEG": [470],
-        "EDT": [7410],
-        "ES": [9437],
-        "G HEG": [9438],
-        "Langues AG1": [4387],
-        "Langues AG2": [4393],
-        "Langues AG3": [4394],
-        "Langues AG4": [1237],
         "Langues ALL": [4903],
         "ESP1": [4876]
       },
@@ -956,11 +913,6 @@
         "réunion ERASMUS": [2252]
       }
     },
-    "LP JURIDIQUES-Droit privé": {
-      "1ère année": {
-        "G1": [847]
-      }
-    },
     "LP Banque": {
       "1ère année": {
         "G1": [9362]
@@ -986,18 +938,10 @@
         "GrC CCA": [4869]
       },
       "M2 CCA": {
-        "G1 CCA": [4594],
-        "G2 CCA": [613],
-        "Anglais CCA": [2123],
-        "Anglais CCA-CGAO": [2415]
+        "M2 CCA": [4594]
       },
       "M2 CGAO": {
-        "Grpe 1 CGAO": [4599],
-        "Grpe 2 CGAO": [4567],
-        "Grpe A CGAO": [4568],
-        "Grpe CGAO": [1214],
-        "Anglais CGAO": [3602],
-        "Anglais CGAO-CCA": [3603]
+        "M2 CGAO": [4599]
       }
     },
     "Master Droit": {
@@ -1010,13 +954,10 @@
         "Evt UBS": [5264]
       },
       "M2 Droit privé - PCCA": {
-        "G1 PRIVE": [1651],
-        "G2 PRIVE": [5145],
-        "Evt UBS": [7192]
+        "M2 Droit privé - PCCA": [1651]
       },
       "M2 Droit public - JCAP": {
-        "G1 PUBLIC": [1648],
-        "G2 PUBLIC": [2730]
+        "M2 Droit public - JCAP": [2730]
       }
     },
     "Master GRH": {
@@ -1024,9 +965,7 @@
         "G1": [1566]
       },
       "M2": {
-        "G1": [6668],
-        "G2": [1575],
-        "G3": [594]
+        "M2 GRH": [6668]
       }
     },
     "Master MAE": {
