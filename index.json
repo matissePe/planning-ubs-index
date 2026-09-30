@@ -110,11 +110,10 @@
         "VCOD Gr C-FI": [7171],
         "VCOD Gr C1": [1997],
         "VCOD Gr C2": [1930],
-        "Option IA": [9998],
-        "Option SIG": [10186],
+        "Option SIG": [9101],
         "Option marketing": [6648],
         "Option maths": [7073],
-        "Option santé": [9101]
+        "Option santé": [10186]
       },
       "3ème année": {
         "GrA-EMS-FA": [8976],
@@ -1003,7 +1002,6 @@
     },
     "Master Marketing-vente": {
       "M1": {
-        "Examen all": [8287],
         "G1 Parcours Marketing Digital": [6651],
         "G1 Responsable Marketing et Businesse Developper": [4324]
       },
@@ -1295,12 +1293,10 @@
     },
     "Licence Histoire-Géographie": {
       "L1": {
+        "Histoire - Géographie": [7709],
         "OUI SI": [6486],
         "TD Gr1": [8868],
-        "TD Gr2": [19059],
-        "BU 1": [9107],
-        "BU 2": [9111],
-        "BU 3": [18753]
+        "BU 1": [9107]
       },
       "L2": {
         "Histoire - Géographie": [8870],
@@ -1308,9 +1304,7 @@
         "Histoire - Géographie gpe2": [8237]
       },
       "L3 Histoire-Géographie": {
-        "Histoire - Géographie": [4886],
-        "Histoire - Géographie gpe1": [6784],
-        "Histoire - Géographie gpe2": [6764]
+        "Histoire - Géographie": [4886]
       }
     },
     "Licence LEA": {
@@ -2052,7 +2046,6 @@
         "S3 ELMb11": [19342],
         "S3 ELZa9": [17669],
         "S3 EMa1": [17671],
-        "S3 ZBCa7": [19055],
         "S3 ZBCLASa10": [19482],
         "S3 ZBCLASb8": [19486],
         "S3 ZBEa1": [18754],
@@ -2509,12 +2502,10 @@
       "Toutes années": {
         "UTL Anglais A1": [2180],
         "UTL Anglais A2": [341],
-        "UTL Anglais A2bis": [20224],
         "UTL Anglais B1": [5642],
         "UTL Anglais B2": [2018],
         "UTL Anglais B2bis": [20225],
         "UTL Espagnol A0": [1955],
-        "UTL Espagnol A1/A2": [7925],
         "UTL Espagnol A2": [6699],
         "UTL Espagnol B1-B2": [1943]
       }
