@@ -505,8 +505,7 @@
     "Génie Industriel": {
       "3ème année": {
         "APP TP1 ANG1": [980, 1911],
-        "INI TP1": [5819, 10970],
-        "INI TP2": [85, 334]
+        "INI TP1": [5819, 10970]
       },
       "4ème année": {
         "APP TP1": [3361, 5428],
@@ -1297,8 +1296,7 @@
       },
       "L2": {
         "Histoire - Géographie": [8870],
-        "Histoire - Géographie gpe1": [8235],
-        "Histoire - Géographie gpe2": [8237]
+        "Histoire - Géographie gpe1": [8235]
       },
       "L3 Histoire-Géographie": {
         "Histoire - Géographie": [4886]
