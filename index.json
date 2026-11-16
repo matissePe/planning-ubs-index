@@ -505,9 +505,6 @@
     "Génie Industriel": {
       "3ème année": {
         "APP TP1 ANG1": [980, 1911],
-        "APP TP1 ANG2": [5822, 2845],
-        "APP TP2 ANG1": [1109, 1913],
-        "APP TP2 ANG2": [9147, 3803],
         "INI TP1": [5819, 10970],
         "INI TP2": [85, 334]
       },
@@ -2546,7 +2543,6 @@
         "Formations Espagnol": [5499],
         "Formations FLE Ateliers": [4040],
         "Formations FLE Niv B1-B2": [3506],
-        "Formations FLE Niv C1-C2": [5756],
         "Formations Cours semi-intensifs FLE A": [3725],
         "Formations Cours semi-intensifs FLE B": [7017],
         "Formations Cours semi-intensifs FLE C": [1107],
